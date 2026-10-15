@@ -11,7 +11,7 @@
 | Título | *Go-Tōbun no Hanayome ∬* (五等分の花嫁∬) |
 | Episodios | 12 |
 | Emisión original | Del **8 de enero al 26 de marzo de 2021** (TBS, madrugada del viernes) |
-| Capítulos de manga adaptados | **33 al 84, aproximadamente** (tomos 5 a 10) — verificado |
+| Capítulos de manga adaptados | **33 al 86** (tomos 5 a 10) — verificado |
 | Estudio | Bibury Animation Studios (バイブリー) |
 | Directora (監督) | Kaori (かおり) |
 | Composición de serie (シリーズ構成) | Keiichirō Ōchi (大知慶一郎) |
