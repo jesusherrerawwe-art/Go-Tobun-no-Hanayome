@@ -15,7 +15,7 @@
 | 5 | [Personajes principales](05-personajes-principales.md) | ✅ Completa |
 | 6 | [Personajes secundarios](06-personajes-secundarios.md) | ✅ Completa |
 | 7 | [Diferencias entre el anime y el manga](07-diferencias-anime-manga.md) | ✅ Completa |
-| 8 | Otros medios (juegos, música, etc.) | Pendiente |
+| 8 | [Otros medios (juegos, música, etc.)](08-otros-medios.md) | ✅ Completa |
 | 9 | Datos curiosos | Pendiente |
 | 10 | Mestizos y extranjeros en Japón (hāfu) | Pendiente |
 
