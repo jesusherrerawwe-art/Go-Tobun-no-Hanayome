@@ -11,7 +11,7 @@
 | 1 | [Historia detrás del anime (producción)](01-historia-produccion.md) | ✅ Completa |
 | 2 | [Temporada I — capítulos (con spoilers)](02-temporada-i.md) | ✅ Completa |
 | 3 | [Temporada II — capítulos (con spoilers)](03-temporada-ii.md) | ✅ Completa |
-| 4 | La película — resumen completo | Pendiente |
+| 4 | [La película — resumen completo](04-pelicula.md) | ✅ Completa |
 | 5 | Personajes principales | Pendiente |
 | 6 | Personajes secundarios | Pendiente |
 | 7 | Diferencias entre el anime y el manga | Pendiente |
