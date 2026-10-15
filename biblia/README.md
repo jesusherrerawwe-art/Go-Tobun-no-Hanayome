@@ -17,7 +17,7 @@
 | 7 | [Diferencias entre el anime y el manga](07-diferencias-anime-manga.md) | ✅ Completa |
 | 8 | [Otros medios (juegos, música, etc.)](08-otros-medios.md) | ✅ Completa |
 | 9 | [Datos curiosos](09-datos-curiosos.md) | ✅ Completa |
-| 10 | Mestizos y extranjeros en Japón (hāfu) | Pendiente |
+| 10 | [Mestizos y extranjeros en Japón (hāfu)](10-mestizos-extranjeros-japon.md) | ✅ Completa |
 
 ## Cómo usar esta biblia
 
@@ -27,3 +27,7 @@
 
 ---
 *Proyecto de fan, sin fines de lucro. Go-Tōbun no Hanayome es propiedad de Negi Haruma / Kodansha.*
+
+---
+
+**Estado del proyecto:** 🎉 Las 10 secciones están completas (15 de octubre de 2026).
