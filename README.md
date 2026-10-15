@@ -22,6 +22,7 @@
 - Notas del autor
 - Ilustraciones y arte conceptual
 - 🎨 [Arte oficial del anime](arte-oficial/README.md)
+- 👤 [Jesús Fujioka Hernández (personaje original)](personajes/jesus-fujioka/README.md)
 
 ---
 
