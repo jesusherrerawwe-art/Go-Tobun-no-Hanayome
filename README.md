@@ -1,10 +1,14 @@
-# Go-Tōbun no Hanayome
+<p align="center">
+  <img src="assets/poster.png" alt="Go-Tōbun no Hanayume Poster" width="480">
+</p>
 
-## The Fujioka Variable (Original Light Novel) 🇲🇽❤️🇯🇵
+<h1 align="center">Go-Tōbun no Hanayome</h1>
 
-Una novela ligera original inspirada en el universo de *Go-Tōbun no Hanayome* (The Quintessential Quintuplets).
+<h2 align="center">The Fujioka Variable (Original Light Novel) 🇲🇽❤️🇯🇵</h2>
 
-> Historia de fan original escrita con cariño desde México para el mundo. 🇲🇽❤️🇯🇵
+<p align="center"><em>Una novela ligera original inspirada en el universo de <strong>Go-Tōbun no Hanayome</strong> (The Quintessential Quintuplets).</em></p>
+
+<p align="center"><strong>Historia de fan original escrita con cariño desde México para el mundo. 🇲🇽❤️🇯🇵</strong></p>
 
 ---
 
