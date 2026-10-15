@@ -19,7 +19,7 @@
 | Diseño de personajes | Masato Katsumata (勝又聖人) |
 | Dirección de arte | Akihito Ōgiyama (扇山秋仁) |
 | Música | Hanae Nakamura (中村巴奈重) y Miki Sakurai (櫻井美希) |
-| Capítulos de manga adaptados | Los **tomos 11–14**, el final del manga (aprox. capítulos 85–122) |
+| Capítulos de manga adaptados | Los **tomos 11–14** (capítulos 87–122), el final del manga; los caps. 91–93 los cubre el especial de TV ∽ (2023) |
 
 - Con esta película, TBS declaró **concluida la animación de la franquicia**: es el final canónico de la historia. Los especiales de TV posteriores (∽, 2023; ＊, 2024) son historias extra fuera de ese arco final.
 - El reparto repite íntegro: Yoshitsugu Matsuoka (Futaro) y Kana Hanazawa, Ayana Taketatsu, Miku Itō, Ayane Sakura e Inori Minase como las quintillizas.
