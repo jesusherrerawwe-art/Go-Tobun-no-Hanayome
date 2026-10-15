@@ -12,7 +12,7 @@
 | 2 | [Temporada I — capítulos (con spoilers)](02-temporada-i.md) | ✅ Completa |
 | 3 | [Temporada II — capítulos (con spoilers)](03-temporada-ii.md) | ✅ Completa |
 | 4 | [La película — resumen completo](04-pelicula.md) | ✅ Completa |
-| 5 | Personajes principales | Pendiente |
+| 5 | [Personajes principales](05-personajes-principales.md) | ✅ Completa |
 | 6 | Personajes secundarios | Pendiente |
 | 7 | Diferencias entre el anime y el manga | Pendiente |
 | 8 | Otros medios (juegos, música, etc.) | Pendiente |
