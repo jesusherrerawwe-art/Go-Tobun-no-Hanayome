@@ -9,7 +9,7 @@
 | # | Sección | Estado |
 |---|---|---|
 | 1 | [Historia detrás del anime (producción)](01-historia-produccion.md) | ✅ Completa |
-| 2 | Temporada I — capítulos (con spoilers) | Pendiente |
+| 2 | [Temporada I — capítulos (con spoilers)](02-temporada-i.md) | ✅ Completa |
 | 3 | Temporada II — capítulos (con spoilers) | Pendiente |
 | 4 | La película — resumen completo | Pendiente |
 | 5 | Personajes principales | Pendiente |
