@@ -26,7 +26,7 @@
 - Los datos fueron investigados prioritariamente en fuentes japonesas (Wikipedia JP, sitio oficial de TBS, comunicados de Kodansha) y verificados antes de publicarse.
 
 ---
-*Proyecto de fan, sin fines de lucro. Go-Tōbun no Hanayome es propiedad de Negi Haruma / Kodansha.*
+*Proyecto de fan, sin fines de lucro. Go-Tōbun no Hanayome es propiedad de Negi Haruba / Kodansha.*
 
 ---
 
