@@ -21,6 +21,7 @@
 - Capítulos de la novela ligera
 - Notas del autor
 - Ilustraciones y arte conceptual
+- 🎨 [Arte oficial del anime](arte-oficial/README.md)
 
 ---
 
