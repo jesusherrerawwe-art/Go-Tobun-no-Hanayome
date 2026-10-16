@@ -113,19 +113,28 @@ O sea: la curva que el capítulo 2 describe sin saberlo **es la curva real de la
 
 ---
 
-## 7. Pendientes
+## 7. Las tres decisiones de Chuy (16-oct-2026, tras el capítulo 4) y sus consecuencias
 
-- ⏳ **¿Dónde está Futaro en este universo?** La etiqueta del cuaderno dice *Preparatoria Asahi*, así que el tutor anterior era alumno de la misma escuela. ¿En 3-C con Jesús? ¿En otro salón? ¿Ya no está? **Preguntado a Chuy (ask-user del 16-oct).**
-- ⏳ **De quién es la primera mitad del cuaderno** (la letra de chica: apuntes, dibujos, el mapa de Asia con estrellas y el **¿Por qué?** subrayado y circulado). **Preguntado a Chuy (ask-user del 16-oct).**
-- ⏳ **Retrofit de la regla del renglón largo en los capítulos 1-3** (los tres están aprobados; no los toco sin permiso). **Preguntado a Chuy (ask-user del 16-oct).**
+| # | Decisión | Consecuencia para el tomo |
+|---|---|---|
+| 1 | **Futaro está en Asahi, en otro salón de tercero** | Vive en el mismo edificio escolar que Jesús y que las cinco, a un pasillo de distancia, y **nadie lo menciona**. Eso lo vuelve un rumor: existe, está, y el lector va a empezar a buscarlo en cada escena de pasillo. *(La letra exacta del salón se fija en su primera escena; no antes.)* |
+| 2 | **La primera mitad del cuaderno del parque es de Yotsuba** | El cuaderno tiene dos manos: la de **Yotsuba** (letra redonda: apuntes, los dibujitos del pájaro, la bicicleta y el castillo, el mapa de Asia con tres estrellas, y ese **「¿Por qué?」** subrayado dos veces y circulado) y la del **tutor anterior** (letra dura: cuadros, flechas, la tabla de las cinco y la lista del 8 de marzo). O sea: **el cuaderno que Jesús levantó del suelo es el cuaderno que Yotsuba perdió llorando, y adentro está todo lo que el maestro que se fue escribió sobre las cinco.** Y el narrador todavía no lo sabe. |
+| 3 | **Los capítulos 1, 2 y 3 no se tocan** | La regla del renglón largo rige **desde el capítulo 4**. Los tres primeros quedan tal como Chuy los aprobó: eso los convierte, de aquí en adelante, en la parte del tomo escrita en el estilo viejo. |
+
+**Nota de escritora sobre la decisión 2:** el último renglón del capítulo 4 (*«La chica del columpio tenía un listón. Y hoy le vi el listón a alguien.»*) acaba de ganar un segundo piso que yo no había previsto cuando lo escribí: si el cuaderno es de Yotsuba, entonces lo que el narrador tiene en el cajón de su escritorio no es la basura de un tutor, es **una cosa de ella**. Y él ya decidió, sin saberlo, no abrirlo.
+
+## 8. Pendientes (actualizado)
 - ⏳ El prólogo del volumen.
 - ⏳ El motivo final del trabajo.
 - ⏳ La promesa del tartamudeo (una frase larga en español, sin tropiezo).
 - ⏳ La cuarta risa de la escalera de las cuatro risas.
+- ⏳ La letra exacta del salón de Futaro (3-B / 3-D) — se decide en su primera escena.
+- ⏳ El trabajo de Ichika (los martes, y probablemente más días).
+- ⏳ Cuándo y cómo se le revela al narrador de quién era el cuaderno.
 
 ---
 
-## 8. Cronología interna (actualizada)
+## 9. Cronología interna (actualizada)
 
 | Cuándo | Qué |
 |---|---|

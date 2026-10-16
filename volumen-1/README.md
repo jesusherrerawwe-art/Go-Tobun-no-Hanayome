@@ -61,6 +61,14 @@
 
 **Y dos decisiones más, del mismo 16 de octubre de 2026 (después del capítulo 3):** el papá de Jesús se llama **Héctor Fujioka Camarena** y está **enterrado en México** — el cuerpo al otro lado del mar.
 
+**Y tres decisiones más de Chuy, del mismo 16 de octubre (después del capítulo 4):**
+
+| # | Decisión | Consecuencia |
+|---|---|---|
+| 5 | **Futaro está en Asahi, en otro salón de tercero** | A un pasillo de distancia, y nadie lo nombra todavía |
+| 6 | **La primera mitad del cuaderno del parque es de Yotsuba** | El cuaderno tiene dos manos: la suya y la del tutor anterior. Jesús tiene, en un cajón, una cosa de ella. |
+| 7 | **Los capítulos 1, 2 y 3 no se tocan** | La regla del renglón largo rige desde el capítulo 4 |
+
 ## 5. Reglas de esta carpeta
 
 - **Nada entra al manuscrito sin hoja de continuidad.** La cláusula 2 del pacto: verdad antes que flores.
