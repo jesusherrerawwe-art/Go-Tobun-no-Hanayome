@@ -173,7 +173,14 @@ Y la novela es la historia de lo que pasa cuando, por primera vez, alguien lo ve
 
 ---
 
-## 7. Lo que necesito que decidas (nada urgente — me pediste tiempo y te lo respeto)
+## 7. Las seis decisiones — ✅ RESPONDIDAS EL 16/10/2026
+
+> **Ya no es una lista abierta.** Chuy las firmó todas: los tenis son tic del personaje, la consola es doble (DS vieja mexicana + 3DS japonés), el saco es regalo de su papá, el 藤紫 queda oficial, **el perro es suyo y se llama Nobunaga**, y la risa con la boca abierta llega en el último tercio.
+> El desarrollo completo —incluido el perro, sus rituales y su voz— está en **`docs/jesus-rituales-voz-canon-visual.md`**.
+>
+> La lista original se conserva abajo, como registro de las preguntas y los votos:
+
+### Lista original de decisiones
 
 1. **Los tenis adentro**: ¿accidente o tic del personaje? (Mi voto: tic, y que su mamá se desespere por teléfono.)
 2. **La consola**: ¿mexicana bloqueada, japonesa que le enseñó a leer, o las dos (DS vieja + 3DS)? (Mi voto: las dos.)
