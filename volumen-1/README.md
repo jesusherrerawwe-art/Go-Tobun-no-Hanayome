@@ -12,7 +12,7 @@
 | **Obra** | *The Fujioka Variable* — novela ligera *slice of life* + *ecchi* de situación, en el universo de *Go-Tōbun no Hanayome* |
 | **Protagonista** | Jesús Fujioka Hernández (藤岡 ヘスス) |
 | **Este tomo** | Volumen 1: **15 capítulos** + prólogo y epílogo de tomo *(Chuy decidió el 16/10/2026 partir el capítulo 1 en dos: el capítulo 1 era de ~8,000 palabras y el corte natural existía. El Volumen 2 definirá su número cuando lleguemos)* |
-| **Extensión** | Capítulos de **4,500 palabras para arriba** (meta fijada con Chuy); el tomo apunta a **~65,000-70,000 palabras** — el tamaño de una novela ligera japonesa publicada. Escritos: cap. 1: 4,619 · cap. 2: 3,429 · cap. 3: 5,698 |
+| **Extensión** | Capítulos de **4,500 palabras para arriba** (meta fijada con Chuy); el tomo apunta a **~65,000-70,000 palabras** — el tamaño de una novela ligera japonesa publicada. Escritos: cap. 1: 4,619 · cap. 2: 3,429 · cap. 3: 5,698 · cap. 4: 7,557 |
 | **Cierre del tomo** | Victoria + grieta + gancho al verano *(aprobado por Chuy)* |
 | **Persona narrativa** | **Primera persona de Jesús** + interludios en tercera *(aprobado por Chuy)* |
 | **Marco temporal** | **El "día 2000"** *(aprobado por Chuy el 16/10/2026)*: el día 1 será el **lunes 24 de abril de 2017** —el día en que Jesús entra a la casa de las Nakano— y el día 2000 caerá el **14-15 de octubre de 2022**. El lector camina hacia una boda sin saber de quién. Desde el capítulo 3, cada capítulo se encabeza con su número de día (día 1 = 24-abr-2017); los capítulos 1 y 2 llevan solo la fecha, porque son los días *antes* del día 1 |
@@ -37,6 +37,9 @@
 | `carta-capitulo-03.md` | La carta del capítulo 3: el capítulo-contrato, las cinco cláusulas y el reparto de la tarde del día 1 | ✅ Escrita |
 | `capitulo-03-los-cinco-pares-de-zapatos.md` | **Capítulo 3 — «Los cinco pares de zapatos»** (el día 1: la cita con Ebata, el piso 20, la casa de las cinco y la firma del contrato) | ✅ Escrito — 5,698 palabras |
 | `continuidad-capitulo-03.md` | Hoja de continuidad y autorrevisión del capítulo 3 (16 correcciones, verificación canónica y de lore, preparación Wattpad, semillas) | ✅ Escrita |
+| `carta-capitulo-04.md` | La carta del capítulo 4: el capítulo con forma de plan de clase y el reparto de la primera clase | ✅ Escrita |
+| `capitulo-04-la-regla-de-tres.md` | **Capítulo 4 — «La regla de tres»** (el día 2: la primera clase, el vaso de té, el curry y los cinco papeles) | ✅ Escrito — 7,557 palabras |
+| `continuidad-capitulo-04.md` | Hoja de continuidad del capítulo 4 (15 correcciones, el hallazgo de la tabla canónica, preparación Wattpad y 12 semillas) | ✅ Escrita |
 
 ## 4. Decisiones que se tomaron al abrir el tomo
 
@@ -62,6 +65,7 @@
 
 - **Nada entra al manuscrito sin hoja de continuidad.** La cláusula 2 del pacto: verdad antes que flores.
 - **Cada capítulo tiene su carta antes de su prosa.** Si Chuy pide saltarla, se salta; el método no se negocia, pero el cliente manda.
+- **El renglón largo (—) es exclusivo de los diálogos** (regla de Chuy, 16 de octubre de 2026): la narración usa comas, dos puntos, paréntesis y puntos suspensivos. Verificado por script en el capítulo 4.
 - **El lore sellado manda.** `docs/lore-oficial-jesus-fujioka.md` está por encima de cualquier documento anterior, y la biblia de la obra original está por encima de todos nosotros.
 
 ---
