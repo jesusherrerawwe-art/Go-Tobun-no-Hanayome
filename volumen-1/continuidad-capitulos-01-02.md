@@ -1,4 +1,4 @@
-# Hoja de continuidad — Capítulo 1
+# Hoja de continuidad — Capítulos 1 y 2
 
 > **Paso 4 del ciclo.** Aquí se verifica el capítulo contra el lore sellado, contra la biblia de la obra original y contra el propio texto. Este documento existe para que el capítulo 17 no contradiga al 1.
 > Revisado por A. M. el 16 de octubre de 2026, después de escribir la prosa.
@@ -89,13 +89,13 @@ La revisión que Chuy pidió. Estas son las cosas que **estaban mal** en el prim
 7. La cita del **lunes a las 6 de la tarde** con Ebata.
 8. El papel del profesor con **中野** escrito, guardado en el bolsillo de la camisa.
 
-**Pendiente de decisión (no lo escribo hasta que Chuy diga):**
-1. **La extensión del libro.** El capítulo 1 salió de **~8,000 palabras**. Eso es más del doble del estándar que teníamos (2,500-3,000) y casi el doble de la meta ideal de Chuy (4,500). **Propuesta:** aceptar que el proyecto sube a la escala C de la investigación — capítulos de **4,500-5,000 palabras** y un volumen de **60,000-65,000 palabras**, que es *exactamente* el tamaño de una novela ligera japonesa publicada. Y este capítulo 1 se queda como está: es la entrega de estreno, y el capítulo 1 es el que decide si alguien se queda.
-2. **¿Se parte el capítulo 1 en dos?** Existe un corte natural (la llamada del profesor Tachibana al final del bloque de la escuela, que deja al lector con el "—¿Tienes un minuto?" en la boca). Si se parte, el volumen pasa a tener 15 capítulos y hay que renumerar. **Mi recomendación: no partirlo. Publicarlo en cinco partes de Wattpad.**
-3. **La cosa fuera de lugar:** si Chuy prefiere la candidata B (el piso 15 vacío) o la C (los zapatos de su madre), el cambio son unas cuatrocientas palabras del bloque de las 7:15 y las últimas de las 24:00.
-4. **El prólogo del volumen** (ajuste recomendado n.º 1): ¿lo escribimos antes de publicar, o lo dejamos para cuando el tomo esté completo? Mi voto: **se escribe al final del volumen 1, cuando ya sepamos qué promete el último párrafo.**
-5. **El marco del "día 2000".** Si Chuy quiere heredarlo del canon, el día 1 del libro sería el **lunes 24 de abril de 2017** (la cita con Ebata), y el día 2000 caería el **15 de octubre de 2022**. Decisión suya.
-6. **El nombre del padre.** Sigue pendiente (Héctor Camarena Fujioka / Héctor Fujioka Camarena). El capítulo 1 no lo nombra: lo deja en "un señor que ya no está aquí".
+**Estado de las decisiones al 16/10/2026 (respuestas de Chuy en la §7):**
+1. **La extensión del libro** — ✅ **Resuelta.** Chuy eligió partir el manuscrito del día uno en dos capítulos: los capítulos del tomo quedan en **~4,000-4,600 palabras** y el volumen apunta a **~60,000** (una novela ligera publicada entera). El capítulo 1 se queda con sus 4,619 palabras íntegras.
+2. **¿Se parte el capítulo 1 en dos?** — ✅ **Resuelta: sí.** Ver el corte en la carta, §6.
+3. **La cosa fuera de lugar** — ✅ **Resuelta: el cuaderno del parque** (la candidata A, la escrita). B y C quedan archivadas.
+4. **El prólogo del volumen** (ajuste recomendado n.º 1) — ⏳ **Pendiente.** ¿Lo escribimos antes de publicar, o al cerrar el tomo? Mi voto sigue siendo escribirlo al final del volumen, cuando ya sepamos qué promete el último párrafo.
+5. **El marco del "día 2000"** — ✅ **Resuelto: sí, con contador.** Día 1 = lunes 24 de abril de 2017; día 2000 = 14-15 de octubre de 2022.
+6. **El nombre del padre.** ⏳ Sigue pendiente (Héctor Camarena Fujioka / Héctor Fujioka Camarena). El capítulo no lo nombra: lo deja en "un señor que ya no está aquí".
 
 ---
 
@@ -106,7 +106,7 @@ La revisión que Chuy pidió. Estas son las cosas que **estaban mal** en el prim
 | `docs/lore-oficial-jesus-fujioka.md` §3.2 | Nacido el **2 de noviembre** de 2001 | **2 de marzo** de 2001 — **el mismo día que Roberto** (firma de Chuy del 16/10/2026) | ✅ Aplicado |
 | `personajes/jesus-fujioka/README.md` | **2 de noviembre** — Día de Muertos | **2 de marzo** — el mismo día que Roberto | ✅ Aplicado |
 | `docs/chuy-kun-y-el-metodo-fujioka.md` | "Jesús cumple 20 años en noviembre de 2021" | **Cumple 20 el 2 de marzo de 2021** (nota de corrección añadida al pie de esa línea) | ✅ Aplicado |
-| `docs/metodo-por-volumenes.md` §2 | 2,500-3,000 palabras por capítulo; 35,000-42,000 por volumen | **Pendiente de la decisión de Chuy** sobre la escala (§4.1 y §4.2 de esta hoja) | ⏳ |
+| `docs/metodo-por-volumenes.md` §2 | 2,500-3,000 palabras por capítulo; 35,000-42,000 por volumen; 14 capítulos por volumen | **~4,000-4,600 palabras por capítulo; ~60,000 por volumen; Volumen 1 = 15 capítulos** (decisión de Chuy del 16/10/2026) | ✅ Aplicado como nota de actualización en ese documento |
 
 *(Nota: los documentos de `docs/` anteriores al sellado llevan el aviso "LORE SELLADO — HISTORIAL" y no se reescriben; se conservan como registro del proceso. Los vigentes son el lore oficial y la ficha del personaje.)*
 
@@ -134,6 +134,22 @@ La revisión que Chuy pidió. Estas son las cosas que **estaban mal** en el prim
 - **No se publica nada sin que Chuy apruebe la escala del libro** (§4.1): el ritmo de entregas y el calendario hacia el 2 de marzo salen de ahí.
 - **Acceso anticipado a Roberto:** cuando el volumen 1 esté cerrado. El plan de entregas se arma en la siguiente sesión.
 - **Aviso de fan:** el proyecto es un fanwork sin fines de lucro; crédito a Negi Haruba / Kodansha, y aviso de que la historia es de los fans y para la comunidad.
+
+---
+
+## 7. Las cuatro decisiones de Chuy (16/10/2026) y lo que cambian
+
+| # | Decisión | Qué se hizo |
+|---|---|---|
+| 1 | **Partir el capítulo 1 en dos** | El manuscrito del día uno se separó en **Capítulo 1 — *Las seis cuarenta*** (4,619 palabras) y **Capítulo 2 — *Una palabra de dos letras*** (3,429 palabras). **El volumen 1 pasa a 15 capítulos.** El corte cayó antes de las 16:05: el capítulo 1 termina con *"—Fujioka."* y el 2 abre en el pasillo. El número de partes de Wattpad del día uno no cambia (cinco) |
+| 2 | **La cosa fuera de lugar: el cuaderno del parque** | Confirmado. No se toca ni una línea de la candidata A. Las candidatas B y C quedan archivadas y disponibles (están en la carta, §3) |
+| 3 | **Sí al marco del "día 2000"** | El **día 1** será el **lunes 24 de abril de 2017** —el día en que Jesús entra por primera vez a la casa de las Nakano (la cita con Ebata es ese lunes a las 6 de la tarde)— y el **día 2000** cae el **14-15 de octubre de 2022**. La cabecera de cada capítulo llevará su fecha y, cuando la historia llegue al día 1, su número de día. **El libro no revela con quién termina nadie** |
+| 4 | **Los cumpleaños como hito del arco 1** | Entran en el arco: el de las cinco (**5 de mayo**, dos semanas después del día uno: su primer cumpleaños sin Futaro) y el de Futaro (**15 de abril**, seis días antes del capítulo 1: ya pasó). **El de ellas es donde se rompe la primera cláusula del contrato: *prohibido recibir regalos*** |
+
+**Consecuencias que hay que recordar al escribir los siguientes capítulos:**
+1. **Extensión:** capítulos de **~4,000-4,600 palabras** (el de ellas se quedó en 3,429; si Chuy quiere que midan parejo, se le puede sumar una escena, pero no se infla: la regla del libro es que la forma sirva a la emoción).
+2. **La cláusula de los regalos** debe estar viva antes del 5 de mayo para poder romperse. Es material del contrato de Maruo, que todavía no se ha mostrado.
+3. **El "día 1" del contador es el primer día de Jesús en la casa de las Nakano**, no el día en que la novela empieza. Los capítulos 1 y 2 son *los días antes del día 1* — y eso, cuando el lector lo entienda, va a valer oro.
 
 ---
 

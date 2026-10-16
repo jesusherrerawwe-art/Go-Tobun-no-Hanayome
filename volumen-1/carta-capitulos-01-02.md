@@ -1,4 +1,4 @@
-# Carta del capítulo 1 — *Las seis cuarenta y una palabra*
+# Carta de los capítulos 1 y 2 — *Las seis cuarenta* / *Una palabra de dos letras*
 
 > **Paso 1 del ciclo de trabajo.** Una carta por capítulo: qué tiene que pasar, qué tiene que sentir el lector, dónde empieza, dónde termina, qué imagen se queda, y **su diseño**. Chuy la aprueba o la rompe.
 > Escrita el 16 de octubre de 2026, después de revisar la biblia completa, el lore sellado, la ficha de personaje y las fuentes del canon.
@@ -87,13 +87,29 @@ La regla que firmamos: en la mañana de Jesús hay **una sola** cosa que no enca
 
 | Dato | Detalle |
 |---|---|
-| **Título** | *Las seis cuarenta y una palabra* |
+| **Títulos** | Capítulo 1: *Las seis cuarenta* · Capítulo 2: *Una palabra de dos letras* |
 | **Fecha en la historia** | Viernes 21 de abril de 2017 (primavera de Aichi, tercera semana del año escolar) |
 | **Narrador** | Jesús, primera persona, pasado |
 | **Extensión** | **~8,000 palabras.** Salió el doble de la meta ideal (4,500): es la entrega de estreno, y el capítulo 1 es el que decide si el lector se queda. ⚠️ Obliga a decidir la escala del libro (ver `continuidad-capitulo-01.md` §4) |
 | **Partes de Wattpad** | **5 partes de ~1,600 palabras** con gancho propio *(la investigación de longitudes: 1,500-2,500 es el punto dulce de la plataforma; 1,500 palabras ≈ 3,000 caracteres, el episodio ideal japonés)* |
 | **Etiquetas** | Slice of life · Romance · Amistad · Comedia · Drama · Mestizaje · Mature (17+) |
 | **Gancho final** | Un chico tiene un trabajo nuevo y la letra de otro en la mochila |
+
+---
+
+## 6. El corte: cómo el día uno se volvió dos capítulos
+
+**Decisión de Chuy, 16 de octubre de 2026:** el manuscrito del día uno salió de ~8,000 palabras y él eligió **partirlo en dos capítulos** antes que recortarlo o dejarlo entero. El corte no fue por longitud, fue por respiración: se hizo en el punto donde el día deja de ser rutina.
+
+| | Capítulo 1 — *Las seis cuarenta* | Capítulo 2 — *Una palabra de dos letras* |
+|---|---|---|
+| **Cubre** | 6:12 a 15:40 | 16:05 a 24:00 |
+| **Qué es** | El día entero de un chico al que no le pasa nada… hasta que el cuaderno se sale del horario | El día en que dice "yo" y el día en que entiende lo que eso significa |
+| **Extensión** | 4,619 palabras | 3,429 palabras |
+| **Termina con** | *"—Fujioka."* — su nombre, en boca del profesor, sin que sepa todavía qué le van a pedir | *"**Yo.**"* — la palabra dicha en la oscuridad |
+| **Partes de Wattpad** | 3 | 2 |
+
+*(El total de partes del día uno sigue siendo **cinco**, con los mismos cortes que ya estaban previstos: el corte entre capítulos cae justo donde la parte 3 terminaba.)*
 
 ---
 

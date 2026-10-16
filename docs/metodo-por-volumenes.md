@@ -4,6 +4,13 @@
 > **Mi respuesta: aceptado, y es la decisión correcta.** Aquí explico por qué, cómo vamos a trabajar, y qué hace falta para no perder el rumbo.
 > El Plan de Acción queda **oficialmente reformado**: ya no es un documento de 28 capítulos; es un **método**.
 
+> ## 📌 ACTUALIZACIÓN — 16 de octubre de 2026 (decisiones de Chuy)
+> 1. **El capítulo 1 se partió en dos** (era de ~8,000 palabras y existía un corte natural). **El Volumen 1 tiene 15 capítulos**, no 14; el número del Volumen 2 se decidirá al llegar.
+> 2. **La escala sube:** los capítulos quedan en **~4,000-4,600 palabras** y el volumen apunta a **~60,000** — el tamaño de una novela ligera japonesa publicada. Sustituye a los 2,500-3,000 de la §2 de este documento.
+> 3. **Se hereda el marco del "día 2000":** día 1 = lunes 24 de abril de 2017; día 2000 = 14-15 de octubre de 2022.
+> 4. **Los cumpleaños entran como hito del primer arco** (el de las cinco, 5 de mayo: su primero sin Futaro, y donde se rompe la cláusula de "prohibido regalos").
+> 5. La **primera persona de Jesús con interludios en tercera** queda aprobada, junto con los tres ajustes de la investigación de longitudes (prólogo y epílogo por volumen; colina cada ~5 capítulos; plan de ilustraciones).
+
 ---
 
 ## 1. Por qué tu instinto es correcto (y por qué casi nadie lo acepta)
