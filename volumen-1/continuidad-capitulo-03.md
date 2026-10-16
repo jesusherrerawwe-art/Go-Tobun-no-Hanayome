@@ -104,7 +104,7 @@
 
 ## 7. Pendientes
 
-- ⏳ **El padre:** nombre y sepultura — preguntados a Chuy (ask-user del 16-oct).
+- ✅ **El padre:** **Héctor Fujioka Camarena**, enterrado en **México** (firmado por Chuy el 16-oct-2026; registrado en `docs/lore-oficial-jesus-fujioka.md`).
 - ⏳ **El prólogo del volumen** (¿se escribe ya o al cierre?).
 - ⏳ **El motivo final del trabajo** (para el último tercio).
 - ⏳ **La promesa del tartamudeo** (una frase larga en español, sin tropiezo): no gastarla antes de tiempo.
@@ -117,7 +117,7 @@
 | Cuándo | Qué |
 |---|---|
 | 2 de marzo de 2001 | Nace, en Guadalajara |
-| 2012-2013 (tenía once) | Muere el papá, en México. "Hace cuatro años" |
+| Principios de 2013 (tenía once) | Muere **Héctor Fujioka Camarena**, en México; queda enterrado allá. «Hace cuatro años» |
 | ~2013 (tenía doce) | Llega a Japón. "En casi cuatro años en este país" |
 | Marzo de 2017 | Futaro renuncia; las cinco se mudan al departamento |
 | Viernes 21 de abril de 2017 | Capítulos 1 y 2: el cuaderno, el "Yo" |

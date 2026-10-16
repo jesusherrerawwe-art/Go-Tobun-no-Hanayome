@@ -18,6 +18,7 @@
 | 6 | **El bullying** | ✅ **La herida sin la etiqueta** — nunca se pronuncia el insulto exacto |
 | **7** | **Sugerencia extra de Chuy:** | ✅ **Jesús tartamudea** — diseño completo en §2 |
 | **8** | **El cumpleaños** *(firmado el 16/10/2026)* | ✅ **2 de marzo** — **el mismo día para Jesús y para Roberto**. Sustituye al 2 de noviembre propuesto. *(Nota de escritora: el 2 de marzo cae en los últimos días del año escolar japonés —la época de los exámenes finales y las graduaciones—. El chico que nació el día en que se acaba el año. No se explica en la novela; se usa cuando convenga)* |
+| **9** | **El padre** *(firmado el 16/10/2026)* | ✅ **Héctor Fujioka Camarena**, muerto a principios de 2013 (Jesús tenía once años) y **enterrado en México**. *(Nota de escritora: el cuerpo al otro lado del mar — Jesús no puede visitarlo. Eso decide el arco emocional del tomo.)* |
 
 ---
 
@@ -107,7 +108,7 @@ Un personaje con esta característica **debe** tener su cumplimiento, y es el co
 
 **Familia**
 6. **藤岡マヤ — Maya Fujioka**, su madre. Costurera → fundadora de la firma **Nippon Maya** (fusión México–Japón). Trabaja siempre. **No está presente**, y no por maldad: por trabajo. Nunca la vemos de frente.
-7. **Su padre murió cuando Jesús tenía 11 años**, en México. *[Decisión pendiente: el nombre. Y si hay tumba mexicana o cenizas.]*
+7. **Su padre: Héctor Fujioka Camarena (1975-2013).** Murió a principios de 2013, cuando Jesús tenía once años, en México, y está **enterrado en México** *(nombre y sepultura firmados por Chuy el 16-oct-2026)*. El cuerpo quedó al otro lado del mar: Jesús no puede visitarlo.
 8. **Abuelos japoneses vivos y cerca**, en Aichi: los que los invitaron a vivir con ellos.
 9. **Abuela mexicana** en Guadalajara. Es la que le dice **"Chuy"**.
 10. La familia **cayó en la pobreza** tras la muerte del padre — **igual que las quintillizas con Rena.** Las dos casas de esta novela las sostuvieron madres que se gastaron la vida trabajando.
@@ -159,8 +160,8 @@ Un personaje con esta característica **debe** tener su cumplimiento, y es el co
 ## 5. Lo que queda pendiente para el Plan de Acción (actualizado)
 
 **Del personaje:**
-1. **El nombre del padre.** ⚠️ *Mi propuesta: **Héctor Fujioka Camarena** — pero al ser él el mexicano, lo correcto es que el orden se invierta: **Héctor Camarena Fujioka** o simplemente **Héctor Camarena Hernández**. Decides tú.]*
-2. **¿Dónde está enterrado su padre?** ⚠️ *Mi voto: **en México**. Y eso significa que Jesús no puede visitarlo. Un duelo con el cuerpo al otro lado del mar.*
+1. **El nombre del padre.** ✅ **Héctor Fujioka Camarena** *(firmado por Chuy, 16-oct-2026)* — se conserva el orden de la ficha: el papá también carga el Fujioka de la casa.
+2. **¿Dónde está enterrado su padre?** ✅ **En México** *(firmado por Chuy, 16-oct-2026)*. Y eso significa que Jesús no puede visitarlo: un duelo con el cuerpo al otro lado del mar.
 3. **¿Los abuelos viven con ellos, o cerca?** (Casa de los abuelos = donde Maya y Jesús aterrizaron.)
 4. **¿Por qué acepta el trabajo?** ⚠️ *Mi voto sigue siendo: **él lo pide**, y Maruo se lo da porque le pareció el candidato más desechable.*
 

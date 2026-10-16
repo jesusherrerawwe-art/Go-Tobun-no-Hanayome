@@ -56,6 +56,8 @@
 | 3 | **Sí al marco del "día 2000"** | Día 1 = lunes 24 de abril de 2017; día 2000 = 14-15 de octubre de 2022 |
 | 4 | **Sí a los cumpleaños como hito del primer arco** | El 5 de mayo (las cinco) y el 15 de abril (Futaro) entran en el arco 1. El cumpleaños de ellas es su primero sin él, y ahí se rompe la **cláusula II** del contrato del capítulo 3: *el instructor no recibe regalos* |
 
+**Y dos decisiones más, del mismo 16 de octubre de 2026 (después del capítulo 3):** el papá de Jesús se llama **Héctor Fujioka Camarena** y está **enterrado en México** — el cuerpo al otro lado del mar.
+
 ## 5. Reglas de esta carpeta
 
 - **Nada entra al manuscrito sin hoja de continuidad.** La cláusula 2 del pacto: verdad antes que flores.
