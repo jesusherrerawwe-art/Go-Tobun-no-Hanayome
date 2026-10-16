@@ -12,10 +12,10 @@
 | **Obra** | *The Fujioka Variable* — novela ligera *slice of life* + *ecchi* de situación, en el universo de *Go-Tōbun no Hanayome* |
 | **Protagonista** | Jesús Fujioka Hernández (藤岡 ヘスス) |
 | **Este tomo** | Volumen 1: **15 capítulos** + prólogo y epílogo de tomo *(Chuy decidió el 16/10/2026 partir el capítulo 1 en dos: el capítulo 1 era de ~8,000 palabras y el corte natural existía. El Volumen 2 definirá su número cuando lleguemos)* |
-| **Extensión** | Capítulos de **3,500-4,600 palabras**; el tomo apunta a **~60,000 palabras** — el tamaño de una novela ligera japonesa publicada |
+| **Extensión** | Capítulos de **4,500 palabras para arriba** (meta fijada con Chuy); el tomo apunta a **~65,000-70,000 palabras** — el tamaño de una novela ligera japonesa publicada. Escritos: cap. 1: 4,619 · cap. 2: 3,429 · cap. 3: 5,698 |
 | **Cierre del tomo** | Victoria + grieta + gancho al verano *(aprobado por Chuy)* |
 | **Persona narrativa** | **Primera persona de Jesús** + interludios en tercera *(aprobado por Chuy)* |
-| **Marco temporal** | **El "día 2000"** *(aprobado por Chuy el 16/10/2026)*: el día 1 será el **lunes 24 de abril de 2017** —el día en que Jesús entra a la casa de las Nakano— y el día 2000 caerá el **14-15 de octubre de 2022**. El lector camina hacia una boda sin saber de quién |
+| **Marco temporal** | **El "día 2000"** *(aprobado por Chuy el 16/10/2026)*: el día 1 será el **lunes 24 de abril de 2017** —el día en que Jesús entra a la casa de las Nakano— y el día 2000 caerá el **14-15 de octubre de 2022**. El lector camina hacia una boda sin saber de quién. Desde el capítulo 3, cada capítulo se encabeza con su número de día (día 1 = 24-abr-2017); los capítulos 1 y 2 llevan solo la fecha, porque son los días *antes* del día 1 |
 | **Destinatarios** | La comunidad latina, y Roberto — regalo de cumpleaños (**2 de marzo**), con acceso anticipado al terminar |
 
 ## 2. La brújula del tomo (tres líneas, en revisión)
@@ -34,6 +34,9 @@
 | `capitulo-01-las-seis-cuarenta.md` | **Capítulo 1 — «Las seis cuarenta»** (la mañana y el día escolar; termina con el nombre de Jesús en boca del profesor) | ✅ Escrito — 4,619 palabras |
 | `capitulo-02-una-palabra-de-dos-letras.md` | **Capítulo 2 — «Una palabra de dos letras»** (la tarde: el "Yo", el viernes mexicano y la libreta) | ✅ Escrito — 3,429 palabras |
 | `continuidad-capitulos-01-02.md` | Hoja de continuidad, autorrevisión contra el lore sellado, verificaciones canónicas, decisiones de Chuy y preparación de publicación para Wattpad | ✅ Escrita |
+| `carta-capitulo-03.md` | La carta del capítulo 3: el capítulo-contrato, las cinco cláusulas y el reparto de la tarde del día 1 | ✅ Escrita |
+| `capitulo-03-los-cinco-pares-de-zapatos.md` | **Capítulo 3 — «Los cinco pares de zapatos»** (el día 1: la cita con Ebata, el piso 20, la casa de las cinco y la firma del contrato) | ✅ Escrito — 5,698 palabras |
+| `continuidad-capitulo-03.md` | Hoja de continuidad y autorrevisión del capítulo 3 (16 correcciones, verificación canónica y de lore, preparación Wattpad, semillas) | ✅ Escrita |
 
 ## 4. Decisiones que se tomaron al abrir el tomo
 
@@ -51,7 +54,7 @@
 | 1 | **Partir el capítulo 1 en dos** | El tomo pasa a 15 capítulos; el corte se hizo en la llamada del profesor Tachibana |
 | 2 | **La cosa fuera de lugar es el cuaderno del parque** | Confirmado lo escrito: el cuaderno con la etiqueta 中野, la tabla de las cinco y la lista a medias |
 | 3 | **Sí al marco del "día 2000"** | Día 1 = lunes 24 de abril de 2017; día 2000 = 14-15 de octubre de 2022 |
-| 4 | **Sí a los cumpleaños como hito del primer arco** | El 5 de mayo (las cinco) y el 15 de abril (Futaro) entran en el arco 1. El cumpleaños de ellas es su primero sin él, y ahí se rompe la primera cláusula del contrato: *prohibido recibir regalos* |
+| 4 | **Sí a los cumpleaños como hito del primer arco** | El 5 de mayo (las cinco) y el 15 de abril (Futaro) entran en el arco 1. El cumpleaños de ellas es su primero sin él, y ahí se rompe la **cláusula II** del contrato del capítulo 3: *el instructor no recibe regalos* |
 
 ## 5. Reglas de esta carpeta
 
