@@ -1,5 +1,9 @@
 # Fase 2 — Ficha narrativa de Jesús Fujioka Hernández
 
+> ## ⚠️ ESTA FICHA TIENE UNA ACTUALIZACIÓN POSTERIOR
+> El **16/10/2026** Chuy firmó información nueva que **corrige la sección de familia de este documento**: su padre **murió cuando él tenía 11 años**, su madre es una **diseñadora de modas famosa y ausente**, la familia **es rica** (vive en el mismo edificio que las quintillizas) y hay un **dato extra sobre bullying en México** que reescribe su origen.
+> **Lo vigente manda:** → `docs/jesus-familia-y-casa.md` (familia, casa, Nobunaga, el dato extra). Lo demás de esta ficha sigue válido.
+
 > **BORRADOR PARA TACHAR.** Escrito por Alejandra Medina el 16 de octubre de 2026.
 > Construido sobre las opciones que recomendé en `fase-1-decisiones.md` (D1-B, D2-C+D, D3-A, D4-B, **D5-C: familia nikkei-mexicana**, D6-A, D7-A, D8-A). Todo lo que lleva **⚠️ [DECIDE]** es una puerta que dejé abierta a propósito para que la cierres tú.
 > Regla de lectura: esto no es un cuestionario, es una propuesta. Tacha sin culpa: tu tachadura vale más que mi acierto.
