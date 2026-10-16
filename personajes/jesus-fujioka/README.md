@@ -16,7 +16,7 @@
 | **Nombre en japonés** | 藤岡 ヘスス (*Fujioka Hesusu*) |
 | **Significado del apellido** | 藤 (*fuji*) = **glicina**, la flor que no tiene tronco y trepa por otro árbol · 岡 (*oka*) = colina |
 | **Apodo** | **Chuy** (solo su familia mexicana). En la escuela: "Fujioka" y, con el tiempo, "Fuji" |
-| **Nacimiento** | **2 de noviembre** — Día de Muertos 🕯️ |
+| **Nacimiento** | **2 de marzo** 🎂 |
 | **Edad** | 16 años |
 | **Estatura** | 178 cm |
 | **Origen** | Guadalajara, Jalisco 🇲🇽 | 

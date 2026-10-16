@@ -6,7 +6,7 @@
 
 ---
 
-## 1. Las seis firmas
+## 1. Las firmas
 
 | # | Decisión | Firmado |
 |---|---|---|
@@ -17,6 +17,7 @@
 | 5 | **El secreto que Nino expone** | ✅ **Los juegos de la era Sengoku** — con **Miku mirando** |
 | 6 | **El bullying** | ✅ **La herida sin la etiqueta** — nunca se pronuncia el insulto exacto |
 | **7** | **Sugerencia extra de Chuy:** | ✅ **Jesús tartamudea** — diseño completo en §2 |
+| **8** | **El cumpleaños** *(firmado el 16/10/2026)* | ✅ **2 de marzo** — **el mismo día para Jesús y para Roberto**. Sustituye al 2 de noviembre propuesto. *(Nota de escritora: el 2 de marzo cae en los últimos días del año escolar japonés —la época de los exámenes finales y las graduaciones—. El chico que nació el día en que se acaba el año. No se explica en la novela; se usa cuando convenga)* |
 
 ---
 
@@ -99,7 +100,7 @@ Un personaje con esta característica **debe** tener su cumplimiento, y es el co
 
 **Identidad**
 1. **藤岡 ヘスス / Jesús Fujioka Hernández.** Hāfu (ハーフ): padre mexicano (Hernández), madre japonesa (Fujioka).
-2. Nacido en **Guadalajara, Jalisco, el 2 de noviembre de 2001**. Cumple 16 años en el arranque de la historia.
+2. Nacido en **Guadalajara, Jalisco, el 2 de marzo de 2001**. Cumple 16 años en el arranque de la historia. **El mismo día que Roberto** (corrección firmada el 16/10/2026).
 3. **178 cm.** La misma estatura que Futaro. *(Espejo deliberado.)*
 4. **Doble nacionalidad** (mexicana y japonesa). Su madre hizo el trámite en el consulado dentro de los tres meses. **Y tiene un reloj legal corriendo:** Japón no reconoce la doble nacionalidad de adultos; hay que elegir una. *(Fuentes: los 20 años o los 22, según la versión de la ley. **Verificar el texto vigente antes de escribir la escena.**)*
 5. **El apellido lo decidió su padre:** *"que lleve primero el tuyo, que es el que le va a servir allá".* Jesús lo descubre tarde y le duele bonito.
