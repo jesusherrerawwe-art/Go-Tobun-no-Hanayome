@@ -56,7 +56,7 @@
 - El título del episodio 1 es un triple juego de palabras intraducible: 今日 (*kyō*, "hoy"), 京都 (*Kyōto*, la ciudad) y 凶 (*kyō*, "mal augurio") comparten lectura.
 - *Nanatsu no Sayonara* ("Siete despedidas") es el nombre del arco de los episodios 2–4: siete despedidas acumuladas (la renuncia de Futaro, la huida de Nino, el adiós a Rena, etc.).
 - El título del episodio 10 parafrasea el cuento tradicional japonés 鶴の恩返し (*Tsuru no Ongaeshi*, "El favor que devuelve la grulla"): aquí son cinco grullas, una por hermana.
-- La "guerra de hermanas" (シスターズウォー) de los episodios 11–12 es el clímax del triángulo dramático Ichika–Miku–Nino, el arco más celebrado del manga (capítulo 59 en adelante).
+- La "guerra de hermanas" (シスターズウォー) de los episodios 11–12 es el clímax del triángulo dramático Ichika–Miku–Nino, el arco más celebrado del manga (capítulos 78–86; la confesión del 59 es su detonante).
 
 ---
 
@@ -118,7 +118,7 @@ Las quintillizas buscan trabajos para ayudar a Ichika con la renta. Miku y Nino 
 
 ### Episodio 10 — 五羽鶴の恩返し *Itsutsu-wa Tsuru no Ongaeshi* (12/03)
 
-**Yusuke Takeda (武田)** , compañero de clase, confronta a Futaro: su ranking escolar bajó por la tutoría y le sugiere abandonarla; Futaro responde que las chicas pasarán y que él entrará al **Top 10 nacional de los exámenes simulacros**. Ichika le declara sus sentimientos a Nino: acuerdan competir limpiamente por él. Las hermanas posponen los regalos de cumpleaños de Futaro hasta después de los exámenes; ese día, Itsuki revela que hace prácticas en una academia (*cram school*) — su vocación docente avanza. Futaro supera a Takeda: **3.º lugar nacional**, ganándose su respeto. En los regalos, Miku le dice a Yotsuba que quiere cocinarle el almuerzo en el próximo viaje escolar; Yotsuba intenta unirlos pero Ichika interfiere (su "lado oscuro" ya opera). Raiha le pide a Futaro agradecer a Yotsuba por su ayuda durante el campamento: él le pregunta qué quiere, y ella lo lleva a su parque de siempre, donde charlan en los columpios; Yotsuba asegura que **ya obtuvo lo que quería: pasar tiempo con él y verlo sonreír**. En casa, Ichika encuentra la foto de Futaro con "Rena" y comprende que Rena es una de sus hermanas.
+**Takeda Yūsuke (武田)**, compañero de clase, confronta a Futaro: su ranking escolar bajó por la tutoría y le sugiere abandonarla; Futaro responde que las chicas pasarán y que él entrará al **Top 10 nacional de los exámenes simulacros**. Ichika le declara sus sentimientos a Nino: acuerdan competir limpiamente por él. Las hermanas posponen los regalos de cumpleaños de Futaro hasta después de los exámenes; ese día, Itsuki revela que hace prácticas en una academia (*cram school*) — su vocación docente avanza. Futaro supera a Takeda: **3.º lugar nacional**, ganándose su respeto. En los regalos, Miku le dice a Yotsuba que quiere cocinarle el almuerzo en el próximo viaje escolar; Yotsuba intenta unirlos pero Ichika interfiere (su "lado oscuro" ya opera). Raiha le pide a Futaro agradecer a Yotsuba por su ayuda durante el campamento: él le pregunta qué quiere, y ella lo lleva a su parque de siempre, donde charlan en los columpios; Yotsuba asegura que **ya obtuvo lo que quería: pasar tiempo con él y verlo sonreír**. En casa, Ichika encuentra la foto de Futaro con "Rena" y comprende que Rena es una de sus hermanas.
 
 **Pistas:** el sacrificio silencioso de Yotsuba se intensifica; Ichika ahora conoce el secreto de Rena — el arma de la guerra que viene.
 

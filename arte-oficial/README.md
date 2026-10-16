@@ -29,8 +29,8 @@ Arte y visuales oficiales de *Go-Tōbun no Hanayome* (The Quintessential Quintup
 | Temporada | Banner |
 |---|---|
 | **Temporada 1** (2019) | <img src="banner-temporada-1.jpg" alt="Temporada 1" width="270"> |
-| **Temporada 2** ∫ (2021) | <img src="banner-temporada-2.jpg" alt="Temporada 2" width="270"> |
-| **Especial de TV** (2022) | <img src="banner-especial-tv.jpg" alt="Especial TV" width="270"> |
+| **Temporada 2** ∬ (2021) | <img src="banner-temporada-2.jpg" alt="Temporada 2" width="270"> |
+| **Especial de TV ∽** (2023) | <img src="banner-especial-tv.jpg" alt="Especial TV" width="270"> |
 | **La Película** (2022) | <img src="banner-pelicula.jpg" alt="Película" width="270"> |
 | **Del original (春場ねぎ)** | <img src="banner-original.jpg" alt="Original" width="270"> |
 
@@ -45,6 +45,6 @@ Arte y visuales oficiales de *Go-Tōbun no Hanayome* (The Quintessential Quintup
 Todo el arte mostrado en esta carpeta es material **oficial y promocional** obtenido del [sitio oficial del anime de TBS](https://www.tbs.co.jp/anime/5hanayome/).
 
 > ©春場ねぎ・講談社／「五等分の花嫁」製作委員会
-> © Negi Haruma / Kodansha / Comité de Producción de "Go-Tōbun no Hanayome"
+> © Negi Haruba / Kodansha / Comité de Producción de "Go-Tōbun no Hanayome"
 
 Este repositorio es un **proyecto de fan sin fines de lucro**. El arte oficial se incluye únicamente con fines de referencia y admiración, y todos los derechos pertenecen a sus respectivos autores y comités de producción.

@@ -108,7 +108,7 @@ Cuatro programas, todos conducidos por el comediante **Seitarō Mukō (向清太
 4. **El patrón Bushiroad**: radio (4 programas) + juego de cartas propio con 原案 de Haruba + patrocinios Weiss Schwarz. La franquicia es un caso de estudio de cómo un shōnen romántico se vuelve "multimedios de idol" sin ser idol.
 5. **El Hi-Chew de 2022 contiene dramas de voz de episodios no animados**: material de audio casi inédito para el fandom japonés; hito raro de continuidad.
 6. **El cuento ilustrado de 2024** es la única fuente oficial centrada en la **primera infancia de las quintillizas** (antes de la muerte de Rena); útil para escenas de flashback familiar.
-7. El catálogo musical gira en torno a 中野家の五つ子 como "grupo" (chara songs, remixes, EPs por cada obra): cada lanzamiento animado llegó acompañado de su EP. Paraambientar tu fic, cada arco tiene su banda sonora oficial asociada.
+7. El catálogo musical gira en torno a 中野家の五つ子 como "grupo" (chara songs, remixes, EPs por cada obra): cada lanzamiento animado llegó acompañado de su EP. Para ambientar tu fic, cada arco tiene su banda sonora oficial asociada.
 
 ---
 

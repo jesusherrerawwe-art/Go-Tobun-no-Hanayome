@@ -68,12 +68,12 @@ El one-shot de 2017 obtuvo una respuesta tan fuerte en las encuestas de lectores
 | Estudio | **Tezuka Productions** (手塚プロダクション) |
 | Director (監督) | Satoshi Kuwabara (桑原智) |
 | Guion/Composición de serie (シリーズ構成) | Keiichirō Ōchi (大知慶一郎) |
-| Diseño de personajes | Michinosuke Nakamura (中村路之将) y Miyabi Uta (雅楽) |
+| Diseño de personajes | 中村路之将 y 雅楽雅 (las fuentes los listan solo en kanji; romanización pendiente de verificar) |
 | Música | Hanae Nakamura (中村巴奈重) y Miki Sakurai (櫻井美希) |
 | Emisión | Madrugada del 10 al 11 de enero al 29 de marzo de 2019, 12 episodios, en TBS |
 
 - La cadena fue **TBS**, en su bloque nocturno del jueves. En Japón las emisiones tras la medianoche cuentan como del día anterior, por eso algunas fuentes citan el 10 de enero y otras el 11.
-- La temporada fue un éxito de audiencia, pero la **calidad de animación irregular** ( inconsistencies de *sakuga*) fue muy criticada en Japón, lo que preparó el terreno para un cambio de estudio.
+- La temporada fue un éxito de audiencia, pero la **calidad de animación irregular** (inconsistencias de *sakuga*) fue muy criticada en Japón, lo que preparó el terreno para un cambio de estudio.
 
 ### 3.2 Temporada 2 — *五等分の花嫁∬* (2021)
 
@@ -84,7 +84,7 @@ El one-shot de 2017 obtuvo una respuesta tan fuerte en las encuestas de lectores
 | Composición de serie | Keiichirō Ōchi (se mantuvo) |
 | Diseño de personajes / dirección de animación | Masato Katsumata (勝又聖人) |
 | Música | Hanae Nakamura y Miki Sakurai |
-| Emisión | 7 al 26 de marzo de 2021, 12 episodios, en TBS |
+| Emisión | Del 8 de enero al 26 de marzo de 2021, 12 episodios, en TBS |
 
 - El **cambio de estudio** (Tezuka → Bibury) buscó un trazo fiel al diseño original del manga. Bibury es el estudio fundado en 2017 por el director Tensho.
 - **El retraso del COVID-19:** la temporada estaba programada para octubre de 2020, pero el **7 de mayo de 2020** el comité de producción anunció oficialmente el aplazamiento a enero de 2021 por la pandemia. Es uno de los ejemplos famosos de la oleada de retrasos del anime de esa época.
@@ -157,7 +157,7 @@ Las cinco actrices de voz forman la unidad **中野家の五つ子** ("las quint
 | Entrega | Opening | Ending |
 |---|---|---|
 | Temporada 1 (2019) | **五等分の気持ち** (*Gotōbun no Kimochi*) | *Sign* |
-| Temporada 2 (2021) | **五等分の形** (*Gotōbun no Katachi*) | *はつこい* (*Hatsukoi*) |
+| Temporada 2 (2021) | **五等分のカタチ** (*Gotōbun no Katachi*) | *はつこい* (*Hatsukoi*) |
 | Película (2022) | **五等分の軌跡** (*Gotōbun no Kiseki*) | 五等分の花嫁〜ありがとうの花〜 (*...Arigatou no Hana*) |
 | Especial ∽ (2023) | 五等分の未来 (*Gotōbun no Mirai*) | *たからもの* (*Takaramono*) |
 | Especial ＊ (2024) | 五等分の笑顔 (*Gotōbun no Egao*) | *メモリーズ* (*Memories*) |

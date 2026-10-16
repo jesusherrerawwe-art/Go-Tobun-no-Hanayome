@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/poster.png" alt="Go-Tōbun no Hanayume Poster" width="480">
+  <img src="assets/poster.png" alt="Go-Tōbun no Hanayome Poster" width="480">
 </p>
 
 <h1 align="center">Go-Tōbun no Hanayome</h1>
@@ -27,4 +27,4 @@
 
 ---
 
-*Proyecto de fan, sin fines de lucro. Go-Tōbun no Hanayome es propiedad de Negi Haruma / Kodansha.*
+*Proyecto de fan, sin fines de lucro. Go-Tōbun no Hanayome es propiedad de Negi Haruba / Kodansha.*
