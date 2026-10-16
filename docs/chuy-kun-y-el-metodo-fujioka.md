@@ -1,5 +1,9 @@
 # Chuy-kun, Nippon Maya y el Método Fujioka
 
+> ## 📌 LORE SELLADO — ESTE DOCUMENTO ES HISTORIAL
+> El **16/10/2026** se selló el lore definitivo del personaje en **`docs/lore-oficial-jesus-fujioka.md`**.
+> **Si algo de aquí lo contradice, manda el lore oficial.** Este documento se conserva como registro del proceso.
+
 > **Documento de trabajo** con las tres correcciones de Chuy del 16 de octubre de 2026 (el apodo, la historia familiar real, la crueldad de Nino), el menú sobre el dato del "afeminado" y —al final— **la respuesta larga a su pregunta: ¿cómo justificamos que Jesús pueda ser tutor?**
 > El Plan de Acción sigue en pausa.
 

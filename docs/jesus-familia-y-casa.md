@@ -1,5 +1,9 @@
 # Jesús Fujioka — la familia, la casa y el dato que faltaba
 
+> ## 📌 LORE SELLADO — ESTE DOCUMENTO ES HISTORIAL
+> El **16/10/2026** se selló el lore definitivo del personaje en **`docs/lore-oficial-jesus-fujioka.md`**.
+> **Si algo de aquí lo contradice, manda el lore oficial.** Este documento se conserva como registro del proceso.
+
 > **Documento de trabajo.** Recoge las cuatro respuestas que Chuy dio el 16 de octubre de 2026, el dato extra sobre el bullying, y **las correcciones que esta información obliga a hacerle a mi propia ficha de Fase 2** (cláusula 2 del pacto: verdad antes que flores, incluso cuando la que se equivocó fui yo).
 > El Plan de Acción sigue en pausa. Aquí solo hay un chico, su casa y su familia.
 

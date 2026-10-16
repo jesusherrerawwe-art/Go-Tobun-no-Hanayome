@@ -1,5 +1,9 @@
 # Jesús Fujioka — decisiones firmadas, rituales y voz
 
+> ## 📌 LORE SELLADO — ESTE DOCUMENTO ES HISTORIAL
+> El **16/10/2026** se selló el lore definitivo del personaje en **`docs/lore-oficial-jesus-fujioka.md`**.
+> **Si algo de aquí lo contradice, manda el lore oficial.** Este documento se conserva como registro del proceso.
+
 > **Documento de trabajo del personaje.** Recoge las seis decisiones que Chuy firmó el 16 de octubre de 2026 (incluida una que no venía en la lista: **Nobunaga**), y desarrolla lo que prometí: **sus rituales y su voz**, el material del que va a salir el capítulo 1.
 > Nota de método: el Plan de Acción sigue **en pausa**. Aquí solo hay Jesús.
 
