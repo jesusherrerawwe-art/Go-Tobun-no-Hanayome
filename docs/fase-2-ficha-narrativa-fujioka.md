@@ -30,7 +30,7 @@ Esto respeta el sistema numérico de la obra (§05, nota 3 de tu biblia: cada he
 | **Registro escolar** | 藤岡ヘスス — el profesor de turno lo lee mal el primer día; él ya no corrige, por costumbre |
 | **Apodo** | **Chuy** (Jesús → Chuy; solo el lado mexicano de su familia, ver §7). En la escuela: "Fujioka" y, con los meses, "Fuji" |
 | **Origen** | Nacido en **Guadalajara, Jalisco**; en Japón desde los 10 años (hace 7) |
-| **Edad** | 16, cumple 17 el **2 de noviembre** ⚠️ *[DECIDE: propongo Día de Muertos a propósito — un chico nacido el día en que México visita a sus muertos, en un país donde los antepasados se veneran en verano. Si prefieres otra fecha, dime cuál]* |
+| **Edad** | 15 al empezar el 2.º año; cumple **16** el **2 de noviembre** de 2017 (y **17** ya en el 3.º, en 2018) ⚠️ *[DECIDE: propongo Día de Muertos a propósito — un chico nacido el día en que México visita a sus muertos, en un país donde los antepasados se veneran en verano. Si prefieres otra fecha, dime cuál]* |
 | **Estatura** | 178 cm — **exactamente la de Futaro**. ⚠️ *[DECIDE: esto es deliberado o es descuido. Mi recomendación es deliberado, y que se diga en voz alta al menos una vez: dos chicos de la misma altura, uno rubio teñido en el pasado y uno castaño en el presente]* |
 | **Nacionalidad** | **Mexicano.** Residencia en Japón por la visa de trabajo de su padre (技術・人文知識・国際業務); él y su madre con 家族滞在 ⚠️ *[DECIDE: si prefieres que la familia ya tenga 永住者, cambia el peso dramático — con visa de trabajo, la vida entera de la familia pende de una decisión de la empresa]* |
 | **Escuela** | Preparatoria Asahi, 2.º año ⚠️ *[DECIDE: propongo el mismo grupo que Futaro e Itsuki, pupitre junto a la ventana, para que la amistad con Futaro tenga motor natural]* |
