@@ -51,35 +51,35 @@ Yo venía de dejar mis cosas en el salón de 3-C y ella venía del otro lado, de
 
 Se paró enfrente de mí. Yo no supe cuál era hasta que habló.
 
-—Fujioka-kun. —Levantó la cara y me sostuvo la mirada, y ahí ya supe: era la de la mesa, la de la espalda recta—. Buenos días.
+"Fujioka-kun." Levantó la cara y me sostuvo la mirada, y ahí ya supe: era la de la mesa, la de la espalda recta. "Buenos días."
 
-—Buenos días.
+"Buenos días."
 
-—Hoy a las cinco —dijo. Y después, sin transición, como quien pasa de una página a la siguiente—: Los exámenes de medio curso son el veintidós y el veintitrés de mayo.
+"Hoy a las cinco", dijo. Y después, sin transición, como quien pasa de una página a la siguiente: "Los exámenes de medio curso son el veintidós y el veintitrés de mayo."
 
 Se quedó esperando algo.
 
-—Gracias —dije.
+"Gracias", dije.
 
-—No le estoy dando las gracias por nada. Le estoy avisando. —Se acomodó los libros—. Usted firmó un papel. Yo no sé qué diría ese papel, pero si en mayo nos va mal, usted ya sabrá lo que dice.
+"No le estoy dando las gracias por nada. Le estoy avisando." Se acomodó los libros. "Usted firmó un papel. Yo no sé qué diría ese papel, pero si en mayo nos va mal, usted ya sabrá lo que dice."
 
-—Sí.
+"Sí."
 
-—Bien. —Y se dio media vuelta y se fue, y a los tres pasos se detuvo y volteó otra vez, y me dijo, en un tono distinto, más bajo—: Yotsuba le va a hablar. No se asuste.
+"Bien." Y se dio media vuelta y se fue, y a los tres pasos se detuvo y volteó otra vez, y me dijo, en un tono distinto, más bajo: "Yotsuba le va a hablar. No se asuste."
 
-—¿Perdón?
+"¿Perdón?"
 
-—Que no se asuste —repitió, y siguió caminando y ya no volteó más.
+"Que no se asuste", repitió, y siguió caminando y ya no volteó más.
 
 Yo me quedé frente a los casilleros con las manos vacías, contando días en la cabeza, porque llevo toda la vida contando cosas y el oído me lo hace solo: del veinticinco de abril al veintidós de mayo hay cinco días hasta que se acaba abril, y veintidós de mayo, veintisiete días. Veintisiete días, y después de esos veintisiete días la palabra del contrato: **una**.
 
-—Fujioka. —Watanabe, con el pelo mojado, corriendo para no llegar tarde—. ¿¡Esa era una Nakano!?
+"Fujioka." Watanabe, con el pelo mojado, corriendo para no llegar tarde. "¿¡Esa era una Nakano!?"
 
-—Buenos días, Watanabe.
+"Buenos días, Watanabe."
 
-—¡Esa era una Nakano, Fujioka! ¡Esa era una del A! ¿Y tú desde cuándo...?
+"¡Esa era una Nakano, Fujioka! ¡Esa era una del A! ¿Y tú desde cuándo...?"
 
-—Buenos días, Watanabe.
+"Buenos días, Watanabe."
 
 Y entramos al salón, y él se pasó la primera clase entera mirándome de reojo, con la boca abierta, como se mira a un compañero al que se le acaba de ver entrar a un lugar donde no debería estar. Yo no le conté nada. Todavía no. Y ahora que lo pienso, ése fue el último día en que el asunto fue nada más mío.
 
@@ -87,51 +87,51 @@ La tarde la tuve libre de verdad, cosa rara, porque el martes nos dejan salir te
 
 En Milán era de mañana. Yo abrí la videollamada y del otro lado se veía un techo y una lámpara y el borde de un perchero lleno de cosas colgadas, y de ella, nada más la voz.
 
-—Hola, mi amor. —Se oía la prisa en la voz, la prisa esa suya que no es angustia sino velocidad—. ¿Ya te firmé o todavía no te he firmado?
+"Hola, mi amor." Se oía la prisa en la voz, la prisa esa suya que no es angustia sino velocidad. "¿Ya te firmé o todavía no te he firmado?"
 
-—Todavía no.
+"Todavía no."
 
-—Es que me mandaron unos papeles, unos papeles de trabajo, y me los mandó un tal Ebata, y yo le firmo lo que me manden porque imagino que tú ya sabes lo que estás haciendo. —Se oyó una tela, se oyó una tijera lejos—. ¿O no sabes lo que estás haciendo?
+"Es que me mandaron unos papeles, unos papeles de trabajo, y me los mandó un tal Ebata, y yo le firmo lo que me manden porque imagino que tú ya sabes lo que estás haciendo." Se oyó una tela, se oyó una tijera lejos. "¿O no sabes lo que estás haciendo?"
 
-—Sí sé.
+"Sí sé."
 
-—¿Y qué es?
+"¿Y qué es?"
 
-—Les voy a dar clases a cinco muchachas. Son cinco hermanas. Están en tercero, como yo.
+"Les voy a dar clases a cinco muchachas. Son cinco hermanas. Están en tercero, como yo."
 
 Silencio del otro lado. Un silencio corto, de dos segundos, de esos que mi mamá usa para pensar si va a decir lo que está pensando.
 
-—¿Y por qué ese trabajo?
+"¿Y por qué ese trabajo?"
 
-—Porque sé... —Y ahí se me atoró, como se me atora siempre, en español, con ella. Me quedé un segundo con la boca abierta y el aire detenido en la garganta.
+"Porque sé..." Y ahí se me atoró, como se me atora siempre, en español, con ella. Me quedé un segundo con la boca abierta y el aire detenido en la garganta.
 
 Del otro lado no se oyó nada. Mi mamá no completa mis frases. Nunca lo ha hecho: se queda ahí, en Milán, esperando, con la tijera en pausa.
 
 Y esperó. Y esperó. Hasta que la frase salió.
 
-—...sé explicar.
+"...sé explicar."
 
-—Ah. —Otra vez la tijera—. Bueno. Con eso me basta. Firmo.
+"Ah." Otra vez la tijera. "Bueno. Con eso me basta. Firmo."
 
 Y ya se iba a despedir, porque siempre se despide rápido, y entonces se acordó:
 
-—¿Ya abriste la caja?
+"¿Ya abriste la caja?"
 
 Yo tenía la caja del recibidor a metro y medio, con su logotipo y su cinta, en el hueco donde nadie pone paraguas.
 
-—Todavía no.
+"Todavía no."
 
-—Bueno.
+"Bueno."
 
 Y ahí se quedó un momento en silencio, y en ese silencio yo la oí decidir no insistir, y después me dijo:
 
-—Mándame una foto de cuando llegues, ¿sí? De donde sea. De la calle.
+"Mándame una foto de cuando llegues, ¿sí? De donde sea. De la calle."
 
-—Sí, mamá.
+"Sí, mamá."
 
-—Te quiero.
+"Te quiero."
 
-—Yo también.
+"Yo también."
 
 Colgué, y me quedé un rato viendo la pantalla apagada, y después me puse los tenis y bajé, porque Ebata ya estaba en el vestíbulo.
 
@@ -143,11 +143,11 @@ Y a las cinco menos cinco, en el segundo piso, junto a la puerta de en medio, pa
 
 Toqué el timbre.
 
-Abrió Yotsuba,
+Abrió Yotsuba.
 
-—¡Fujioka-kun! —dijo, con las dos manos en el marco y la sonrisa completa y el listón grande amarrado en la cabeza, y se hizo a un lado—. ¡Pásale, pásale! ¡Llegaste temprano! ¡Nino, ya llegó!
+"¡Fujioka-kun!", dijo, con las dos manos en el marco y la sonrisa completa y el listón grande amarrado en la cabeza, y se hizo a un lado. "¡Pásale, pásale! ¡Llegaste temprano! ¡Nino, ya llegó!"
 
-—Buenas tardes.
+"Buenas tardes."
 
 Y pasé. Y me estaba agachando para desamarrarme los tenis cuando una puerta se abrió en el pasillo de la derecha y salió Itsuki.
 
@@ -157,21 +157,21 @@ Nada más con la toalla. Con el pelo mojado y una toalla, y la cabeza volteada h
 
 Y después yo hice lo único que se me ocurrió, que fue lo que hice: me di media vuelta, miré la puerta, y le dije a la puerta:
 
-—Perdón.
+"Perdón."
 
 A la puerta. En japonés formal. *Perdón*, con el cuerpo doblado hacia la madera. Y detrás de mí se oyó un ruido de toalla apretada y pasos corriendo y una puerta que se cerró de golpe, y después, del otro lado de esa puerta, con la voz más furiosa y más educada que he oído en mi vida:
 
-—¡Yotsuba! ¡Te dije que avisaras!
+"¡Yotsuba! ¡Te dije que avisaras!"
 
-—¡Es que llegó temprano!
+"¡Es que llegó temprano!"
 
-—¡No le abras la puerta a nadie antes de la hora!
+"¡No le abras la puerta a nadie antes de la hora!"
 
-—¡Pero es que ya va a ser la hora!
+"¡Pero es que ya va a ser la hora!"
 
 Y en el marco de la cocina apareció Nino, con las manos en la cintura y un trapo en el puño, y nos vio a los tres, y sin mover ni una ceja, con una calma de hospital, dijo:
 
-—Ya empezamos bien.
+"Ya empezamos bien."
 
 Y se metió otra vez a la cocina.
 
@@ -183,39 +183,39 @@ A las cinco en punto yo estaba sentado en la punta del sofá de dos plazas, con 
 
 Y yo lo miré un segundo, y por primera vez me pregunté en serio quién escribía en ese pizarrón.
 
-—Buenas tardes —dije—. Soy Fujioka. Gracias por recibirme hoy.
+"Buenas tardes", dije. "Soy Fujioka. Gracias por recibirme hoy."
 
 Y empecé con el punto uno del plan, que era el saludo, y a la mitad del saludo, Nino me lo cortó.
 
-—No te vamos a recibir.
+"No te vamos a recibir."
 
 Ichika estaba sentada en el brazo del sofá con las piernas cruzadas. Miku estaba en el piso, de espaldas al sofá, con los audífonos al cuello, y no levantó la vista. Itsuki, del otro lado, con el pelo todavía mojado y las mangas largas hasta los dedos, tenía la espalda tan recta que dolía. Yotsuba estaba de rodillas junto a la mesa. Y Nino estaba de pie, con los brazos doblados, exactamente en la misma postura que el viernes.
 
-—No te vamos a recibir —repitió—. Te vamos a aguantar cuatro horas. Es distinto.
+"No te vamos a recibir", repitió. "Te vamos a aguantar cuatro horas. Es distinto."
 
-—Nino. —Ichika, con la sonrisa de dos centímetros—. Compórtate.
+"Nino." Ichika, con la sonrisa de dos centímetros. "Compórtate."
 
-—Estoy comportándome. Le estoy diciendo la verdad. —Me miró—. ¿Quieres que te la diga bien? Míralo bien: tú no nos importas. No queremos un maestro. No queremos que un desconocido venga a nuestra casa tres veces por semana a decirnos que somos un desastre en las cinco materias. Ya hubo alguien haciendo eso aquí, y ya no está, y esta casa está más tranquila desde que se fue.
+"Estoy comportándome. Le estoy diciendo la verdad." Me miró. "¿Quieres que te la diga bien? Míralo bien: tú no nos importas. No queremos un maestro. No queremos que un desconocido venga a nuestra casa tres veces por semana a decirnos que somos un desastre en las cinco materias. Ya hubo alguien haciendo eso aquí, y ya no está, y esta casa está más tranquila desde que se fue."
 
 Ahí se hizo un silencio, pero un silencio raro, de esos que no pesan por lo que se dijo sino por lo que se callaron las otras cuatro.
 
-—Ese no es el objetivo de hoy —dije.
+"Ese no es el objetivo de hoy", dije.
 
-—¿Ah, no? ¿Cuál es?
+"¿Ah, no? ¿Cuál es?"
 
-—Voy a llegar a ese punto.
+"Voy a llegar a ese punto."
 
 Sacó aire por la nariz, como se ríe alguien que no tiene ganas de reír, y se fue a la cocina, y desde la cocina se le oyó abrir y cerrar cosas, fuerte, ordenando el mundo a su manera, y yo seguí con lo mío.
 
-—El objetivo de hoy es este —dije, y lo dije con el sobre en la mano, y me di cuenta de que todos me estaban viendo, hasta Miku, que había levantado la cara dos centímetros—. Hoy no les voy a dar clase. Hoy no les voy a enseñar nada. Hoy quiero hacer una sola cosa: quiero saber una cosa de cada una. Una nada más. Y mañana, desde mañana, empezamos.
+"El objetivo de hoy es este", dije, y lo dije con el sobre en la mano, y me di cuenta de que todos me estaban viendo, hasta Miku, que había levantado la cara dos centímetros. "Hoy no les voy a dar clase. Hoy no les voy a enseñar nada. Hoy quiero hacer una sola cosa: quiero saber una cosa de cada una. Una nada más. Y mañana, desde mañana, empezamos."
 
-—Eso dijiste anoche —dijo Itsuki—. Y no viniste hoy a buscarme a la salida.
+"Eso dijiste anoche", dijo Itsuki. "Y no viniste hoy a buscarme a la salida."
 
-—No.
+"No."
 
-—¿Por qué?
+"¿Por qué?"
 
-—Porque no me tocaba —dije, y no era la respuesta, y ella se quedó esperando la otra, la de verdad—. Porque usted vino a buscarme a mí, y eso ya me dijo más que una junta.
+"Porque no me tocaba", dije, y no era la respuesta, y ella se quedó esperando la otra, la de verdad. "Porque usted vino a buscarme a mí, y eso ya me dijo más que una junta."
 
 Y ahí ella no dijo nada y no bajó la mirada, y la dejó ahí, plantada, y yo sentí que por primera vez en el día alguien me estaba tomando en serio, aunque fuera incómodo.
 
@@ -225,15 +225,15 @@ Y entonces saqué del sobre las cinco hojas.
 
 Cinco hojas blancas de mi cuaderno, de las que arranqué a la mitad para que no se vieran feas, dobladas en cuatro. Una para cada una. Puse las cinco en la mesa.
 
-—El punto tres de mi plan era preguntarles qué se les dificulta —dije—. Y ya me di cuenta de que si les pregunto eso, ustedes me van a decir que todo, o me van a decir que nada, y las dos respuestas son igual de inútiles. Así que lo voy a cambiar: no quiero que me digan lo que no entienden. Quiero que me escriban **una pregunta**. Una sola. De lo que sea. De la escuela, de la casa, de la vida. La que quieran. Y no la firmen.
+"El punto tres de mi plan era preguntarles qué se les dificulta", dije. "Y ya me di cuenta de que si les pregunto eso, ustedes me van a decir que todo, o me van a decir que nada, y las dos respuestas son igual de inútiles. Así que lo voy a cambiar: no quiero que me digan lo que no entienden. Quiero que me escriban **una pregunta**. Una sola. De lo que sea. De la escuela, de la casa, de la vida. La que quieran. Y no la firmen."
 
-—¿Y para qué? —dijo Ichika.
+"¿Y para qué?", dijo Ichika.
 
-—Para leerlas.
+"Para leerlas."
 
-—¿Y si no queremos?
+"¿Y si no queremos?"
 
-—Entonces me devuelven la hoja en blanco, y una hoja en blanco también es una respuesta.
+"Entonces me devuelven la hoja en blanco, y una hoja en blanco también es una respuesta."
 
 Y ahí se organizaron como se organizan las personas que viven juntas desde que nacieron: sin hablar. Ichika se estiró, agarró su hoja y un lápiz del vaso de la mesa y la dobló enseguida, con una rapidez de tramposa. Yotsuba se dobló entera sobre la mesa, con la lengua entre los dientes. Itsuki se llevó la suya a las rodillas y escribió con una letra chiquita y derecha, cuatro renglones. Miku se quedó con la hoja en la mano mucho tiempo, y después escribió algo y la dobló dos veces, y la dobló una tercera, y yo vi que en el reverso de la hoja, antes de doblarla, había hecho una cosa con el lápiz, un dibujito con dos trazos.
 
@@ -259,7 +259,7 @@ Y eso, si lo piensa uno bien, es una cosa enorme. Nadie se toma el trabajo de en
 
 Yo bajé el vaso y no lo solté. Lo dejé ahí, en la mesa, a mi izquierda, quieto, con las dos manos alrededor, como se abrazan las tazas en diciembre, y seguí hablando.
 
-—Bueno —dije—. Mientras escriben, aprovecho.
+"Bueno", dije. "Mientras escriben, aprovecho."
 
 Y me puse a hablarles de una tontería: de mi perro. Les conté que se llama Nobunaga y que sabe sentarse. Uno dice: cómo va a saber sentarse un perro. Pues sí sabe, y yo les conté que ése es su truco y que se lo he visto dos veces en la vida, y ellas me oyeron, y Miku levantó la cara del todo, y Yotsuba se rió con toda la boca, y yo seguí hablando con las manos alrededor del vaso que no pensaba tomarme, y así pasaron diez minutos, y nadie me preguntó por qué no me tomaba el té.
 
@@ -271,15 +271,15 @@ A las seis y cuarto taché el punto cuatro.
 
 Saqué el lápiz y, con la punta, rayé las palabras **Prueba de nivel** dos veces, porque era eso o ponerme a temblar, y guardé el sobre en el bolsillo, y cuando Nino volvió a la sala ya estaba guardado.
 
-—No les voy a hacer examen —dije.
+"No les voy a hacer examen", dije.
 
-—¿Y eso? —Itsuki.
+"¿Y eso?" Itsuki.
 
-—Porque hoy no vine a medir nada. —Miré las cinco hojas sobre la mesa, ya dobladas, ya entregadas—. Les voy a leer esto cuando llegue a mi casa. Y mañana, a las cinco, va a haber clase. Ésa es toda la clase de hoy.
+"Porque hoy no vine a medir nada." Miré las cinco hojas sobre la mesa, ya dobladas, ya entregadas. "Les voy a leer esto cuando llegue a mi casa. Y mañana, a las cinco, va a haber clase. Ésa es toda la clase de hoy."
 
-—¿Y qué vamos a hacer cuatro horas? —dijo Ichika, y se rió, y era la primera vez que se reía conmigo y no de mí.
+"¿Y qué vamos a hacer cuatro horas?", dijo Ichika, y se rió, y era la primera vez que se reía conmigo y no de mí.
 
-—Eso —dije—. Eso quiero saber.
+"Eso", dije. "Eso quiero saber."
 
 Y ahí, a las siete menos cuarto, pasó lo que tenía que pasar.
 
@@ -287,43 +287,43 @@ Ichika se paró.
 
 Se paró con el gesto de alguien que se para siempre, acomodándose el cabello hacia un lado con una mano, y dijo, mirando a la mesa y no a nadie:
 
-—Yo tengo que ir a trabajar.
+"Yo tengo que ir a trabajar."
 
 Y en la sala se puso el aire de vidrio.
 
-—¿Hoy también? —Yotsuba.
+"¿Hoy también?" Yotsuba.
 
-—Hoy también.
+"Hoy también."
 
-—Ichika. —Nino, desde la puerta, con una voz que le salió muy plana—. Hoy era el día uno.
+"Ichika." Nino, desde la puerta, con una voz que le salió muy plana. "Hoy era el día uno."
 
-—Yo no elegí el día, Nino. Ya lo hablamos.
+"Yo no elegí el día, Nino. Ya lo hablamos."
 
-—Ya lo hablamos —repitió Nino, sin una gota de emoción en la voz.
+"Ya lo hablamos", repitió Nino, sin una gota de emoción en la voz.
 
 Y Ichika se puso la chamarra, y pasó entre las demás sin ver a nadie, con la bolsa al hombro, y en el marco de la puerta se detuvo y me miró con la sonrisa puesta, la de dos centímetros, y me dijo:
 
-—Perdón. Otro día me quedo.
+"Perdón. Otro día me quedo."
 
-—Está bien.
+"Está bien."
 
-—¿Sí? —Y me miró un segundo más—. Eres raro.
+"¿Sí?" Y me miró un segundo más. "Eres raro."
 
 Y se fue, y bajó la escalera, y se oyó la puerta de fierro de abajo, y en la sala nos quedamos cuatro alumnas y yo, y ninguno dijo nada durante como veinte segundos.
 
 Después Itsuki se levantó, y dijo:
 
-—Yo voy por mis libros.
+"Yo voy por mis libros."
 
 Y Miku se levantó y dijo, tan bajo que casi no se oyó:
 
-—Yo también.
+"Yo también."
 
 Y se fueron las dos al cuarto, y en la sala quedamos dos: Yotsuba, de rodillas junto a la mesa, y yo.
 
-—¿Tú también te vas a ir? —le pregunté.
+"¿Tú también te vas a ir?", le pregunté.
 
-—¿Yo? No. —Y se sentó bien, con las dos manos en las rodillas—. Yo no tengo a dónde ir.
+"¿Yo? No." Y se sentó bien, con las dos manos en las rodillas. "Yo no tengo a dónde ir."
 
 Y después se rió, con esa risa suya que se le sale entera, y se quedó ahí, mirándome, esperando a que el maestro dijera qué hacer.
 
@@ -335,23 +335,23 @@ Con Yotsuba fue fácil.
 
 Con Yotsuba me di cuenta en once minutos de que la escuela le entra por el cuerpo y no por la cabeza, y que si yo le explicaba algo con números escritos en un papel, ella me ponía la cara de las vacas. Así que le pregunté:
 
-—¿Tú entrenas?
+"¿Tú entrenas?"
 
-—¡Sí! Básquet. Y también hago atletismo cuando me piden. —Y se le iluminó la cara—. Y voleibol. Y en marzo me pidieron para el club de softbol pero no fui porque ya tenía básquet.
+"¡Sí! Básquet. Y también hago atletismo cuando me piden." Y se le iluminó la cara. "Y voleibol. Y en marzo me pidieron para el club de softbol pero no fui porque ya tenía básquet."
 
-—¿Y cómo entrenan?
+"¿Y cómo entrenan?"
 
-—¿Cómo? Pues por series. El profe nos pone series. Cuarenta y dos de velocidad, y en medio de cada dos series te toca descansar y estirar, y al final...
+"¿Cómo? Pues por series. El profe nos pone series. Cuarenta y dos de velocidad, y en medio de cada dos series te toca descansar y estirar, y al final..."
 
-—¿Cuántas series?
+"¿Cuántas series?"
 
-—Como diez. Y cada una de... —Se quedó pensando, contando con los dedos—. Como dos minutos. Dos minutos de series y el descanso. Y así toda la tarde.
+"Como diez. Y cada una de..." Se quedó pensando, contando con los dedos. "Como dos minutos. Dos minutos de series y el descanso. Y así toda la tarde."
 
-—Y no te puedes saltar la primera para llegar a la diez.
+"Y no te puedes saltar la primera para llegar a la diez."
 
-—¡No! ¡Si te la saltas, te mueres! ¡Es el calentamiento!
+"¡No! ¡Si te la saltas, te mueres! ¡Es el calentamiento!"
 
-—Entonces ya sabes cómo vamos a estudiar.
+"Entonces ya sabes cómo vamos a estudiar."
 
 Y Yotsuba se quedó con la boca abierta.
 
@@ -359,27 +359,27 @@ Y ahí, con la mano, porque no tengo otra manera, le dibujé un plan en el aire:
 
 Y Yotsuba me estuvo viendo todo el tiempo con los ojos muy abiertos, como si le estuviera contando el secreto de algo, y cuando terminé dijo:
 
-—¿Y eso lo haces con todas?
+"¿Y eso lo haces con todas?"
 
-—Con todas. Cada una con sus series.
+"Con todas. Cada una con sus series."
 
-—Fujioka-kun, ¿tú sabes jugar básquet?
+"Fujioka-kun, ¿tú sabes jugar básquet?"
 
-—No.
+"No."
 
-—Ah. —Y pensó, y después, con mucha seriedad—: Y a mí, ¿me vas a ayudar a no reprobar?
+"Ah." Y pensó, y después, con mucha seriedad: "Y a mí, ¿me vas a ayudar a no reprobar?"
 
-—Sí.
+"Sí."
 
-—¿Por qué?
+"¿Por qué?"
 
 Ahí me quedé un momento.
 
-—Porque nunca he visto a nadie anotar tantos puntos en el pizarrón de mi cabeza como tú anotaste el viernes —dije—. Y porque una de las cinco va a ser la que va a ayudar a las otras cuatro, y yo ya sé cuál.
+"Porque nunca he visto a nadie anotar tantos puntos en el pizarrón de mi cabeza como tú anotaste el viernes", dije. "Y porque una de las cinco va a ser la que va a ayudar a las otras cuatro, y yo ya sé cuál."
 
-—¡Ay, no! ¡Yo soy la peor! ¡Yo saco ochos!
+"¡Ay, no! ¡Yo soy la peor! ¡Yo saco ochos!"
 
-—Ahorita. En matemáticas. —Y le puse el dedo en la mesa, delante de ella—. Y los ochos también se entrenan, como las series.
+"Ahorita. En matemáticas." Y le puse el dedo en la mesa, delante de ella. "Y los ochos también se entrenan, como las series."
 
 Fue una tontería. Fue una tontería con un plan de seis puntos tachado en el bolsillo y una alumna que saca ochos, y sin embargo ahí, en esa mesa, a las siete y media de la noche, yo vi por primera vez lo que era todo esto: **una persona que había dejado de tener miedo, nada más por un minuto.** Y me di cuenta de que yo podía hacer eso. Que se podía hacer con la boca, gratis, en la casa de alguien.
 
@@ -391,45 +391,45 @@ Se veía que estaba enojada en el cuello. Eso se ve: la nuca tiesa, el cuchillo 
 
 Yo no entré. Me quedé en el marco.
 
-—No entres —dijo, sin voltear.
+"No entres", dijo, sin voltear.
 
-—No entro.
+"No entro."
 
-—La cocina es mía.
+"La cocina es mía."
 
-—Ya sé.
+"Ya sé."
 
-—Todos lo saben.
+"Todos lo saben."
 
 Y siguió cortando. Y yo me quedé ahí, en el marco, haciendo lo que sé hacer, que es quedarme callado en los marcos, y el silencio se hizo de tres, cuatro, cinco segundos, y en esos cinco segundos pasó una cosa rara, que es que ella no me echó. Cortó dos cebollas más y no me echó.
 
 Así que hice la única cosa que me pareció correcta. Le pregunté por el curry.
 
-—¿Qué es?
+"¿Qué es?"
 
-—Curry. —Y después, con desprecio—: ¿Nunca has visto un curry?
+"Curry." Y después, con desprecio: "¿Nunca has visto un curry?"
 
-—Sí. Pregunto qué le pones.
+"Sí. Pregunto qué le pones."
 
-—Lo que hay.
+"Lo que hay."
 
-—Ah.
+"Ah."
 
 Silencio. Cuchillo. Y después, de la nada, sin que yo preguntara nada más, ella empezó a hablar. Así es la gente que cocina: habla cuando tiene las manos ocupadas, porque con las manos ocupadas no se puede estar a la defensiva.
 
-—Papa, zanahoria, cebolla. Carne de res, la más barata, esa la hiervo antes con un poco de jengibre para que no huela. Y la pasta del curry. Y ya.
+"Papa, zanahoria, cebolla. Carne de res, la más barata, esa la hiervo antes con un poco de jengibre para que no huela. Y la pasta del curry. Y ya."
 
-—¿Y la receta de quién es?
+"¿Y la receta de quién es?"
 
 El cuchillo se detuvo una fracción de segundo.
 
-—De la caja —dijo.
+"De la caja", dijo.
 
-—Ah.
+"Ah."
 
-—¿Qué? —Y ahí sí volteó, con el cuchillo en el aire—. ¿Qué querías que dijera? ¿Que es de mi mamá? Pues no es de mi mamá. Mi mamá trabajaba.
+"¿Qué?" Y ahí sí volteó, con el cuchillo en el aire. "¿Qué querías que dijera? ¿Que es de mi mamá? Pues no es de mi mamá. Mi mamá trabajaba."
 
-—Mi mamá también —dije.
+"Mi mamá también", dije.
 
 Y ahí los dos nos quedamos viendo un segundo, y yo sentí que el aire de la cocina se movió un centímetro, y ella volteó otra vez a la tabla y siguió cortando, más despacio.
 
@@ -437,73 +437,73 @@ Y entonces llegó la parte que tengo que contar bien, la parte de la regla de tr
 
 Yo estaba en el marco, viendo la caja de la pasta que estaba en la orilla de la barra, y en la caja, en una esquina, en letras chiquitas, venía un cuadro de instrucciones con el número de porciones, y yo miré ese cuadro y miré la olla y miré la tabla, y pregunté la cosa más tonta del mundo entre todas las cosas tontas que se pueden preguntar en una cocina:
 
-—¿La receta es para cuatro?
+"¿La receta es para cuatro?"
 
-—Cuatro personas. Sí.
+"Cuatro personas. Sí."
 
-—¿Y cuántas comen aquí?
+"¿Y cuántas comen aquí?"
 
-—Cinco. —Y después, con la misma voz, sin voltear—: Y tú no.
+"Cinco." Y después, con la misma voz, sin voltear: "Y tú no."
 
-—¿Y entonces cómo le haces?
+"¿Y entonces cómo le haces?"
 
-—¿Cómo le hago qué?
+"¿Cómo le hago qué?"
 
-—A la cantidad. Si la receta es para cuatro y comen cinco, ¿cuánto le pones?
+"A la cantidad. Si la receta es para cuatro y comen cinco, ¿cuánto le pones?"
 
-—Pues más.
+"Pues más."
 
-—¿Cuánto más?
+"¿Cuánto más?"
 
 Y el cuchillo se detuvo.
 
 Se detuvo de verdad, en el aire, con media cebolla a medio cortar, y yo vi los hombros de Nino quedarse quietos, y vi que la cabeza no volteaba, y oí que ella respiraba y no decía nada, y yo no dije nada tampoco, porque hay un momento en la vida en que uno tiene que callarse y dejar que la otra persona se dé cuenta de algo por su cuenta, y ése era el momento, y me callé, y esperé.
 
-—Pues un cuarto más —dijo, al fin, hablando lento—. De todo. Un cuarto más de todo.
+"Pues un cuarto más", dijo, al fin, hablando lento. "De todo. Un cuarto más de todo."
 
-—¿Y por qué un cuarto?
+"¿Y por qué un cuarto?"
 
-—Porque de cuatro a cinco va un cuarto. —Y ahora sí volteó, con la cara roja y el cuchillo abajo—. ¿O cómo crees que se hace? ¿O crees que le pongo una cebolla más y ya?
+"Porque de cuatro a cinco va un cuarto." Y ahora sí volteó, con la cara roja y el cuchillo abajo. "¿O cómo crees que se hace? ¿O crees que le pongo una cebolla más y ya?"
 
-—No creo nada. Estoy preguntando.
+"No creo nada. Estoy preguntando."
 
-—De cuatro a cinco es un cuarto —repitió, y lo dijo con rabia, como se dicen las cosas que uno dice bien y le da coraje decir bien delante de alguien—. Y si mañana viene alguien más, son seis, y de cuatro a seis es la mitad. Todo, más la mitad.
+"De cuatro a cinco es un cuarto", repitió, y lo dijo con rabia, como se dicen las cosas que uno dice bien y le da coraje decir bien delante de alguien. "Y si mañana viene alguien más, son seis, y de cuatro a seis es la mitad. Todo, más la mitad."
 
 Yo me quedé viendo la tabla.
 
-—Eso que acabas de decir —dije— tiene nombre.
+"Eso que acabas de decir", dije "tiene nombre."
 
-—Yo no necesito nombres.
+"Yo no necesito nombres."
 
-—Se llama proporción. Regla de tres.
+"Se llama proporción. Regla de tres."
 
 Se quedó un momento con el cuchillo. Y después:
 
-—Eso lo vi en la primaria.
+"Eso lo vi en la primaria."
 
-—Sí. —Y me encogí de hombros, porque no se me ocurrió otra cosa mejor que encogerme de hombros—. Y lo acabas de usar en tu casa, con la comida de tus hermanas, sin que nadie te diera una clase. Yo no te enseñé nada hoy, Nino. Hoy te enteraste de que ya sabías una cosa.
+"Sí." Y me encogí de hombros, porque no se me ocurrió otra cosa mejor que encogerme de hombros. "Y lo acabas de usar en tu casa, con la comida de tus hermanas, sin que nadie te diera una clase. Yo no te enseñé nada hoy, Nino. Hoy te enteraste de que ya sabías una cosa."
 
 Ella me miró. Me miró con las cejas juntas y la boca apretada, y por un segundo pensé que me iba a echar de la cocina a gritos, y estaba esperando eso, y hasta lo prefería, porque eso hubiera sido más fácil para las dos partes.
 
 Pero lo que hizo fue agarrar el cuchillo y volver a la tabla y decir, con una voz que no le había oído todavía, plana y grave:
 
-—¿Y si mañana vienen siete?
+"¿Y si mañana vienen siete?"
 
-—¿Vienen siete a cenar?
+"¿Vienen siete a cenar?"
 
-—Puede pasar.
+"Puede pasar."
 
-—Entonces le pones... —la dejé ahí, con la pregunta abierta.
+"Entonces le pones...", la dejé ahí, con la pregunta abierta.
 
 Y ella, sin levantar la cara, siguió cortando la cebolla y contestó sola:
 
-—Tres cuartos más. —Y cortó—. De todo. Tres cuartos más de todo.
+"Tres cuartos más." Y cortó. "De todo. Tres cuartos más de todo."
 
-—Eso.
+"Eso."
 
-—Ya vete de mi cocina.
+"Ya vete de mi cocina."
 
-—Ya me voy.
+"Ya me voy."
 
 Y me fui, y a mis espaldas se oyó el cuchillo otra vez, con un ritmo distinto, más lento, y yo volví a la mesa con Yotsuba y con eso me quedé: con el sonido de una persona cortando más despacio porque tiene una cosa nueva en la cabeza.
 
@@ -515,15 +515,15 @@ Miku se sentó en el piso, con la espalda en el sofá, y puso su pila de libros 
 
 Itsuki puso los suyos sobre la mesa, uno por uno, con las tapas alineadas, y se sentó, y me miró, y dijo:
 
-—Los traje porque usted va a necesitar saber qué estamos viendo.
+"Los traje porque usted va a necesitar saber qué estamos viendo."
 
-—Gracias.
+"Gracias."
 
-—No es un favor. Es que quiero que quede claro lo que usted va a tener que hacer.
+"No es un favor. Es que quiero que quede claro lo que usted va a tener que hacer."
 
-—Bien.
+"Bien."
 
-—Y tengo una pregunta. —Y me puso una hoja de papel enfrente, doblada en cuatro, la suya, la que había escrito a las cinco y cuarto, con la letra chiquita y derecha—. Ésta es la pregunta que escribí. Quiero que me la conteste hoy.
+"Y tengo una pregunta." Y me puso una hoja de papel enfrente, doblada en cuatro, la suya, la que había escrito a las cinco y cuarto, con la letra chiquita y derecha. "Ésta es la pregunta que escribí. Quiero que me la conteste hoy."
 
 Yo la abrí y la leí.
 
@@ -533,39 +533,39 @@ Y cuando levanté la cara, ella estaba esperando, con los brazos cruzados y la b
 
 Y ahí se me ocurrió la única cosa que me ha salido bien en mi vida sin pensarla.
 
-—Nino —dije—. ¿Me prestas la cocina un minuto?
+"Nino", dije. "¿Me prestas la cocina un minuto?"
 
-—Qué. —Y se le puso la cara de pánico de los hermanos mayores celosos—. ¿Otra vez?
+"Qué." Y se le puso la cara de pánico de los hermanos mayores celosos. "¿Otra vez?"
 
-—Dos vasos. Uno con agua caliente y uno con agua fría. Y azúcar.
+"Dos vasos. Uno con agua caliente y uno con agua fría. Y azúcar."
 
-—No.
+"No."
 
-—Por favor.
+"Por favor."
 
-—...Es un minuto.
+"...Es un minuto."
 
-—Un minuto.
+"Un minuto."
 
 Me dio los dos vasos y me dio el azúcar y se quedó parada al lado de la barra con los brazos cruzados y la cara de quien va a contar el tiempo.
 
 Llené un vaso con la sartén de agua hirviendo y el otro con agua de la llave, y puse una cucharada de azúcar en cada uno, y le pedí a Yotsuba que contara en voz alta, y Yotsuba contó, y en el vaso de agua caliente el azúcar se deshizo en el aire, en una nube que sube y se va; y en el vaso de agua fría el azúcar bajó y se asentó en el fondo, en un montón blanco, y ahí se quedó, quieto, sin irse a ninguna parte.
 
-—Ahí está la respuesta —dije—. Pero no se las voy a dar hoy.
+"Ahí está la respuesta", dije. "Pero no se las voy a dar hoy."
 
-—¡Ey! —Yotsuba.
+"¡Ey!" Yotsuba.
 
-—Se la voy a dar mañana.
+"Se la voy a dar mañana."
 
 Itsuki se levantó y se acercó a la mesa y se quedó viendo el vaso del montón de azúcar en el fondo con una atención que me dio un poco de miedo.
 
-—Eso no es una respuesta —dijo—. Eso es un experimento.
+"Eso no es una respuesta", dijo. "Eso es un experimento."
 
-—Sí.
+"Sí."
 
-—¿Por qué no me la contesta?
+"¿Por qué no me la contesta?"
 
-—Porque la pregunta es suya. —Recogí la hoja y se la devolví, doblada, hasta su mano—. Y porque mañana, cuando le diga lo que pasa dentro del vaso, usted no se lo va a olvidar nunca. Si se lo digo hoy, lo apunta y se le olvida en junio. Es la única cosa que traigo, Itsuki. Es una sola cosa y no la voy a gastar en un minuto.
+"Porque la pregunta es suya." Recogí la hoja y se la devolví, doblada, hasta su mano. "Y porque mañana, cuando le diga lo que pasa dentro del vaso, usted no se lo va a olvidar nunca. Si se lo digo hoy, lo apunta y se le olvida en junio. Es la única cosa que traigo, Itsuki. Es una sola cosa y no la voy a gastar en un minuto."
 
 Y ella se quedó con su hoja en la mano y con la boca apretada, y no dijo nada, y volvió a sentarse y abrió su libro de física, y yo me quedé con la sensación de haber ganado y de haber perdido en el mismo párrafo.
 
@@ -573,7 +573,7 @@ Y a las nueve en punto me paré.
 
 Me paré en seco, a mitad de una frase. Iba a decir algo de las series de Yotsuba y lo dejé dicho por la mitad, porque el punto uno del contrato no era una idea: era una hora. Me incliné, y dije:
 
-—Buenas noches. Mañana a las cinco.
+"Buenas noches. Mañana a las cinco."
 
 Y recogí mi sobre del bolsillo, y pasé por la mesa, y sin pensarlo mucho agarré el vaso lleno de té y lo llevé a la cocina, y abrí la llave, y lo vacié, y enjuagué el vaso, y lo dejé en el escurridor, y me sequé las manos en el pantalón.
 
@@ -587,29 +587,29 @@ Al que se te queda callado, no se le gana. Se le teme.
 
 Y en la calle, en la parte de abajo, con la puerta de fierro cerrándose a mis espaldas, oí pasos en la escalera.
 
-—¡Fujioka-kun! ¡Fujioka-kun, espérese!
+"¡Fujioka-kun! ¡Fujioka-kun, espérese!"
 
 Yotsuba bajó los dos pisos corriendo, de dos en dos, con las manos en la baranda, y llegó al último escalón con el cabello pegado a la cara y las zapatillas desamarradas, y se quedó ahí, en el escalón de arriba del mío, sin bajar del todo, como si el escalón fuera una línea.
 
-—¿Qué pasó? —le dije.
+"¿Qué pasó?", le dije.
 
-—Nada. —Respiró—. Nada, es que... —Y se le apagó la voz, y se le quedó ahí, y ella misma se sorprendió, y yo la vi sorprenderse a ella misma—. Es que... una cosa.
+"Nada." Respiró. "Nada, es que..." Y se le apagó la voz, y se le quedó ahí, y ella misma se sorprendió, y yo la vi sorprenderse a ella misma. "Es que... una cosa."
 
-—¿Cuál?
+"¿Cuál?"
 
 Se quedó un momento con la boca abierta, con los dedos apretando la baranda, y yo vi que estaba decidiendo algo, y vi, muy de cerca, la cara de una persona que quiere decir una cosa y no tiene con qué decirla.
 
 Y al final dijo la otra, la que sí podía decir:
 
-—¿El cuaderno lo encontró cerca del columpio?
+"¿El cuaderno lo encontró cerca del columpio?"
 
 Y ahí, en tres segundos, se me armó todo: el parque, la mañana, los columpios que chirrían, la chica del listón que se limpiaba los ojos con el dorso de la mano y que se fue caminando sin correr, el cuaderno abierto en la tierra debajo del asiento, y la etiqueta del cuaderno, y el cuaderno, que estaba en el cajón de arriba de mi escritorio, cerrado.
 
-—Sí —dije—. En el columpio.
+"Sí", dije. "En el columpio."
 
 Yotsuba se quedó mirándome desde su escalón, con la respiración todavía del bajo de la escalera, y no dijo nada durante un segundo entero, y después sonrió, y me dijo, con la misma voz de todas las noches:
 
-—¡Buenas noches, Fujioka-kun! ¡Nos vemos mañana!
+"¡Buenas noches, Fujioka-kun! ¡Nos vemos mañana!"
 
 Y subió los escalones corriendo y se metió a la casa y cerró la puerta, y el pasillo se quedó con la luz de sensor encendida y conmigo adentro, y a los cinco segundos la luz se apagó, porque las luces de ese edificio se apagan cuando ya no hay nadie.
 
@@ -617,31 +617,31 @@ Yo salí a la calle y me subí al coche.
 
 Ebata tenía puesto el radio, la estación de música clásica, muy bajito. Arrancó y no me habló, y yo tampoco le hablé, y así nos fuimos casi todo el camino, hasta que en el segundo semáforo él bajó el volumen con la mano y me preguntó, sin mirarme:
 
-—¿Qué tal el primer día?
+"¿Qué tal el primer día?"
 
-—Bien —dije.
+"Bien", dije.
 
-—Ya. —Y sonrió hacia el parabrisas—. ¿Le dieron el té?
+"Ya." Y sonrió hacia el parabrisas. "¿Le dieron el té?"
 
 Yo me volteé a verlo.
 
 Ebata tenía los ojos en el semáforo y las dos manos en el volante, y en la luz roja se le veía la cara de un señor que está pensando si decir lo que está pensando.
 
-—Las niñas hacen eso —dijo, al fin, cuando cambió el semáforo—. Lo hicieron con el anterior también.
+"Las niñas hacen eso", dijo, al fin, cuando cambió el semáforo. "Lo hicieron con el anterior también."
 
-—¿Con el tutor anterior?
+"¿Con el tutor anterior?"
 
-—Con el tutor anterior.
+"Con el tutor anterior."
 
-—¿Y él qué hizo?
+"¿Y él qué hizo?"
 
 Ebata aceleró con toda la calma del mundo.
 
-—Ése —dijo— se lo tomó.
+"Ése", dijo "se lo tomó."
 
-—¿Y por qué no me lo dijo antes?
+"¿Y por qué no me lo dijo antes?"
 
-—Porque si se lo digo antes, usted no sube. —Y siguió manejando—. Y yo quería ver si subía.
+"Porque si se lo digo antes, usted no sube." Y siguió manejando. "Y yo quería ver si subía."
 
 Y no dijo una palabra más en todo el camino, y yo me quedé viendo la ciudad pasar de vuelta, viendo cómo los barrios suben mientras uno va a su casa, y con esa frase en la cabeza, y con una pregunta que no le iba a hacer.
 

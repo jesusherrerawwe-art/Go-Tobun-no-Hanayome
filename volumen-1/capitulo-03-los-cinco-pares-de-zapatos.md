@@ -14,13 +14,13 @@ No es que fuera un secreto: es que no había nada que contar todavía. Yo no sé
 
 Watanabe se sentó en mi escritorio como siempre, con el pelo mojado como siempre, y me preguntó por qué estaba raro.
 
-—No estoy raro.
+"No estoy raro."
 
-—Estás raro. Hoy no le explicaste nada a nadie. —Me clavó el dedo—. Estás raro, Fujioka.
+"Estás raro. Hoy no le explicaste nada a nadie." Me clavó el dedo. "Estás raro, Fujioka."
 
-—Es lunes.
+"Es lunes."
 
-—Es lunes —repitió, y se fue a molestar a otro, porque a él también se le olvidan las cosas rápido, y eso es una de las cosas que más me gustan de él.
+"Es lunes", repitió, y se fue a molestar a otro, porque a él también se le olvidan las cosas rápido, y eso es una de las cosas que más me gustan de él.
 
 Yo me comí el bento en el orden de siempre: primero el arroz, después el huevo, después lo demás. Y mientras masticaba me acordé de que a las seis de la tarde yo tenía una cita, y me puse a hacer la lista de lo que iba a decir en mi cabeza, y me la aprendí, y después la rompí y la empecé otra vez, porque a media lista me di cuenta de que no se me había ocurrido nada que preguntar.
 
@@ -30,17 +30,17 @@ Yo no soy así. Yo hago las cosas con las preguntas ya hechas.
 
 Había ido a buscarlo temprano y no lo encontré: los lunes el profesor Tachibana llegaba tarde. A mediodía volví y me dijeron en la oficina que salía hasta la tarde. Así que cuando lo vi por fin, a la salida, en el pasillo junto a la escalera, con su taza de gato desgastado en la mano, me acerqué antes de que él me viera.
 
-—Fujioka.
+"Fujioka."
 
-—Sí, profesor.
+"Sí, profesor."
 
-—Toma. —Me pasó un sobre blanco, cerrado—. El papel de la escuela. El permiso para el trabajo, con el sello de la dirección y la copia para la familia. Vas a ver al señor Nakano hoy a las seis, ¿verdad?
+"Toma." Me pasó un sobre blanco, cerrado. "El papel de la escuela. El permiso para el trabajo, con el sello de la dirección y la copia para la familia. Vas a ver al señor Nakano hoy a las seis, ¿verdad?"
 
-—Sí, profesor.
+"Sí, profesor."
 
-—Buena suerte.
+"Buena suerte."
 
-—Gracias, profesor.
+"Gracias, profesor."
 
 Y se fue. Nada más. Tres palabras y el sobre, y yo me quedé en el pasillo con las dos cosas en la mano, mirándolo irse por el corredor hasta la puerta de la sala de profesores, con el ruido de los clubes entrando por las ventanas abiertas del gimnasio, y con una cosa rara en el pecho que no supe nombrar. Me quedé ahí un rato más de lo que hacía falta.
 
@@ -64,21 +64,21 @@ Se veía lo que siempre se ve: que me queda grande de hombros. Que la raya del h
 
 Después me puse enfrente del espejo a decir en voz alta lo que iba a decir. Lo hice en español. Sí, ya sé que en la casa del señor Nakano se habla japonés. Pero yo ensayo en español. Es el idioma en el que me salen las cosas de verdad, y no sé qué significa eso, y llevo cuatro años sin querer saberlo.
 
-—Buenas noches. Mi nombre es Je...
+"Buenas noches. Mi nombre es Je..."
 
 Me detuve.
 
-—Buenas noches, soy Fujioka. Mucho gusto, y gracias por...
+"Buenas noches, soy Fujioka. Mucho gusto, y gracias por..."
 
 Me detuve otra vez. Volví a empezar. Me salió mal tres veces. La cuarta me salió, y me sonó tan raro que me reí solo en el espejo, con esa risa de un solo golpe de aire que se me apaga enseguida, y le dije al perro, que estaba viendo la escena desde la puerta con las orejas de lado:
 
-—Nobu, estoy en problemas.
+"Nobu, estoy en problemas."
 
 Nobunaga se sentó, porque es un perro comprensivo.
 
 A las cinco y media le puse la comida, le cambié el agua y le dije que iba a bajar.
 
-—Está abajo —le dije—. Es aquí abajo. No te vayas a mover hasta que yo vuelva.
+"Está abajo", le dije. "Es aquí abajo. No te vayas a mover hasta que yo vuelva."
 
 Él me vio salir, y yo cerré la puerta y me quedé un momento en el pasillo con la mano en el bolsillo, apretando el ajolote de madera, y el ajolote no me dijo nada, porque es un pedazo de palo, pero era eso o no tener a nadie con quien ensayar.
 
@@ -96,11 +96,11 @@ El vestíbulo era el mismo vestíbulo de mi casa: los mismos sillones de siempre
 
 El señor Katō estaba en el mostrador, como todos los días de su vida desde antes de que yo naciera, leyendo el periódico deportivo con las gafas abajo.
 
-—Buenas noches, Fujioka-sama —dijo, con su medio saludo de siempre—. ¿Va a salir?
+"Buenas noches, Fujioka-sama", dijo, con su medio saludo de siempre. "¿Va a salir?"
 
-—Sí —dije—. Eh. No. Al veinte.
+"Sí", dije. "Eh. No. Al veinte."
 
-—Al veinte. —Levantó las cejas por encima de las gafas, y no dijo nada más, y eso, en el señor Katō, es una conversación entera.
+"Al veinte." Levantó las cejas por encima de las gafas, y no dijo nada más, y eso, en el señor Katō, es una conversación entera.
 
 Y en eso, detrás de mí, se abrió la puerta de la calle, y yo sentí el aire cambiando, y me volteé.
 
@@ -108,19 +108,19 @@ Venía entrando un señor de traje oscuro que no era del edificio. Eso se ve a v
 
 Cincuenta y tantos. Corbata discreta. Zapatos buenos y viejos. La cara de un hombre que ha esperado muchas veces en muchos pasillos.
 
-—Fujioka-kun —dijo—. Buenas noches. Soy Ebata. Perdón por el retraso: soy yo el que llegó temprano.
+"Fujioka-kun", dijo. "Buenas noches. Soy Ebata. Perdón por el retraso: soy yo el que llegó temprano."
 
-—Buenas noches —dije, y me incliné, y me incliné más de lo necesario, como siempre—. Mucho gusto. Gracias por su tiempo.
+"Buenas noches", dije, y me incliné, y me incliné más de lo necesario, como siempre. "Mucho gusto. Gracias por su tiempo."
 
 Soltó una risa corta, por la nariz, de esas que soltó él y no yo.
 
-—Nada, nada. —Miró el mostrador, miró al señor Katō, miró el vestíbulo, y después me miró a mí—. ¿Conoce el edificio?
+"Nada, nada." Miró el mostrador, miró al señor Katō, miró el vestíbulo, y después me miró a mí. "¿Conoce el edificio?"
 
 Le hubiera podido decir mil cosas. Le hubiera podido decir que vivo en el doce y que llevo cuatro años saludando al señor Katō todas las mañanas. No sé por qué no se lo dije. O sí sé. No se lo dije porque no quería que supiera que el chico al que su jefe iba a contratar vivía a catorce pisos de distancia, como si me diera vergüenza que me fuera tan fácil llegar a ese trabajo, y eso, pensándolo después, era exactamente la razón por la que me habían elegido.
 
-—Sí —dije—. Más o menos.
+"Sí", dije. "Más o menos."
 
-—Ah, bueno —dijo él—. Vamos.
+"Ah, bueno", dijo él. "Vamos."
 
 Y en el elevador, mientras subíamos, el señor Ebata habló cuatro veces del clima.
 
@@ -132,9 +132,9 @@ El recibidor tenía una mesa con un jarrón. El jarrón tenía tres flores y nin
 
 Frente al ventanal, de espaldas, con una mano en el bolsillo y la otra en la cadera, había un hombre.
 
-—Señor. El chico de la escuela.
+"Señor. El chico de la escuela."
 
-—Gracias, Ebata. —La voz salió del ventanal y llenó el cuarto entero: era una voz baja, tranquila, de alguien que no necesita hablar fuerte porque no hay nadie que no lo escuche—. Fujioka-kun. Siéntese.
+"Gracias, Ebata." La voz salió del ventanal y llenó el cuarto entero: era una voz baja, tranquila, de alguien que no necesita hablar fuerte porque no hay nadie que no lo escuche. "Fujioka-kun. Siéntese."
 
 Y yo me senté en el borde del sillón, y el sillón se hundió de una manera indecente, y yo me quedé con las rodillas altas y las manos en los muslos, como en el examen de entrada a la preparatoria.
 
@@ -144,55 +144,55 @@ Tardé meses en darme cuenta de que eso no era casualidad. Se lo digo al lector,
 
 Ebata le puso un té enfrente, y a mí me puso otro, y se sentó a un lado con un maletín y un cuaderno.
 
-—Fujioka-kun. Tercero C. —El señor Nakano lo dijo como se leen las placas de los coches—. Dieciséis años. Padre finado. Madre viva. Usted vive aquí, en el doce.
+"Fujioka-kun. Tercero C." El señor Nakano lo dijo como se leen las placas de los coches. "Dieciséis años. Padre finado. Madre viva. Usted vive aquí, en el doce."
 
-—Sí, señor.
+"Sí, señor."
 
-—Se lo leo para que quede claro que lo leí —siguió la voz, desde el ventanal—. Los papeles dicen de la gente cosas que la gente no dice de sí misma. ¿Le molesta que los lea?
+"Se lo leo para que quede claro que lo leí", siguió la voz, desde el ventanal. "Los papeles dicen de la gente cosas que la gente no dice de sí misma. ¿Le molesta que los lea?"
 
-—No, señor.
+"No, señor."
 
-—Bien. —Hizo una pausa—. Cuénteme por qué quiere el trabajo.
+"Bien." Hizo una pausa. "Cuénteme por qué quiere el trabajo."
 
 Y ahí me sacó el discurso. Lo tenía aprendido y bien aprendido, y lo dije todo, en el japonés más formal que me sé, sin un solo tropiezo, sin una sola vacilación: que soy buen estudiante, que tengo paciencia, que sé explicar las cosas difíciles con ejemplos sencillos, que me gusta ver a la gente entender, que me comprometo con los resultados, que no le voy a fallar.
 
 El señor Nakano me escuchó entero, sin interrumpirme ni una vez.
 
-—Muy ordenado —dijo, cuando terminé—. ¿Y qué más?
+"Muy ordenado", dijo, cuando terminé. "¿Y qué más?"
 
-—¿Cómo, señor?
+"¿Cómo, señor?"
 
-—Lo dicho, lo dijo bien. Le pregunto qué más. Usted no quiere el trabajo por ninguna de esas razones; ésas son las razones por las que alguien quiere que se lo den. ¿Por qué lo quiere usted?
+"Lo dicho, lo dijo bien. Le pregunto qué más. Usted no quiere el trabajo por ninguna de esas razones; ésas son las razones por las que alguien quiere que se lo den. ¿Por qué lo quiere usted?"
 
 Y yo me quedé ahí, en el borde del sillón, con las rodillas altas y las manos en los muslos, buscando en la cabeza algo que decir, y no encontré nada que sonara bien, y entonces dije una cosa que no tenía nada que ver con el discurso:
 
-—Porque sé explicar.
+"Porque sé explicar."
 
-—Eso ya lo dijo.
+"Eso ya lo dijo."
 
-—Sí. Pero no lo dije bien. —Me oí hablar y me extrañé a mí mismo—. Sé explicar, señor. O sea, entiendo cómo se siente alguien cuando no entiende. Yo llegué a este país sin una sola palabra de japonés. Y hay un momento en el que uno ya entiende casi todo, y hay una sola cosa, una nada más, que se sigue atorando, y todo el mundo te explica esa cosa igual de fuerte, y nadie te la explica distinto.
+"Sí. Pero no lo dije bien." Me oí hablar y me extrañé a mí mismo. "Sé explicar, señor. O sea, entiendo cómo se siente alguien cuando no entiende. Yo llegué a este país sin una sola palabra de japonés. Y hay un momento en el que uno ya entiende casi todo, y hay una sola cosa, una nada más, que se sigue atorando, y todo el mundo te explica esa cosa igual de fuerte, y nadie te la explica distinto."
 
 Silencio. El ventanal zumbaba bajito.
 
-—Y usted les explica distinto —dijo el señor Nakano.
+"Y usted les explica distinto", dijo el señor Nakano.
 
-—Y les explico distinto.
+"Y les explico distinto."
 
 El señor Nakano se quedó un rato sin decir nada, y yo sin verle la cara, y después se oyó un papel.
 
-—Ebata.
+"Ebata."
 
-—Sí, señor.
+"Sí, señor."
 
-—La cláusula.
+"La cláusula."
 
 ### 18:30
 
 El cuaderno que Ebata puso sobre la mesa era delgado, de tapas negras, con las esquinas en buen estado y un separador de papel. El papel que sacó de él tenía renglones y cinco puntos numerados. Yo no había firmado nada en mi vida, salvo la inscripción a la preparatoria.
 
-—Fujioka-kun —dijo Ebata, con una voz distinta a la del elevador, como si le hubiera quitado la conversación del clima y le hubiera puesto una corbata—. Esto es un contrato de prestación de servicios. Cinco puntos. Se los leo, y usted pregunta lo que quiera.
+"Fujioka-kun", dijo Ebata, con una voz distinta a la del elevador, como si le hubiera quitado la conversación del clima y le hubiera puesto una corbata. "Esto es un contrato de prestación de servicios. Cinco puntos. Se los leo, y usted pregunta lo que quiera."
 
-—Sí, señor.
+"Sí, señor."
 
 Y los leyó.
 
@@ -208,7 +208,7 @@ Y los leyó.
 
 Ebata levantó la vista del papel.
 
-—¿Preguntas?
+"¿Preguntas?"
 
 Los nombres se quedaron en el aire.
 
@@ -218,39 +218,39 @@ Yo los conocía. Los conocía de una letra que no era la mía, escrita con bolí
 
 Los cinco nombres acababan de entrar a la habitación por la boca del hombre del ventanal, y a mí me empezó a pasar algo en el estómago que no era miedo. Era la otra cosa. La cosa que me pasa cuando ya no voy a poder hacer como que no vi lo que vi.
 
-—¿Preguntas, Fujioka-kun?
+"¿Preguntas, Fujioka-kun?"
 
-—¿Cuánto se paga? —dije, nada más para decir algo.
+"¿Cuánto se paga?", dije, nada más para decir algo.
 
-—Veinticinco mil yenes la sesión. —Ebata hizo una marca con la pluma—. Son cinco mil por cada una de sus alumnas. ¿Le parece bien?
+"Veinticinco mil yenes la sesión." Ebata hizo una marca con la pluma. "Son cinco mil por cada una de sus alumnas. ¿Le parece bien?"
 
-—Sí, señor.
+"Sí, señor."
 
-—¿Nada más?
+"¿Nada más?"
 
-—No, señor.
+"No, señor."
 
 Y no pregunté nada más. Veinticinco mil yenes al día, cinco mil por cabeza, y yo asentí como quien entiende un número. Cinco veces lo que cobra un tutor de verdad, aunque eso yo no lo sabía esa noche: me enteré mucho después, por Watanabe, que se entera de todo. Y si lo hubiera sabido entonces, tampoco me habría importado. El precio de una cosa nunca dice lo que va a costar.
 
-—Entonces, la cuarta cláusula —dijo el señor Nakano, desde el ventanal—. ¿La entendió?
+"Entonces, la cuarta cláusula", dijo el señor Nakano, desde el ventanal. "¿La entendió?"
 
-—Sí, señor.
+"Sí, señor."
 
-—Si una reprueba, usted ya no vuelve. Ni ese día, ni al siguiente, ni nunca. —Una pausa—. No me va a discutir.
+"Si una reprueba, usted ya no vuelve. Ni ese día, ni al siguiente, ni nunca." Una pausa. "No me va a discutir."
 
-—No, señor.
+"No, señor."
 
-—Bien. —Y luego, con una voz que no era la de antes, más suave, más cansada, casi de persona—: Yo tuve un tutor antes que usted.
+"Bien." Y luego, con una voz que no era la de antes, más suave, más cansada, casi de persona: "Yo tuve un tutor antes que usted."
 
 Ebata levantó un centímetro la pluma y la volvió a bajar.
 
-—Era muy bueno —dijo el señor Nakano—. Tenía dieciséis años, como usted. Tenía la mejor calificación de su generación entera, y le explicaba a mis hijas mejor que cualquier maestro que hayan tenido, y trabajaba como si le fuera la vida en ello. Se me enfermó. Se me enfermó en un viaje de la escuela, y yo lo vi en una cama de hospital con un suero en el brazo, y ese día me di cuenta de que había estado usando a un niño para criar a mis hijas. —Silencio—. Así que busqué otra cosa. No busqué al mejor. Busqué lo contrario.
+"Era muy bueno", dijo el señor Nakano. "Tenía dieciséis años, como usted. Tenía la mejor calificación de su generación entera, y le explicaba a mis hijas mejor que cualquier maestro que hayan tenido, y trabajaba como si le fuera la vida en ello. Se me enfermó. Se me enfermó en un viaje de la escuela, y yo lo vi en una cama de hospital con un suero en el brazo, y ese día me di cuenta de que había estado usando a un niño para criar a mis hijas." Silencio. "Así que busqué otra cosa. No busqué al mejor. Busqué lo contrario."
 
 Y ahí yo levanté la cabeza.
 
-—Señor.
+"Señor."
 
-—Usted vive aquí abajo. No tiene familia en esta ciudad. No tiene historial, no tiene deudas, no tiene nada que perder. —Se oyó el hielo de un vaso—. El puesto está disponible. Es lo único que necesita saber.
+"Usted vive aquí abajo. No tiene familia en esta ciudad. No tiene historial, no tiene deudas, no tiene nada que perder." Se oyó el hielo de un vaso. "El puesto está disponible. Es lo único que necesita saber."
 
 Yo me quedé mirando la alfombra.
 
@@ -258,31 +258,31 @@ Le hubiera podido decir: y también está disponible porque el otro se fue; y ta
 
 Y después levanté la cabeza, y sin darme cuenta tenía la mano derecha en el bolsillo, apretando al ajolote, y dije:
 
-—Está bien.
+"Está bien."
 
 Perfecto. Como se dicen las cosas escritas.
 
 Ebata me miró un segundo de más.
 
-—Firme aquí, por favor. —Me puso la pluma en la mano—. La cláusula de su tutor legal la gestionamos nosotros. Necesito su firma y el permiso de su señora madre. ¿Está disponible para una llamada?
+"Firme aquí, por favor." Me puso la pluma en la mano. "La cláusula de su tutor legal la gestionamos nosotros. Necesito su firma y el permiso de su señora madre. ¿Está disponible para una llamada?"
 
-—Ella viaja mucho —dije—. Por trabajo. Pero contesta.
+"Ella viaja mucho", dije. "Por trabajo. Pero contesta."
 
 Lo dije sin un solo tropiezo, en el japonés formal que me pongo para las cosas que no quiero decir, y me quedé viendo el borde de la mesa.
 
 Ebata no dijo nada. Bajó los ojos hacia su cuaderno y se quedó así un segundo, como se queda la gente cuando entiende algo sin que se lo expliquen. Yo creo que ahí, sin que yo dijera una palabra más, ya había entendido todo lo que se podía entender de mi casa.
 
-—No hay problema —dijo—. Se firma en línea. Deme su correo y yo me encargo.
+"No hay problema", dijo. "Se firma en línea. Deme su correo y yo me encargo."
 
-—Sí, señor.
+"Sí, señor."
 
-—¿Y su padre? —preguntó entonces el señor Nakano.
+"¿Y su padre?", preguntó entonces el señor Nakano.
 
 Ya sabía la respuesta: la había leído él mismo en voz alta media hora antes. La preguntó de todos modos, y yo entendí para qué: quería oírla en mi voz, no en la del expediente.
 
 El cuarto se quedó quieto.
 
-—Mi papá murió —dije—. Hace cuatro años.
+"Mi papá murió", dije. "Hace cuatro años."
 
 Lo dije completo, claro, impecable, con la misma voz con la que había dicho el discurso; lo dije sin tropezarme, porque lo dije en japonés, y el japonés no me tiembla nunca, y ésa es la verdad más incómoda de mi vida: que puedo decir *mi papá murió* con una voz perfecta, y quedarme con la cara quieta, y hasta sonreír un poco, que es lo que hice.
 
@@ -290,15 +290,15 @@ Del ventanal no vino nada.
 
 Después el señor Nakano dijo una sola cosa, en voz baja, casi para él:
 
-—Las cinco están solas, igual que usted. —Y agregó, más bajo todavía—: Mi mujer también se murió.
+"Las cinco están solas, igual que usted." Y agregó, más bajo todavía: "Mi mujer también se murió."
 
 ### 18:55
 
 Firmé con la pluma de Ebata, que pesaba más que una pluma, en una hoja con dos copias y un cuadro para el sello, y Ebata se llevó los papeles y me dijo que el contrato empieza mañana.
 
-—Martes, cinco de la tarde —dijo, guardando el maletín—. Yo lo llevo. Espéreme en el vestíbulo de abajo.
+"Martes, cinco de la tarde", dijo, guardando el maletín. "Yo lo llevo. Espéreme en el vestíbulo de abajo."
 
-—Sí, señor. Gracias.
+"Sí, señor. Gracias."
 
 Me levanté del sillón, me incliné hacia el ventanal, y el señor Nakano no se volteó. Nada más levantó una mano, dos dedos, como se despide un médico que ya vio al siguiente paciente, y esa fue toda la despedida que tuve de él.
 
@@ -306,9 +306,9 @@ Me levanté del sillón, me incliné hacia el ventanal, y el señor Nakano no se
 
 El coche de Ebata era negro, con el asiento de atrás limpio como una sala de espera, y en el asiento de atrás venía un periódico doblado y una caja de pañuelos.
 
-—¿Le gusta la música? —preguntó, arrancando.
+"¿Le gusta la música?", preguntó, arrancando.
 
-—Como quiera, señor.
+"Como quiera, señor."
 
 Puso la radio, y la radio era una estación de música clásica, y yo no sé nada de música clásica, así que me quedé viendo por la ventana todo el camino.
 
@@ -318,15 +318,15 @@ Eso es lo único que se me ocurre decir: fue bajando. Salimos del barrio de las 
 
 Yo no estaba incómodo. Yo crecí en un barrio así, y en el barrio así se estaba mejor, y no se lo dije a Ebata porque hubiera tenido que explicarle por qué, y explicarlo me iba a costar más de lo que valía.
 
-—Ya casi —dijo Ebata, y bajó la radio—. Fujioka-kun.
+"Ya casi", dijo Ebata, y bajó la radio. "Fujioka-kun."
 
-—Sí.
+"Sí."
 
-—Las niñas se mudaron aquí en marzo. —Lo dijo sin mirarme—. Están estudiando bien, dentro de todo. Van a llegar a fin de año si les va bien.
+"Las niñas se mudaron aquí en marzo." Lo dijo sin mirarme. "Están estudiando bien, dentro de todo. Van a llegar a fin de año si les va bien."
 
-—Sí, señor.
+"Sí, señor."
 
-—En marzo cambiaron de tutor y de casa en la misma semana. —Dobló la esquina con mucha calma—. Yo las conozco desde que nacieron, Fujioka-kun; llevo llevándolas a la escuela desde que eran así. Y le voy a decir nada más una cosa, porque de aquí en adelante va a estar solo con ellas y yo no voy a poder ayudarlo: no las trate como un trabajo.
+"En marzo cambiaron de tutor y de casa en la misma semana." Dobló la esquina con mucha calma. "Yo las conozco desde que nacieron, Fujioka-kun; llevo llevándolas a la escuela desde que eran así. Y le voy a decir nada más una cosa, porque de aquí en adelante va a estar solo con ellas y yo no voy a poder ayudarlo: no las trate como un trabajo."
 
 Y yo me quedé con esa frase en la boca todo el resto del camino, sin saber qué hacer con ella, porque era exactamente lo contrario de lo que decía el papel que acababa de firmar.
 
@@ -382,55 +382,55 @@ Cinco. Las conté. Los cuento siempre.
 
 Se parecían de una manera que no se puede explicar a quien no las ha visto juntas: el mismo alto, la misma cara, el mismo pelo, hasta el mismo modo de doblar las manos. Pero no había dos iguales en nada más. Había una sentada en el brazo del sofá con los pies cruzados, una de pie junto a la ventana con los brazos doblados, una sentada en el piso con la espalda en el sofá y los audífonos colgados al cuello, una de rodillas con una libreta en la falda, y una junto a la mesa con la espalda muy recta, como si estuviera en un examen.
 
-—Buenas noches —dije, y me incliné—. Soy Fujioka. Mucho gusto.
+"Buenas noches", dije, y me incliné. "Soy Fujioka. Mucho gusto."
 
 Y quería decir lo que había ensayado, las dos o tres cosas que había decidido decir para empezar, y no alcancé.
 
-—Ya sabemos quién eres —dijo la de los brazos doblados. Su voz era la de alguien que lleva esperando en esa misma posición desde antes de que uno llegue—. Eres el nuevo. El que nos va a dar clases porque el otro se fue.
+"Ya sabemos quién eres", dijo la de los brazos doblados. Su voz era la de alguien que lleva esperando en esa misma posición desde antes de que uno llegue. "Eres el nuevo. El que nos va a dar clases porque el otro se fue."
 
-—Yo no diría que...
+"Yo no diría que..."
 
-—No —dijo—. No digas nada. Ni siquiera empieces.
+"No", dijo. "No digas nada. Ni siquiera empieces."
 
 Y se hizo un silencio, de esos que pesan, y yo me quedé parado en la orilla del tapete con la mochila en la mano.
 
-—Nino —dijo la del brazo del sofá, con una sonrisa—. Es lunes. Ten un poco de paciencia.
+"Nino", dijo la del brazo del sofá, con una sonrisa. "Es lunes. Ten un poco de paciencia."
 
-—Es lo que hago desde marzo, Ichika. Paciencia.
+"Es lo que hago desde marzo, Ichika. Paciencia."
 
 Ichika. Nino. Los nombres cayeron en su lugar como los cuadros de una tabla. La del brazo del sofá se me quedó viendo un segundo de más, con esa sonrisa de dos centímetros que no llegaba a ninguna parte, y me dijo:
 
-—Mucho gusto, Fujioka-kun. En serio. ¿Quieres sentarte?
+"Mucho gusto, Fujioka-kun. En serio. ¿Quieres sentarte?"
 
-—Gracias.
+"Gracias."
 
 Me senté en la orilla del sofá, lo más lejos que pude de la del brazo, y la de la libreta levantó la cabeza y me miró, y volvió a bajar la cabeza.
 
-—Miku —dijo, muy bajito, sin que nadie se lo preguntara—. Yo soy Miku.
+"Miku", dijo, muy bajito, sin que nadie se lo preguntara. "Yo soy Miku."
 
-—Mucho gusto, Miku.
+"Mucho gusto, Miku."
 
 Y después la de rodillas junto a la mesa se levantó de golpe, y se inclinó tan rápido y tan profundo que casi se cae, y dijo:
 
-—¡Buenas noches! Yotsuba, mucho gusto, gracias por venir, perdón por la casa, perdón por el desorden, es que apenas nos mudamos, y perdón por...
+"¡Buenas noches! Yotsuba, mucho gusto, gracias por venir, perdón por la casa, perdón por el desorden, es que apenas nos mudamos, y perdón por..."
 
-—Yotsuba —dijo Nino.
+"Yotsuba", dijo Nino.
 
-—...por el pizarrón. —Y se quedó parada, con los brazos pegados al cuerpo—. Perdón.
+"...por el pizarrón." Y se quedó parada, con los brazos pegados al cuerpo. "Perdón."
 
 Y entonces, como ese día estaba decidido a que todo lo importante me pasara en el mismo cuarto, la última levantó la cabeza, y me hizo una sola pregunta, mirándome de frente, con la espalda más recta que antes:
 
-—¿Cuánto tiempo va a quedarse?
+"¿Cuánto tiempo va a quedarse?"
 
 Era Itsuki, y yo no lo sabía todavía, y hasta la fecha no sé cómo se me notó tanto que no lo sabía.
 
-—¿Cómo?
+"¿Cómo?"
 
-—Usted dice que va a ser nuestro maestro. —Su voz era formal, medida, y le temblaba un poquito en una sola sílaba—. Cuatro meses, ocho meses, ¿hasta marzo? ¿O hasta que una de nosotras saque un cinco? Falta que nos diga cuánto tiempo va a estar aquí, antes de que nos acostumbremos. Eso es todo lo que quiero saber.
+"Usted dice que va a ser nuestro maestro." Su voz era formal, medida, y le temblaba un poquito en una sola sílaba. "Cuatro meses, ocho meses, ¿hasta marzo? ¿O hasta que una de nosotras saque un cinco? Falta que nos diga cuánto tiempo va a estar aquí, antes de que nos acostumbremos. Eso es todo lo que quiero saber."
 
 Y yo me quedé con la boca cerrada. Y pensé, en el medio segundo que tardé en no contestar, que tenía toda la razón en el mundo, y que era la cosa más honesta que me habían preguntado en semanas, y que yo no tenía ni la menor idea de qué contestar; y en el medio segundo siguiente, entendí del todo, con una claridad que me empezó a doler, dónde me había metido: frente a cinco personas que ya sabían perder, y que no querían perder otra cosa.
 
-—No voy a mentirles —dije—. No lo sé.
+"No voy a mentirles", dije. "No lo sé."
 
 ### 20:30
 
@@ -452,13 +452,13 @@ Y la chica de los zapatos lustrados se quedó, con la mano en el marco de la pue
 
 Yo me volteé.
 
-—¿Estás bien?
+"¿Estás bien?"
 
-—Sí —dijo.
+"Sí", dijo.
 
-—¿Segura?
+"¿Segura?"
 
-—Sí. —Y sonrió, con la sonrisa más grande y más rápida que he visto en mi vida, la clase de sonrisa que se arma en medio segundo porque la cara necesita treinta años de costumbre—. ¡Buenas noches, Fujioka-kun! Nos vemos mañana. Perdón.
+"Sí." Y sonrió, con la sonrisa más grande y más rápida que he visto en mi vida, la clase de sonrisa que se arma en medio segundo porque la cara necesita treinta años de costumbre. "¡Buenas noches, Fujioka-kun! Nos vemos mañana. Perdón."
 
 Y estaba tan apurada por cerrar que se cerró la puerta en la cara a sí misma, y yo me quedé en el pasillo, con las llaves en una mano y la mochila en la otra, y con la sensación de que había entendido algo.
 

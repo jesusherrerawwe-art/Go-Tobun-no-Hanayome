@@ -10,37 +10,37 @@
 
 El profesor Tachibana me alcanzó en el pasillo, con el cuaderno de planeación bajo el brazo y las gafas en la punta de la nariz, como siempre.
 
-—Sí, profesor.
+"Sí, profesor."
 
-—¿Tienes un minuto?
+"¿Tienes un minuto?"
 
-—Sí, profesor.
+"Sí, profesor."
 
 Me llevó a la sala de profesores, que a esta hora huele a papel y a café, y que tiene esa luz amarilla que tienen todas las salas de profesores del mundo, y me señaló la silla de al lado de su escritorio. En el escritorio había tres montañas de papeles: exámenes sin calificar, circulares sin firmar, y una taza con la cara de un gato desgastado por las lavadas.
 
 Me senté en el borde de la silla, como me siento siempre.
 
-—Fujioka, te voy a pedir una cosa, y quiero que la pienses antes de contestarme —dijo, y sacó un papel de la montaña de los exámenes—. De la oficina me pasaron un asunto. Un señor de por aquí anda buscando un tutor particular para sus hijas. Cinco hijas. Están en tercero, en este año. La familia vino por el lado de la escuela y la oficina me pidió un nombre.
+"Fujioka, te voy a pedir una cosa, y quiero que la pienses antes de contestarme", dijo, y sacó un papel de la montaña de los exámenes. "De la oficina me pasaron un asunto. Un señor de por aquí anda buscando un tutor particular para sus hijas. Cinco hijas. Están en tercero, en este año. La familia vino por el lado de la escuela y la oficina me pidió un nombre."
 
 Asentí.
 
-—Yo pensé en ti.
+"Yo pensé en ti."
 
 Y ahí, no sé por qué, me salió el famoso "perdón".
 
-—Perdón.
+"Perdón."
 
 El profesor Tachibana levantó las cejas por encima de las gafas.
 
-—¿Por qué me pides perdón, Fujioka?
+"¿Por qué me pides perdón, Fujioka?"
 
-—...
+"..."
 
-—Bah. —Sonrió, con esa cara de estar acostumbrado a nosotros—. Te decía: tú. Hoy te vi explicarle a Ono lo de los moles en el pasillo, con una docena de no-me-acuerdo-de-qué. Y el profesor de química me contó que Ono se llevó la prueba de la semana pasada al escritorio y la corrigió él solito. Tres puntos. ¿Lo sabías?
+"Bah." Sonrió, con esa cara de estar acostumbrado a nosotros. "Te decía: tú. Hoy te vi explicarle a Ono lo de los moles en el pasillo, con una docena de no-me-acuerdo-de-qué. Y el profesor de química me contó que Ono se llevó la prueba de la semana pasada al escritorio y la corrigió él solito. Tres puntos. ¿Lo sabías?"
 
-—No.
+"No."
 
-—Ono no había aprobado una prueba de química en un año, y hoy llegó con la mitad hecha de su puño y letra. —Dejó el papel sobre el escritorio y me miró—. Por eso digo que suena justo. Pero también te digo la verdad, porque para eso estamos: es trabajo extra. Son cinco alumnas, es en su casa, y es de lunes a viernes, y hay exámenes y hay papás. ¿Conoces a alguien a quien le interese?
+"Ono no había aprobado una prueba de química en un año, y hoy llegó con la mitad hecha de su puño y letra." Dejó el papel sobre el escritorio y me miró. "Por eso digo que suena justo. Pero también te digo la verdad, porque para eso estamos: es trabajo extra. Son cinco alumnas, es en su casa, y es de lunes a viernes, y hay exámenes y hay papás. ¿Conoces a alguien a quien le interese?"
 
 Y aquí tengo que contar bien lo que pasó, porque han pasado muchas cosas en mi vida y no todas me acuerdo, pero esta sí.
 
@@ -56,33 +56,33 @@ Pensé en todos los días de mi vida en que yo llegué a un lugar donde faltaba 
 
 Y dije:
 
-—Yo.
+"Yo."
 
 Me salió con trabajo. Dos letras y me costaron el aire de toda la sala; la palabra salió con un silencio adentro, y el silencio se oyó, porque el profesor Tachibana se quedó un segundo entero sin contestar.
 
-—¿Tú?
+"¿Tú?"
 
-—Yo puedo.
+"Yo puedo."
 
 Tachibana se recargó en el respaldo, con las gafas todavía en la nariz, y yo vi cómo en la cara se le acomodaba una cosa que no sé cómo se llama: no es sorpresa, no es risa, no es preocupación. Es la cara que se les pone a los adultos cuando un chico hace algo correcto y les da una cosa que no esperaban pedir.
 
-—¿No quieres pensarlo? Habla con tu familia. Tienes hasta el lunes, si quieres. Es una decisión grande.
+"¿No quieres pensarlo? Habla con tu familia. Tienes hasta el lunes, si quieres. Es una decisión grande."
 
-—No hace falta.
+"No hace falta."
 
 Y ahí se le puso la otra cara, ligerita, apenas una sombra, pero yo la vi: la cara de los adultos cuando un chico dice algo que no era la respuesta a la pregunta que ellos hicieron.
 
 Se quitó las gafas y las limpió con el borde de la camisa.
 
-—Bueno —dijo—. Entonces te voy a dar esto. —Escribió en una hoja de papel una cosa y me la pasó—. Es el contacto. El señor que me lo pasó. El lunes a las seis de la tarde tienes una cita con él, para hablar, con el papá de las muchachas. Si te preguntan, di que vas de parte del profesor Tachibana y de la oficina de la escuela. Y ven a verme el lunes temprano, para darte el papel de la escuela, por si en la casa te lo piden.
+"Bueno", dijo. "Entonces te voy a dar esto." Escribió en una hoja de papel una cosa y me la pasó. "Es el contacto. El señor que me lo pasó. El lunes a las seis de la tarde tienes una cita con él, para hablar, con el papá de las muchachas. Si te preguntan, di que vas de parte del profesor Tachibana y de la oficina de la escuela. Y ven a verme el lunes temprano, para darte el papel de la escuela, por si en la casa te lo piden."
 
-—Sí, profesor.
+"Sí, profesor."
 
-—Y una última cosa. —Me miró bien, de arriba a abajo, como se mira a alguien de quien uno quiere acordarse—. No sé si me estoy metiendo en donde no me llamaron, pero: si esto sale bien, es lo mejor que te va a pasar en la preparatoria. Y si sale mal, no es tu culpa y nadie te va a echar la culpa, ¿eh? Y si en algún momento se pone difícil, me dices.
+"Y una última cosa." Me miró bien, de arriba a abajo, como se mira a alguien de quien uno quiere acordarse. "No sé si me estoy metiendo en donde no me llamaron, pero: si esto sale bien, es lo mejor que te va a pasar en la preparatoria. Y si sale mal, no es tu culpa y nadie te va a echar la culpa, ¿eh? Y si en algún momento se pone difícil, me dices."
 
-—Sí, profesor. Gracias, profesor.
+"Sí, profesor. Gracias, profesor."
 
-—Ándale.
+"Ándale."
 
 Me levanté. Doblé el papel en cuatro, sin leerlo, y me lo guardé en el bolsillo de la camisa, que es donde guardo los papeles que son una responsabilidad.
 
@@ -90,7 +90,7 @@ Me quedé parado un segundo en el pasillo, del lado de la puerta, con la mano en
 
 Y me dije, ahí, en voz bajita, que es como me digo las cosas:
 
-—¿Qué acabas de hacer?
+"¿Qué acabas de hacer?"
 
 Pero no era una pregunta de verdad, porque yo lo sabía. Yo acababa de pedir algo. En casi cuatro años en este país, yo nunca le había pedido nada a nadie: ni una extensión de tarea, ni una lata, ni una amistad, ni un lugar donde sentarme. Y hoy, en cinco minutos, con una sola palabra, le había pedido a un profesor de matemáticas el trabajo más grande de mi vida.
 
@@ -110,7 +110,7 @@ Le canté a Nobunaga, que estaba acostado en el piso de la cocina con el hocico 
 
 Yo canto en español, casi siempre. Le canté al perro:
 
-—Harina... agua... sal... y ya nos vamos a dormir...
+"Harina... agua... sal... y ya nos vamos a dormir..."
 
 Nobunaga ladeó la cabeza, y yo me reí con la nariz, y le puse una palma llena de harina en la cabeza, y él se sacudió toda, y hubo harina en el piso, en la pared y en mi camiseta morada.
 
@@ -220,7 +220,7 @@ Así se le pone el dedo a la boca de una herida, así lo hago yo: con el dedo, c
 
 Y ahí, con el dedo encima del renglón vacío, yo pensé en el rumor.
 
-—Otra vez —dijo Sugimoto, dos mesas adelante, con el pan en la mano.
+"Otra vez", dijo Sugimoto, dos mesas adelante, con el pan en la mano.
 
 Me puse de pie y fui por la mochila, y de la mochila saqué el pantalón, y del pantalón, el papel que me había dado el profesor Tachibana y que yo no había leído, porque yo doblo los papeles sin leerlos, como se doblan los recibos.
 

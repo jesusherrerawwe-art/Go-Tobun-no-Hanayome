@@ -5,9 +5,10 @@ verificar-estilo.py — el detector de estilo del Volumen 1.
 
 Nació de un problema real: el celular de Chuy NO dibuja el renglón largo (—).
 Cuando la raya queda entre dos palabras, el teléfono la borra y las palabras
-se pegan ("casapor la sala"). Desde el 16-oct-2026 la regla del tomo es:
+se pegan ("casapor la sala"). La regla del tomo, desde el 16-oct-2026, es:
 
-    EL RENGLÓN LARGO (—) ES EXCLUSIVO DE LOS DIÁLOGOS.
+    LOS DIÁLOGOS VAN ENTRE COMILLAS INGLESAS (" ")
+    Y NO SE USA EL RENGLÓN LARGO EN NINGUNA PARTE DEL MANUSCRITO.
 
 Uso:
     python3 tools/verificar-estilo.py            # revisa todo volumen-1/
@@ -24,8 +25,8 @@ import unicodedata
 
 LETRAS = '0-9A-Za-zÁÉÍÓÚÜÑáéíóúüñ'
 
-# 1. Raya en una línea de NARRACIÓN (la línea no empieza con —).
-NARRACION = re.compile(r'(?<!^)—')
+# 1. Cualquier renglón largo en el manuscrito: prohibido.
+RAYA = re.compile(r'\u2014')
 
 # 2. Raya pegada a palabra por los dos lados: al desaparecer fusiona palabras.
 FUSION = re.compile(rf'[{LETRAS}]—[{LETRAS}]')
@@ -60,9 +61,9 @@ def revisar(path):
     for n, linea in enumerate(lineas, 1):
         desnuda = linea.lstrip()
 
-        # Regla 1: nada de rayas en la narración.
-        if not desnuda.startswith('—') and not desnuda.startswith('>') and '—' in linea:
-            problemas.append((n, 'RAYA EN NARRACIÓN', linea.strip()[:110]))
+        # Regla 1: cero renglones largos en todo el capítulo.
+        if RAYA.search(linea):
+            problemas.append((n, 'RENGLÓN LARGO PROHIBIDO (usa comillas)', linea.strip()[:110]))
 
         # Regla 2: nunca una raya entre dos letras/números.
         for m in FUSION.finditer(linea):
@@ -108,7 +109,7 @@ def main():
     if total:
         print(f'RESULTADO: {total} problema(s). El capítulo no está listo.')
         return 1
-    print('RESULTADO: limpio. Renglón largo solo en diálogos, sin fusiones, sin invisibles.')
+    print('RESULTADO: limpio. Diálogos entre comillas, sin rayas, sin fusiones, sin invisibles.')
     return 0
 
 

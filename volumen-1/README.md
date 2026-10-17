@@ -95,7 +95,12 @@
 - **Nada entra al manuscrito sin hoja de continuidad.** La cláusula 2 del pacto: verdad antes que flores.
 - **Cada capítulo tiene su carta antes de su prosa.** Si Chuy pide saltarla, se salta; el método no se negocia, pero el cliente manda.
 - **El renglón largo (—) es exclusivo de los diálogos** (regla de Chuy, 16 de octubre de 2026): la narración usa comas, dos puntos, paréntesis y puntos suspensivos. **El motivo es técnico, no estético:** el celular de Chuy no dibuja el glifo, y cuando la raya cae entre dos palabras, al desaparecer se lleva el espacio y las fusiona. Rige en **todo el tomo**, incluidos los capítulos 1-3 (corregidos el 16-oct).
-- **El capítulo 1 está en formato de comillas inglesas** (16-oct-2026, a petición de Chuy, para probar la lectura en su celular). Es el único: los capítulos 2-6 siguen con renglón largo. Si la prueba funciona, se convierten todos y esta nota se actualiza.
+- **TODO EL TOMO va con comillas inglesas.** Los seis capítulos escritos están convertidos (16-oct-2026). El motivo es técnico: el celular de Chuy no dibuja el renglón largo y las palabras se le pegaban. Prueba superada. **A partir del capítulo 7 se escribe directo así:**
+  - El diálogo va entre comillas dobles y cada intervención abre línea nueva.
+  - La acotación va fuera: `"Solo te estaba saludando", le dije. "Duérmete."`
+  - Si la acotación es una frase completa, cierra con punto: `"Bien." Y luego, con una voz más cansada: "Yo tuve un tutor antes que usted."`
+  - Las citas dentro de la narración se quedan con comillas dobles, y si hace falta distinguirlas se usan simples: `Dijo 'del A' como se dice 'del Madrid'.`
+  - **Cero renglones largos en todo el manuscrito.**
 - **Verificación obligatoria antes de dar un capítulo por bueno:** `python3 tools/verificar-estilo.py`. Revisa cuatro cosas: rayas en la narración, rayas que fusionan palabras (`casa—por`), caracteres invisibles (espacios duros, finos, BOM, guion suave) y otros guiones tipográficos (–, ―, −).
 - **El lore sellado manda.** `docs/lore-oficial-jesus-fujioka.md` está por encima de cualquier documento anterior, y la biblia de la obra original está por encima de todos nosotros.
 
