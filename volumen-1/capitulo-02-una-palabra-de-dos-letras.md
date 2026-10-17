@@ -100,13 +100,13 @@ Me fui a casa. Vestido de uniforme, con el saco que me queda grande.
 
 El viernes, en mi casa, es lo mejor de la semana.
 
-Yo lo decidí hace tres años y no le he fallado nunca: el viernes es noche mexicana. Antes de que me pregunten —nadie me pregunta— voy a decir que no cocino bien. Cocino dos cosas: arroz y lo que sea que mi abuela me enseñó a hacer por videollamada. Y la mitad de esas cosas me salen mal y la otra mitad me salen distintas, porque aquí no hay los mismos chiles ni la misma manteca ni el mismo comal, y las tortillas de harina las hago yo, a mano, con las palmas, porque una vez me salieron y me emocioné y ya no quise dejar de hacerlas.
+Yo lo decidí hace tres años y no le he fallado nunca: el viernes es noche mexicana. Antes de que me pregunten (nadie me pregunta) voy a decir que no cocino bien. Cocino dos cosas: arroz y lo que sea que mi abuela me enseñó a hacer por videollamada. Y la mitad de esas cosas me salen mal y la otra mitad me salen distintas, porque aquí no hay los mismos chiles ni la misma manteca ni el mismo comal, y las tortillas de harina las hago yo, a mano, con las palmas, porque una vez me salieron y me emocioné y ya no quise dejar de hacerlas.
 
 Mientras las hacía, le puse música. Pero no música de audífonos: las bocinas de la cocina, que son de la casa.
 
 Y le canté.
 
-Le canté a Nobunaga, que estaba acostado en el piso de la cocina con el hocico entre las patas, mirándome como si entendiera, y le canté la lista de lo que tenía en la mano —harina, agua, sal, la otra cosa— porque me sé esa tonada y me gusta cantarla bajito cuando estoy solo. La cocina tiene una acústica boba y muy amable: si uno canta aquí, suena bonito y no hay quién lo juzgue.
+Le canté a Nobunaga, que estaba acostado en el piso de la cocina con el hocico entre las patas, mirándome como si entendiera, y le canté la lista de lo que tenía en la mano (harina, agua, sal, la otra cosa) porque me sé esa tonada y me gusta cantarla bajito cuando estoy solo. La cocina tiene una acústica boba y muy amable: si uno canta aquí, suena bonito y no hay quién lo juzgue.
 
 Yo canto en español, casi siempre. Le canté al perro:
 
@@ -136,7 +136,7 @@ A la abuela le gusta oír mi voz, yo sé que a la abuela le gusta oír mi voz, y
 
 Esa tarde le escribí, y me puse a hacer la segunda tortilla, y me dije que la abuela ya sabe que la quiero igual, y que eso es lo que importa. Yo creo que es verdad.
 
-Y ya. Cené: arroz, unos frijoles que me quedaron decentes, dos tortillas por mí, una para el perro —sin sal, chiquita, que no se me apendeje—, y me di una ducha y me puse el pijama.
+Y ya. Cené: arroz, unos frijoles que me quedaron decentes, dos tortillas por mí, una para el perro (sin sal, chiquita, que no se me apendeje), y me di una ducha y me puse el pijama.
 
 ### 22:30
 
@@ -184,13 +184,13 @@ Y después venía la tabla.
 
 Cinco columnas, cinco nombres, escritos con la letra dura en la parte de arriba, uno por columna:
 
-**一花 — 二乃 — 三玖 — 四葉 — 五月**
+**一花 · 二乃 · 三玖 · 四葉 · 五月**
 
 Ichika, Nino, Miku, Yotsuba, Itsuki.
 
 Debajo de cada nombre, una renglera enorme de números: puntajes de exámenes, supuse, uno tras otro, de arriba abajo, con la fecha a la izquierda. Yo me quedé viendo esa tabla mucho tiempo.
 
-Los números de la primera columna empezaban bajos y luego subían, y bajaban, y volvían a subir. Los de la segunda eran los más altos al principio y los más movidos de todos. Los de la tercera iban casi rectos y después pegaban un brinco de arriba abajo —un examen malo, uno muy bueno, un examen malo—, como un electrocardiograma. Los de la cuarta eran los más bajos, los más bajos de todos, y subían de a poquito, de a poquito, con una paciencia que no es de examen sino de otra cosa. Y los de la quinta, debajo de 五月, tenían dos flechitas hacia arriba dibujadas al lado, chiquitas, de la mano de alguien que celebró un resultado con lápiz.
+Los números de la primera columna empezaban bajos y luego subían, y bajaban, y volvían a subir. Los de la segunda eran los más altos al principio y los más movidos de todos. Los de la tercera iban casi rectos y después pegaban un brinco de arriba abajo (un examen malo, uno muy bueno, un examen malo), como un electrocardiograma. Los de la cuarta eran los más bajos, los más bajos de todos, y subían de a poquito, de a poquito, con una paciencia que no es de examen sino de otra cosa. Y los de la quinta, debajo de 五月, tenían dos flechitas hacia arriba dibujadas al lado, chiquitas, de la mano de alguien que celebró un resultado con lápiz.
 
 Y en la esquina de la tabla, en la parte de arriba, había una anotación suelta que me detuvo el corazón por un segundo, porque era lo más humano que yo había visto en toda la noche. Decía, con la letra dura:
 

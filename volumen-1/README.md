@@ -73,7 +73,7 @@
 |---|---|---|
 | 5 | **Futaro está en Asahi, en otro salón de tercero** | A un pasillo de distancia, y nadie lo nombra todavía |
 | 6 | **La primera mitad del cuaderno del parque es de Yotsuba** | El cuaderno tiene dos manos: la suya y la del tutor anterior. Jesús tiene, en un cajón, una cosa de ella. |
-| 7 | **Los capítulos 1, 2 y 3 no se tocan** | La regla del renglón largo rige desde el capítulo 4 |
+| 7 | ~~**Los capítulos 1, 2 y 3 no se tocan**~~ → **REVERTIDA el 16-oct por Chuy** | La regla del renglón largo rige en **todo el tomo**: los caps. 1-3 se revisaron y se corrigieron (18 líneas) |
 
 **Y tres más de Chuy, del mismo 16 de octubre (después del capítulo 5):**
 

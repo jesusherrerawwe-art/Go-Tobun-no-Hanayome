@@ -154,3 +154,35 @@ La revisión que Chuy pidió. Estas son las cosas que **estaban mal** en el prim
 ---
 
 *Cerrado por A. M. el 16 de octubre de 2026. Este capítulo no se mueve de aquí sin pasar otra vez por esta hoja.*
+
+---
+
+## 9. Enmienda del 16 de octubre de 2026 — la regla del renglón largo
+
+**Petición de Chuy:** *«revisar los capítulos 1, 2 y 3 y asegurarte de que los renglones largos (—) sí sean exclusivos solo para los diálogos de los personajes»*.
+
+**Qué se hizo:** barrido de los dos capítulos con script. Se localizaron **15 usos narrativos** del renglón largo (10 en el cap. 1, 5 en el cap. 2) y se sustituyeron por la puntuación que a cada frase le correspondía: paréntesis para las aclaraciones que se susurran, comas para las que van dentro del hilo, punto medio para los encabezados y los rótulos.
+
+| Cap. | Línea | Antes | Ahora |
+|---|---|---|---|
+| 1 | 29 | «por toda la casa —por la sala, por la mesa, por el pasillo— hay cosas» | comas |
+| 1 | 49 | «el banco de la barra —de pie nunca— y le di play» | paréntesis |
+| 1 | 83 | «su ronda de la mañana —su plato, su agua, mi tobillo—» | paréntesis |
+| 1 | 149 | «con la mano —dos o tres golpes— y me quedé» | comas |
+| 1 | 199 | «los tenis de la calle —por encima de los otros—» | paréntesis |
+| 1 | 213 | «el cuaderno —el cuaderno de Nakano— dentro» | comas |
+| 1 | 221 | «en mi vida —las glicinas, quiero decir— hasta que» | paréntesis |
+| 1 | 231 | «### 8:40 — 15:40» | «### 8:40 · 15:40» |
+| 1 | 255 | «No porque sea bueno —mis calificaciones— sino» | paréntesis + coma |
+| 1 | 287 | «en el receso de la tarde —después de la prueba—» | comas + paréntesis |
+| 2 | 103 | «Antes de que me pregunten —nadie me pregunta—» | paréntesis |
+| 2 | 109 | «la lista —harina, agua, sal— porque» | paréntesis |
+| 2 | 139 | «una para el perro —sin sal, chiquita—» | paréntesis |
+| 2 | 187 | «**一花 — 二乃 — 三玖 — 四葉 — 五月**» | punto medio |
+| 2 | 193 | «un brinco —un examen malo—, como un electro» | paréntesis |
+
+**Resultado:** 0 renglones largos fuera de diálogo. El texto no cambió de sentido; las correcciones de estilo son las mismas que se aplican a los capítulos nuevos desde el 4.
+
+**Nota:** esta enmienda **revierte** la decisión que Chuy había tomado el mismo día («no toques los tres primeros»). Se conserva la decisión original tachada en `volumen-1/README.md` para que quede el rastro de las dos.
+
+*Enmendada por A. M. el 16 de octubre de 2026.*

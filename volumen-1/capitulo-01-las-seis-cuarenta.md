@@ -26,7 +26,7 @@ Volvió a acostarse con un suspiro de gente grande. Ese perro pesa cinco kilos y
 
 Sonó el despertador. Lo apagué al primer toque, porque para eso lo pongo a la distancia exacta de mi brazo, y me senté.
 
-Aquí tengo que contar una cosa, aunque no es una cosa importante: mi departamento es grande. Grande en serio, no "grande para Japón". Tiene tres habitaciones y una sala que no usamos, y una cocina con una isla en el centro donde nunca hay nadie, y una mesa de comedor para seis, y por toda la casa —por la sala, por la mesa, por el pasillo— hay cosas de mi mamá. Una carpeta con muestrarios. Un lápiz de diseñadora que cuesta más que mi boleto de tren de un mes. Una revista italiana abierta en la página de una mujer con las manos en los bolsillos. La ropa de mi mamá está en toda la casa, y mi mamá está en Milán.
+Aquí tengo que contar una cosa, aunque no es una cosa importante: mi departamento es grande. Grande en serio, no "grande para Japón". Tiene tres habitaciones y una sala que no usamos, y una cocina con una isla en el centro donde nunca hay nadie, y una mesa de comedor para seis, y por toda la casa, por la sala, por la mesa, por el pasillo, hay cosas de mi mamá. Una carpeta con muestrarios. Un lápiz de diseñadora que cuesta más que mi boleto de tren de un mes. Una revista italiana abierta en la página de una mujer con las manos en los bolsillos. La ropa de mi mamá está en toda la casa, y mi mamá está en Milán.
 
 La casa es de las dos cosas: mía y de ella. Yo vivo aquí, y ella también, cuando está.
 
@@ -46,7 +46,7 @@ Desde entonces el café y yo somos amigos. Aquí lo tomo negro porque a nadie en
 
 En la mesita, junto al plato, estaba el teléfono. Con un puntito azul.
 
-Mi madre me había mandado un audio a las once y media de la noche, hora de Milán. Yo terminé de servirme la leche, me senté en el banco de la barra —de pie nunca, de pie es para la leche— y le di play.
+Mi madre me había mandado un audio a las once y media de la noche, hora de Milán. Yo terminé de servirme la leche, me senté en el banco de la barra (de pie nunca, de pie es para la leche) y le di play.
 
 «Chuy, mi amor, mi niño, perdóname, sé que llevo la semana entera sin escribirte. Acabo de salir del desfile y estoy muerta, pero me acordé de que allá ya es de mañana, y dije: le mando algo antes de que se me olvide otra vez. ¿Ya desayunaste? ¿Comiste? ¿Cómo está el Nobo? No me lo traigas a la cámara, que me pongo a llorar en el estacionamiento.»
 
@@ -80,7 +80,7 @@ Yo sé cómo suena mi voz cuando algo me importa. Mi mamá también lo sabe, per
 
 Así que le mando siempre el último audio. El que no dice nada. Cuando lo mandé, ya tenía la mano derecha en el bolsillo, apretando el ajolote de madera. Yo no me di cuenta de que lo estaba apretando. Eso lo hago y no se lo he contado a nadie.
 
-Nobunaga llegó a la cocina arrastrando las patas, hizo su ronda de la mañana —su plato, su agua, mi tobillo— y se me quedó viendo con esa cara de perro que acaba de recordar que no ha hecho nada malo pero quiere estar seguro.
+Nobunaga llegó a la cocina arrastrando las patas, hizo su ronda de la mañana (su plato, su agua, mi tobillo) y se me quedó viendo con esa cara de perro que acaba de recordar que no ha hecho nada malo pero quiere estar seguro.
 
 —Vamos —le dije—. Al parque.
 
@@ -146,7 +146,7 @@ Aquí tengo que decir algo de mí, porque si no, esto no se entiende: yo recogo 
 
 Sinceramente, no sé por qué lo hago.
 
-Recogí el cuaderno, le sacudí la tierra con la mano —dos o tres golpes— y me quedé con él en las dos manos, como se carga un libro viejo.
+Recogí el cuaderno, le sacudí la tierra con la mano, dos o tres golpes, y me quedé con él en las dos manos, como se carga un libro viejo.
 
 En la pasta, en la esquina, traía la etiqueta blanca de la escuela, de esas que se pegan con cinta y que nadie quita aunque se acabe el año. Estaba escrita con marcador grueso, negro:
 
@@ -196,7 +196,7 @@ No la he abierto. El día que la abra van a ser unos zapatos o un suéter o una 
 
 —Ya me voy —le dije a Nobunaga.
 
-Él se paró en la puerta y me vio ponerme los tenis de la calle —por encima de los otros, ya sé, ya sé— y le puse la cabeza en la coronilla y le dije que se portara bien, aunque yo sé que la que se porta bien es él y el que se va a portar mal soy yo.
+Él se paró en la puerta y me vio ponerme los tenis de la calle (por encima de los otros, ya sé, ya sé) y le puse la cabeza en la coronilla y le dije que se portara bien, aunque yo sé que la que se porta bien es él y el que se va a portar mal soy yo.
 
 Y me fui a la escuela.
 
@@ -210,7 +210,7 @@ Es la única música que no me pide elegir un país. Eso lo pensé yo solo, a lo
 
 El tren de las ocho y veinte va lleno de estudiantes de Asahi. Los conozco a todos de vista y saludo a los que me saludan, que son como seis. En el vagón hay tres grupos que van hablando cada uno de lo suyo, un señor mayor leyendo el periódico de pie, y una chica de segundo que siempre va leyendo un manga enorme con la mochila entre las rodillas.
 
-Yo me quedo de pie, junto a la puerta, con la mano en la argolla, y el cuaderno —el cuaderno de Nakano— dentro de la bolsa de la escuela, en el compartimento de adelante, para que no se doble.
+Yo me quedo de pie, junto a la puerta, con la mano en la argolla, y el cuaderno, el cuaderno de Nakano, dentro de la bolsa de la escuela, en el compartimento de adelante, para que no se doble.
 
 En el andén de la estación, mientras esperaba el tren, vi un cartel nuevo en el tubo.
 
@@ -218,7 +218,7 @@ Era un anuncio del **Festival de la Glicina de Owari Tsushima**, morado, con la 
 
 Me quedé viendo el cartel como seis segundos. Nada más.
 
-Yo no soy de los que se quedan viendo flores. La verdad, ni las había visto nunca en mi vida —las glicinas, quiero decir, las de verdad— hasta que llegué a este país, y un día de mayo entré a un jardín que tenía un techo de flores moradas y pensé que alguien se había equivocado de mundo. Pero eso es otra historia.
+Yo no soy de los que se quedan viendo flores. La verdad, ni las había visto nunca en mi vida (las glicinas, quiero decir, las de verdad) hasta que llegué a este país, y un día de mayo entré a un jardín que tenía un techo de flores moradas y pensé que alguien se había equivocado de mundo. Pero eso es otra historia.
 
 Ese cartel, ese viernes, no significaba nada. Lo digo porque después, cuando la gente cuenta esta clase de historias, siempre encuentra un cartel que significaba algo. Yo no. Yo vi un cartel morado seis segundos y me subí al tren.
 
@@ -228,7 +228,7 @@ Café. La misma lata desde que llegué: puede caliente o fría y yo la compro ca
 
 Yo creo que esa máquina y yo somos algo. En cuatro años no me ha fallado una sola vez.
 
-### 8:40 — 15:40
+### 8:40 · 15:40
 
 El salón de 3-C está en el segundo piso, al final del pasillo, y a mí me toca el asiento de la tercera fila, junto a la columna, en el borde: ni junto a la ventana, ni junto a la puerta, ni en el medio. En el borde. Un asiento de borde, junto a la columna, en la tercera fila, es el asiento de la gente que no quiere molestar a nadie y que quiere poder salir sin pedir permiso. Ese es mi asiento. Me lo quedé el primer día y ya no me lo piden.
 
@@ -252,7 +252,7 @@ A mi lado izquierdo se sienta Watanabe, que llega todos los días con el pelo mo
 
 Watanabe se fue a molestar a alguien más y yo saqué el cuaderno de matemáticas.
 
-Y aquí voy a decir algo raro, pero a mí me gustan los viernes primero y las matemáticas después. No porque sea bueno —mis calificaciones son buenas y ya, buenas, como casi todo lo que hago yo— sino porque las matemáticas son el único idioma que ya sabía cuando llegué aquí, y el único que nadie me ha corregido nunca. Los números no tienen acento.
+Y aquí voy a decir algo raro, pero a mí me gustan los viernes primero y las matemáticas después. No porque sea bueno (mis calificaciones son buenas y ya, buenas, como casi todo lo que hago yo), sino porque las matemáticas son el único idioma que ya sabía cuando llegué aquí, y el único que nadie me ha corregido nunca. Los números no tienen acento.
 
 A las 12:35, en la hora de la comida, me pasó lo que me pasó.
 
@@ -284,7 +284,7 @@ Yo casi nunca digo nada a la primera, y menos de la gente, y menos de la gente q
 
 Me quedé con la palabra "otra vez" y me comí el resto del bento.
 
-A las 14:00, en el receso de la tarde —después de la prueba de química de la mañana, a la que Watanabe entró con la cara de un soldado—, se me acercó Ono.
+A las 14:00, en el receso de la tarde, después de la prueba de química de la mañana (a la que Watanabe entró con la cara de un soldado), se me acercó Ono.
 
 Ono es un chico de 3-C, de la fila de adelante, que es flaco, que juega tenis, que tiene la voz de un locutor de radio y el cuerpo de un locutor de radio, y que en el último año se ha pasado tres veces a mi escritorio con el cuaderno de química abierto en la primera página. Esta era la cuarta.
 

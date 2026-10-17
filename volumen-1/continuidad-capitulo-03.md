@@ -127,4 +127,15 @@
 
 ---
 
-*Autorrevisado por A. M. el 16 de octubre de 2026. El capítulo no se toca más hasta que Chuy diga.*
+## 6. Enmienda del 16 de octubre de 2026 — la regla del renglón largo
+
+Por petición de Chuy, se revisó el capítulo completo. Se localizaron **3 usos narrativos** del renglón largo y se corrigieron:
+
+| Línea | Antes | Ahora |
+|---|---|---|
+| 205 y 471 | «Si cualquiera de mis hijas —Ichika, Nino, Miku, Yotsuba o Itsuki— reprueba un examen» | paréntesis (en las dos apariciones de la cláusula IV) |
+| 499 | «ninguno de los seis —los cinco pares de zapatos y yo— cumplió nunca» | comas |
+
+**Resultado:** 0 renglones largos fuera de diálogo. Los bloques horarios (`### 12:35`) ya estaban limpios.
+
+*Enmendado por A. M. el 16 de octubre de 2026.*

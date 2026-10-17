@@ -202,7 +202,7 @@ Y los leyó.
 
 > **III.** El instructor no tiene trato con mis hijas fuera del departamento. No hay salidas, no hay llamadas, no hay mensajes fuera del horario.
 
-> **IV.** Si cualquiera de mis hijas —Ichika, Nino, Miku, Yotsuba o Itsuki— reprueba un examen, este contrato termina ese mismo día.
+> **IV.** Si cualquiera de mis hijas (Ichika, Nino, Miku, Yotsuba o Itsuki) reprueba un examen, este contrato termina ese mismo día.
 
 > **V.** Esto es un empleo, no una familia.
 
@@ -468,7 +468,7 @@ Lo que no entendí fue qué.
 
 ---
 
-> **IV.** Si cualquiera de mis hijas —Ichika, Nino, Miku, Yotsuba o Itsuki— reprueba un examen, este contrato termina ese mismo día.
+> **IV.** Si cualquiera de mis hijas (Ichika, Nino, Miku, Yotsuba o Itsuki) reprueba un examen, este contrato termina ese mismo día.
 
 ---
 
@@ -496,7 +496,7 @@ Un señor que trabaja de noche, con la ciudad encendida detrás de un vidrio, y 
 
 Esa era la quinta, dicha con las palabras que no se escriben.
 
-Y esa fue la que ninguno de los seis —los cinco pares de zapatos y yo— cumplió nunca.
+Y esa fue la que ninguno de los seis, los cinco pares de zapatos y yo, cumplió nunca.
 
 ---
 
