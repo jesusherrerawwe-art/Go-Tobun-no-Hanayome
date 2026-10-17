@@ -624,6 +624,10 @@ El señor Nakano se quedó viendo el respaldo del asiento del chofer.
 
 "Sí."
 
+Y no preguntó nada más.
+
+Eso es lo que me acuerdo mejor de esa noche, y es la cosa que no le he contado a nadie: que un hombre se acababa de enterar de que su hija de diecisiete años trabajaba desde los quince en la televisión, y no preguntó dónde, ni desde cuándo, ni cuánto, ni por qué. Tenía la palabra en la boca y no la masticó. La palabra le supo a una cosa de cuando ella era chiquita.
+
 Y ahí se rio. Se rio una sola vez, corto, sin ninguna gracia, y se pasó la mano por la barba.
 
 "Cuando era chiquita", dijo, "se ponía mis zapatos y hacía de mí. Caminaba por la sala con el portafolio de cartón y decía *tengo una junta, tengo una junta*. Y las otras cuatro se morían de risa."

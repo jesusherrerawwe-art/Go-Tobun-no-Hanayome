@@ -12,7 +12,7 @@
 | **Archivo** | `volumen-1/capitulo-08-fuera-de-cuadro.md` |
 | **Título** | «Fuera de cuadro» |
 | **Fechas** | **Lunes 8 al viernes 12 de mayo de 2017 · días 15 a 19** |
-| **Extensión** | **8,052 palabras** (acumulado del tomo: **51,101**) |
+| **Extensión** | **8,135 palabras** (acumulado del tomo: **51,184**) |
 | **Diseño** | **Seis tomas** con línea de escena de guion (INT./EXT., lugar, momento). Cierra con **CORTE** |
 | **Qué hace** | Devuelve a Ichika, instala la amenaza de la cláusula IV y convierte su mentira en un papel que cambia de dueño |
 | **Cierre** | Ichika baja los peces sola y se queda con el de la cola |
@@ -68,6 +68,7 @@
 | **Se ríe con la boca cerrada** | ✅ Cuando la abandona la risa lo hace mal y se tapa; pero con Ichika se ríe **dos veces con la boca abierta** y se da cuenta. Es la hermana con la que se le escapa |
 | **«Está bien»** | ✅ Aparece en boca del padre («Está bien»), no de Jesús. Jesús **no la gasta** aquí |
 | **Nunca dice «en mi país»** | ✅ 0 apariciones |
+| **El padre y la actriz (decisión 20)** | ✅ Jesús se lo dice **a la cara** y el padre **no lo oye**: no pregunta dónde, ni desde cuándo, ni cuánto. La palabra le suena a un juego de la infancia. **La bomba es del volumen 2** |
 | **El ajolote** | No aparece: el capítulo ocurre casi entero fuera de casa de Jesús |
 | **Nino: crueldad en cinco tiempos** | ✅ **No se gasta.** Aquí Nino es la que ve todo y calla: es la única que sabe que el padre firmó un papel y la única que le dice a Jesús «si ya lo hubiera decidido, sería como él» |
 | **El «gracias» cargado de Nino** | ✅ **Sigue reservado.** El de este capítulo es de Ichika, dos veces, y la segunda nadie la entiende |
