@@ -471,7 +471,7 @@ Se detuvo de verdad, en el aire, con media cebolla a medio cortar, y yo vi los h
 
 Yo me quedé viendo la tabla.
 
-"Eso que acabas de decir", dije "tiene nombre."
+"Eso que acabas de decir", dije, "tiene nombre."
 
 "Yo no necesito nombres."
 
@@ -637,7 +637,7 @@ Ebata tenía los ojos en el semáforo y las dos manos en el volante, y en la luz
 
 Ebata aceleró con toda la calma del mundo.
 
-"Ése", dijo "se lo tomó."
+"Ése", dijo, "se lo tomó."
 
 "¿Y por qué no me lo dijo antes?"
 
