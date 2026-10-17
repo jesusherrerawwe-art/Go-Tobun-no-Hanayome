@@ -95,6 +95,7 @@
 - **Nada entra al manuscrito sin hoja de continuidad.** La cláusula 2 del pacto: verdad antes que flores.
 - **Cada capítulo tiene su carta antes de su prosa.** Si Chuy pide saltarla, se salta; el método no se negocia, pero el cliente manda.
 - **El renglón largo (—) es exclusivo de los diálogos** (regla de Chuy, 16 de octubre de 2026): la narración usa comas, dos puntos, paréntesis y puntos suspensivos. **El motivo es técnico, no estético:** el celular de Chuy no dibuja el glifo, y cuando la raya cae entre dos palabras, al desaparecer se lleva el espacio y las fusiona. Rige en **todo el tomo**, incluidos los capítulos 1-3 (corregidos el 16-oct).
+- **El capítulo 1 está en formato de comillas inglesas** (16-oct-2026, a petición de Chuy, para probar la lectura en su celular). Es el único: los capítulos 2-6 siguen con renglón largo. Si la prueba funciona, se convierten todos y esta nota se actualiza.
 - **Verificación obligatoria antes de dar un capítulo por bueno:** `python3 tools/verificar-estilo.py`. Revisa cuatro cosas: rayas en la narración, rayas que fusionan palabras (`casa—por`), caracteres invisibles (espacios duros, finos, BOM, guion suave) y otros guiones tipográficos (–, ―, −).
 - **El lore sellado manda.** `docs/lore-oficial-jesus-fujioka.md` está por encima de cualquier documento anterior, y la biblia de la obra original está por encima de todos nosotros.
 

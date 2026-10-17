@@ -78,6 +78,11 @@ def revisar(path):
             if car in linea:
                 problemas.append((n, f'GUION PROHIBIDO: {nombre}', linea.strip()[:110]))
 
+        # Regla 5: comillas dobles desbalanceadas en una línea.
+        # (El capítulo 1 usa comillas inglesas para el diálogo; los demás, renglón largo.)
+        if linea.count('"') % 2:
+            problemas.append((n, 'COMILLAS DESBALANCEADAS', linea.strip()[:110]))
+
     return problemas
 
 

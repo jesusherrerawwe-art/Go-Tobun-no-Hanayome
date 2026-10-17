@@ -16,11 +16,11 @@ Afuera ya había luz. En abril, en esta parte de Aichi, el sol sale antes de que
 
 El techo de mi cuarto es blanco y liso. No tiene manchas, no tiene grietas, no tiene nada. Mi cuarto tampoco. Una cama, un buró, una lámpara, un clóset con las puertas cerradas y un bulto del tamaño de un gato al pie de la cama, que se movió cuando me moví yo.
 
-—Nobu.
+"Nobu."
 
 El bulto levantó una oreja. Luego la otra. Nobunaga tiene las orejas más grandes que su cabeza y a nadie le ha quedado claro nunca de qué razas salió, ni a él le importa.
 
-—Solo te estaba saludando —le dije—. Duérmete.
+"Solo te estaba saludando", le dije. "Duérmete."
 
 Volvió a acostarse con un suspiro de gente grande. Ese perro pesa cinco kilos y suspira como si pagara renta.
 
@@ -58,11 +58,11 @@ Y ahí se cortó, porque en la vida de mi mamá todo se corta cuando ella se va 
 
 Me quedé un momento con el teléfono en la mano. Luego apreté el botón de grabar.
 
-—Buenos días, ma. Ya desayuné, todo bien, el Nobo... el Nobo está...
+"Buenos días, ma. Ya desayuné, todo bien, el Nobo... el Nobo está..."
 
 Borré.
 
-—Buenos días, ma. Ya desayuné y todo bien. El Nobo está bien también. La caja...
+"Buenos días, ma. Ya desayuné y todo bien. El Nobo está bien también. La caja..."
 
 Borré.
 
@@ -70,7 +70,7 @@ Respiré. Miré el cereal. Miré la hora: 6:41.
 
 Me puse de pie, puse la taza en el fregadero, me limpié las manos en el pantalón y grabé la última.
 
-—Todo bien, ma. Está bien. Ánimo hoy.
+"Todo bien, ma. Está bien. Ánimo hoy."
 
 Perfecto. Sin un solo tropiezo, ni uno, como una línea escrita.
 
@@ -82,7 +82,7 @@ Así que le mando siempre el último audio. El que no dice nada. Cuando lo mand�
 
 Nobunaga llegó a la cocina arrastrando las patas, hizo su ronda de la mañana (su plato, su agua, mi tobillo) y se me quedó viendo con esa cara de perro que acaba de recordar que no ha hecho nada malo pero quiere estar seguro.
 
-—Vamos —le dije—. Al parque.
+"Vamos", le dije. "Al parque."
 
 Y no sé por qué, pero andaba contento. A veces me pasa eso en abril.
 
@@ -94,15 +94,15 @@ Nosotros vamos despacio. Nobunaga huele todo: la esquina, la llanta de la bicicl
 
 En la esquina del semáforo estaba la señora Ōta, barriendo su banqueta como si fuera una ceremonia.
 
-—¡Nobunaga-kun! —dijo, y se agachó entera, y le agarró la cara con las dos manos—. ¡Cómo estás, mi amor! ¡Mírate! ¡Mírate esas orejas!
+"¡Nobunaga-kun!", dijo, y se agachó entera, y le agarró la cara con las dos manos. "¡Cómo estás, mi amor! ¡Mírate! ¡Mírate esas orejas!"
 
 Nobunaga hizo su trabajo: se dejó querer, movió la cola, le lamió el aire a la señora en señal de afecto profesional.
 
-—Y usted, Fujioka-kun —me dijo, sin soltarle la cara al perro—, ¿cómo va la escuela?
+"Y usted, Fujioka-kun", me dijo, sin soltarle la cara al perro, "¿cómo va la escuela?"
 
-—Bien, señora. Gracias.
+"Bien, señora. Gracias."
 
-—Qué bien. Pórtese bien.
+"Qué bien. Pórtese bien."
 
 Siempre es así. Aquí hace cuatro años que la señora Ōta le aprendió el nombre al perro y me puso a mí una "u" y una "n" de propina al final del mío, como si fuera el apellido de mi familia. Y yo estoy bien con eso. De verdad. Prefiero que quieran a mi perro.
 
@@ -162,11 +162,11 @@ Abrí el cuaderno por la primera página, nada más para ver si traía nombre de
 
 Lo cerré y me lo puse bajo el brazo, junto al cuerpo, como se cargan las cosas que van a volver a su dueño.
 
-—Ya —le dije a Nobunaga, que seguía sentado, mirando hacia la salida del parque.
+"Ya", le dije a Nobunaga, que seguía sentado, mirando hacia la salida del parque.
 
 El perro no se movió.
 
-—Nobu. Ya.
+"Nobu. Ya."
 
 Se levantó, porque es un buen perro, y siguió la ruta como si todo estuviera igual que todos los días. Y todo estaba igual que todos los días: los postes, la señora del kiosco, el señor que hace tai chi con la cara de que va a pelear. Todo igual.
 
@@ -194,7 +194,7 @@ La caja es de cartón blanco, que es el color con el que empacan las cosas caras
 
 No la he abierto. El día que la abra van a ser unos zapatos o un suéter o una chaqueta perfecta, hecha a mi medida, con la etiqueta puesta, y voy a tener que contestarle un audio diciéndole que me encantó, y va a ser verdad que me encantó, y no me la voy a poner. Eso es todo lo que va a pasar. Por eso no la abro.
 
-—Ya me voy —le dije a Nobunaga.
+"Ya me voy", le dije a Nobunaga.
 
 Él se paró en la puerta y me vio ponerme los tenis de la calle (por encima de los otros, ya sé, ya sé) y le puse la cabeza en la coronilla y le dije que se portara bien, aunque yo sé que la que se porta bien es él y el que se va a portar mal soy yo.
 
@@ -234,21 +234,21 @@ El salón de 3-C está en el segundo piso, al final del pasillo, y a mí me toca
 
 A mi lado izquierdo se sienta Watanabe, que llega todos los días con el pelo mojado, todo el año, y que no puede vivir sin cantar en voz baja las canciones que pone la radio del papá, y que es la persona que más me ha hecho reír en cuatro años. Lo digo tal cual: la que más me ha hecho reír en cuatro años. Es un dato simple. La lista es corta.
 
-—Fujioka —me dijo ese viernes, tirándose en su asiento—. Examen de matemáticas.
+"Fujioka", me dijo ese viernes, tirándose en su asiento. "Examen de matemáticas."
 
-—Sí.
+"Sí."
 
-—Examen. De matemáticas. Tú te sabes las de la página como veinte, ¿va?
+"Examen. De matemáticas. Tú te sabes las de la página como veinte, ¿va?"
 
-—Sí.
+"Sí."
 
-—No es pregunta, es advertencia. —Se estiró en la silla—. Si me vuelves a dar las respuestas antes de la prueba, se me olvida cómo se hacía, y ya no sirve el examen. Necesito que me expliques la *manera*, Fujioka, no el resultado.
+"No es pregunta, es advertencia." Se estiró en la silla. "Si me vuelves a dar las respuestas antes de la prueba, se me olvida cómo se hacía, y ya no sirve el examen. Necesito que me expliques la *manera*, Fujioka, no el resultado."
 
-—Eso no se pide.
+"Eso no se pide."
 
-—¿Qué cosa?
+"¿Qué cosa?"
 
-—La manera. —Y me salió la risa esa que a mí me sale, corta, un solo golpe de aire, y se me apagó enseguida, porque siempre se me apaga enseguida—. Está bien. Hoy te explico la manera.
+"La manera." Y me salió la risa esa que a mí me sale, corta, un solo golpe de aire, y se me apagó enseguida, porque siempre se me apaga enseguida. "Está bien. Hoy te explico la manera."
 
 Watanabe se fue a molestar a alguien más y yo saqué el cuaderno de matemáticas.
 
@@ -260,23 +260,23 @@ Yo como rápido, en el escritorio, con el bento que me preparo yo y que es basta
 
 Watanabe se sentó encima del mío, como siempre.
 
-—¿Ya supiste? —dijo, con las cejas con las que trae todos los chismes.
+"¿Ya supiste?", dijo, con las cejas con las que trae todos los chismes.
 
-—¿Qué cosa?
+"¿Qué cosa?"
 
-—Lo de las Nakano.
+"Lo de las Nakano."
 
-—¿Las Nakano?
+"¿Las Nakano?"
 
-—Las quintillizas Nakano. Del A. —Dijo "del A" como se dice "del Madrid"—. Las idénticas, Fujioka, las cinco. Que ya no les va a dar clases el tutor. Que se le acabó y que el papá —el del hospital, el señor Nakano— les anda buscando otro.
+"Las quintillizas Nakano. Del A." Dijo 'del A' como se dice 'del Madrid'. "Las idénticas, Fujioka, las cinco. Que ya no les va a dar clases el tutor. Que se le acabó y que el papá, el del hospital, el señor Nakano, les anda buscando otro."
 
 Y ahí fue cuando la chica dos mesas más adelante, Sugimoto, que nunca habla conmigo, se volteó un poco y dijo la palabra:
 
-—Otra vez.
+"Otra vez."
 
-—Otra vez —repitió Watanabe—. Porque ya llevan dos. ¿O fueron tres? Ya llevan dos tutores y los dos salieron malos. Qué onda con esa familia. Piénsalo: cinco, cinco exámenes, cinco boletas, y una casa donde nadie les ayuda.
+"Otra vez", repitió Watanabe. "Porque ya llevan dos. ¿O fueron tres? Ya llevan dos tutores y los dos salieron malos. Qué onda con esa familia. Piénsalo: cinco, cinco exámenes, cinco boletas, y una casa donde nadie les ayuda."
 
-—Pobres —dijo Sugimoto, y siguió con su pan.
+"Pobres", dijo Sugimoto, y siguió con su pan.
 
 Yo no dije nada.
 
@@ -288,35 +288,35 @@ A las 14:00, en el receso de la tarde, después de la prueba de química de la m
 
 Ono es un chico de 3-C, de la fila de adelante, que es flaco, que juega tenis, que tiene la voz de un locutor de radio y el cuerpo de un locutor de radio, y que en el último año se ha pasado tres veces a mi escritorio con el cuaderno de química abierto en la primera página. Esta era la cuarta.
 
-—Fujioka. No entiendo nada de moles.
+"Fujioka. No entiendo nada de moles."
 
-—Ven.
+"Ven."
 
 Los moles son un problema de nombres. La gente que inventó los moles los bautizó en italiano, y luego los tradujo al japonés, y luego los metió en un libro que te dice que seis con cero veintitrés por diez a la veintitrés es igual a un mol, y tú lees eso y dices bueno, y en realidad no dijiste nada.
 
 Yo lo hice con la mano, en el aire, entre los dos escritorios.
 
-—¿Cuántas piezas trae una docena?
+"¿Cuántas piezas trae una docena?"
 
-—Doce.
+"Doce."
 
-—¿Y una docena de qué?
+"¿Y una docena de qué?"
 
 Ono se quedó pensando. En serio se quedó pensando, y a mí esa es la parte que me gusta: verlos pensar.
 
-—De lo que sea.
+"De lo que sea."
 
-—De canicas, de tortillas, de clavos. Doce piezas. Un mol es exactamente la misma idea que la docena, nada más que en grande: no te dice cuánto pesa, te dice cuántas piezas. Ya está. Cuando el problema te dice "moles", el problema te está preguntando cuántas piezas, no cuánto. Y si el problema te pregunta cuánto, vas a usar el número de la tabla, que es el peso de UNA pieza. Una, chiquita. Como si pesaras un cacahuate y después vieras cuántos vas a comprar.
+"De canicas, de tortillas, de clavos. Doce piezas. Un mol es exactamente la misma idea que la docena, nada más que en grande: no te dice cuánto pesa, te dice cuántas piezas. Ya está. Cuando el problema te dice 'moles', el problema te está preguntando cuántas piezas, no cuánto. Y si el problema te pregunta cuánto, vas a usar el número de la tabla, que es el peso de UNA pieza. Una, chiquita. Como si pesaras un cacahuate y después vieras cuántos vas a comprar."
 
 Ono se quedó con el lápiz en el aire.
 
-—Órale.
+"Órale."
 
-—Sí.
+"Sí."
 
-—¿Y por qué no lo escriben así? —dijo, con el libro en la mano—. ¿Por qué escriben seis punto cero dos por diez a la...
+"¿Y por qué no lo escriben así?", dijo, con el libro en la mano. "¿Por qué escriben seis punto cero dos por diez a la..."
 
-—Porque quien escribió el libro ya sabe la respuesta, y a los que ya saben la respuesta se les olvida cómo se sentía no saberla.
+"Porque quien escribió el libro ya sabe la respuesta, y a los que ya saben la respuesta se les olvida cómo se sentía no saberla."
 
 Ono se rio. Yo también, un poco, con la boca cerrada, que es como me río cuando hay gente.
 
@@ -326,7 +326,7 @@ No me acuerdo de haber pensado nada más.
 
 Y en el pasillo, cuando ya iba hacia la escalera, alguien me llamó por mi apellido.
 
-—Fujioka.
+"Fujioka."
 
 ---
 
