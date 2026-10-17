@@ -12,7 +12,7 @@
 | **Obra** | *The Fujioka Variable* — novela ligera *slice of life* + *ecchi* de situación, en el universo de *Go-Tōbun no Hanayome* |
 | **Protagonista** | Jesús Fujioka Hernández (藤岡 ヘスス) |
 | **Este tomo** | Volumen 1: **15 capítulos** + prólogo y epílogo de tomo *(Chuy decidió el 16/10/2026 partir el capítulo 1 en dos: el capítulo 1 era de ~8,000 palabras y el corte natural existía. El Volumen 2 definirá su número cuando lleguemos)* |
-| **Extensión** | Capítulos de **4,500 palabras para arriba** (meta fijada con Chuy); el tomo apunta a **~65,000-70,000 palabras** — el tamaño de una novela ligera japonesa publicada. Escritos: cap. 1: 4,619 · cap. 2: 3,429 · cap. 3: 5,698 · cap. 4: 7,557 |
+| **Extensión** | Capítulos de **4,500 palabras para arriba** (meta fijada con Chuy); el tomo apunta a **~65,000-70,000 palabras** — el tamaño de una novela ligera japonesa publicada. Escritos: cap. 1: 4,619 · cap. 2: 3,429 · cap. 3: 5,698 · cap. 4: 7,557 · cap. 5: 6,343 |
 | **Cierre del tomo** | Victoria + grieta + gancho al verano *(aprobado por Chuy)* |
 | **Persona narrativa** | **Primera persona de Jesús** + interludios en tercera *(aprobado por Chuy)* |
 | **Marco temporal** | **El "día 2000"** *(aprobado por Chuy el 16/10/2026)*: el día 1 será el **lunes 24 de abril de 2017** —el día en que Jesús entra a la casa de las Nakano— y el día 2000 caerá el **14-15 de octubre de 2022**. El lector camina hacia una boda sin saber de quién. Desde el capítulo 3, cada capítulo se encabeza con su número de día (día 1 = 24-abr-2017); los capítulos 1 y 2 llevan solo la fecha, porque son los días *antes* del día 1 |
@@ -40,6 +40,9 @@
 | `carta-capitulo-04.md` | La carta del capítulo 4: el capítulo con forma de plan de clase y el reparto de la primera clase | ✅ Escrita |
 | `capitulo-04-la-regla-de-tres.md` | **Capítulo 4 — «La regla de tres»** (el día 2: la primera clase, el vaso de té, el curry y los cinco papeles) | ✅ Escrito — 7,557 palabras |
 | `continuidad-capitulo-04.md` | Hoja de continuidad del capítulo 4 (15 correcciones, el hallazgo de la tabla canónica, preparación Wattpad y 12 semillas) | ✅ Escrita |
+| `carta-capitulo-05.md` | La carta del capítulo 5: el capítulo de las cinco hojas, una sección por hermana | ✅ Escrita |
+| `capitulo-05-lo-que-no-se-disuelve.md` | **Capítulo 5 — «Lo que no se disuelve»** (el día 3: el horario imposible, el cronómetro, la línea de tiempo y el 5 de mayo) | ✅ Escrito — 6,343 palabras |
+| `continuidad-capitulo-05.md` | Hoja de continuidad del capítulo 5 (13 correcciones, la Golden Week de 2017, Okehazama y las glicinas) | ✅ Escrita |
 
 ## 4. Decisiones que se tomaron al abrir el tomo
 
