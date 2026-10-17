@@ -106,6 +106,8 @@
 - ⏳ **Ichika** vuelve el 8 de mayo. Se le cae la máscara pronto.
 - ⏳ **El prólogo**, el motivo final del trabajo, la promesa del tartamudeo, la cuarta risa.
 
+**Aclaración sobre el objeto del cumpleaños:** la carta del capítulo 6 proponía «una glicina», y Chuy la aprobó. Pero hay una cosa que hay que decidir al escribir el 7 y no antes: **¿dónde ocurre?** El festival dura hasta el 5 de mayo, sí; pero si Jesús está en el parque con ellas, está rompiendo la cláusula III al mismo tiempo que la II, y eso son dos roturas en la misma noche. O se elige una, o se asume que esa noche se rompe todo. Mi voto: **fuera del parque.** Una glicina que alguien se trajo a casa, en el hueco de la mano.
+
 ---
 
 ## 8. Cronología interna (actualizada)
