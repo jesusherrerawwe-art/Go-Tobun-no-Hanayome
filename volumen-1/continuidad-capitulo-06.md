@@ -89,9 +89,18 @@
 
 ---
 
-## 7. Pendientes
+## 7. Las dos decisiones de Chuy (16-oct-2026, tras el capítulo 6)
 
-- ⏳ **El 5 de mayo**: quién, qué y cómo se rompe la cláusula II (Chuy ya decidió que se rompe; falta el objeto y la mano).
+| # | Decisión | Consecuencia |
+|---|---|---|
+| 1 | **Lo llaman LAS CUATRO**, no una | El capítulo 7 abre con las cuatro juntas en la oscuridad, y con él sin saber qué cara poner. Y hay una que **no** lo llamó, y todos lo van a notar. |
+| 2 | **El objeto del 5 de mayo es una glicina** | La que cae del techo del parque y alguien recoge del suelo. *«Eso no es un regalo, es algo que se cayó»* — y por eso la cláusula II se rompe sin que ninguno de los seis lo haga a propósito. **La primera cláusula que se rompe en este libro la rompe una flor.** |
+
+**Nota de escritora sobre la decisión 2:** llevo seis capítulos diciendo que la cláusula II es la primera que va a caer, y ahora ya sé cómo cae: no cae por rebeldía, cae **por accidente y por belleza**. Y ésa es la única manera en que una regla escrita por un hombre cansado puede romperse sin que él quede como un villano ni ellas como unas desobedientes.
+
+## 8. Pendientes (actualizado)
+
+- ⏳ **El 5 de mayo:** quién recoge la glicina y a quién se la pone en la mano (mi voto: **Yotsuba**, porque es la que ya lo invitó y la que ya le mintió a su hermana por él; y así la ruptura tiene dueña).
 - ⏳ **El motivo de la ruptura Yotsuba-Nino** (el cuaderno).
 - ⏳ **La Golden Week del 3 al 5:** ¿hay clase o no? Jesús ha asumido que no; puede estar equivocado, y eso sería una buena escena.
 - ⏳ **Ichika** vuelve el 8 de mayo. Se le cae la máscara pronto.

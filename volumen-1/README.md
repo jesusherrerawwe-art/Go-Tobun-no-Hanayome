@@ -83,6 +83,13 @@
 | 9 | **El 5 de mayo alguien le da algo y él lo recibe** | La cláusula II se rompe y la rompe una de ellas, no él |
 | 10 | **Ichika es actriz y su padre no lo sabe** | Dos secretos en uno: la escuela y la casa |
 
+**Y dos más, del mismo 16 de octubre (después del capítulo 6):**
+
+| # | Decisión | Consecuencia |
+|---|---|---|
+| 11 | **Lo llaman las cuatro** en el apagón del festival | El capítulo 7 abre con las cuatro en la oscuridad. Y hay una que no lo llamó |
+| 12 | **El objeto del 5 de mayo es una glicina** | *«No es un regalo, es algo que se cayó.»* La primera cláusula que se rompe la rompe una flor |
+
 ## 5. Reglas de esta carpeta
 
 - **Nada entra al manuscrito sin hoja de continuidad.** La cláusula 2 del pacto: verdad antes que flores.
