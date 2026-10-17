@@ -12,7 +12,7 @@
 | **Archivo** | `volumen-1/capitulo-07-cinco-peces-iguales.md` |
 | **Título** | «Cinco peces iguales» |
 | **Fechas** | **Domingo 30 de abril al viernes 5 de mayo de 2017 · días 7 a 12** |
-| **Extensión** | **9,336 palabras** (acumulado del tomo: **42,958**) |
+| **Extensión** | **9,360 palabras** (acumulado del tomo: **42,982**) |
 | **Diseño** | Siete secciones encabezadas con el nombre real de cada día festivo japonés, y una cuenta regresiva dentro del 5 de mayo (6:40 · 7:15 · 9:30 · 11:30 · 19:00 · 21:00) |
 | **Regla de Chuy** | ✅ **Comillas inglesas desde el primer borrador.** Cero rayas. Verificador en verde |
 | **Qué hace** | Rompe la **cláusula II**, cumple los años de las cinco, le da a Jesús su primer acto de creación, y pone al padre a mirar desde la calle |
