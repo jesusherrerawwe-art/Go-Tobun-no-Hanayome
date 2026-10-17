@@ -14,7 +14,7 @@
 | **Fechas** | **Jueves 27 de abril de 2017 · día 4** y **sábado 29 de abril · día 6** |
 | **Extensión** | **5,806 palabras** (acumulado del tomo: **33,452**) |
 | **Diseño** | Siete pasos de un curry (下ごしらえ · 炒める · 煮込む · ルウを溶かす · 隠し味 · 仕上げ · 一晩置く). Cada paso es una escena; el último paso es literal: **dejar reposar** |
-| **Regla de Chuy** | ✅ Renglón largo exclusivo de diálogos. **0 violaciones** (los encabezados usan punto medio, no raya) |
+| **Regla de Chuy** | ✅ Escrito con renglón largo en los diálogos (0 violaciones en su momento). **Convertido a comillas dobles inglesas el 17 de octubre**, cuando Chuy revirtió la regla. Ver §9 |
 | **Qué hace** | Cierra la puerta del festival, abre la primera grieta en Nino, le da a Jesús su primer secreto ajeno, y lo hace desobedecer por primera vez |
 | **Cierre** | Una voz en la oscuridad, después de que se apagaron las luces |
 
@@ -129,3 +129,16 @@
 ---
 
 *Autorrevisado por A. M. el 16 de octubre de 2026.*
+
+---
+
+## 9. Nota de la conversión (17-oct-2026)
+
+Este capítulo nació con el **renglón largo** (—) en los diálogos, porque esa era la regla el 16 de octubre. El 17 por la mañana Chuy la revirtió con una razón técnica que no admite discusión: **el glifo no se dibuja en su celular y las palabras se le pegan**.
+
+- Convertido a **comillas dobles inglesas**, con la acotación después de la coma: `"Solo te estaba saludando", le dije.`
+- Las acotaciones a media línea (`—le dije—`) se pasaron a `, le dije. "`.
+- **Cero rayas** en el archivo. Verificado con `tools/verificar-estilo.py`.
+- Los encabezados siguen usando punto medio (·), que no es raya y no se ve afectado por la regla.
+
+*Aplicado a los seis capítulos anteriores y a este. El 7 se escribió directo en comillas.*
