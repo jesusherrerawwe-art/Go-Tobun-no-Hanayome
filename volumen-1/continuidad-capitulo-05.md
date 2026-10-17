@@ -97,13 +97,24 @@
 
 ---
 
-## 7. Pendientes
+## 7. Las tres decisiones de Chuy (16-oct-2026, tras el capítulo 5)
 
-- ⏳ El puesto exacto de **Futaro**: dónde estaba, qué vio y qué no vio de esta primera semana. Se decide en su escena.
+| # | Decisión | Consecuencia |
+|---|---|---|
+| 1 | **Yotsuba lo invita de verdad al festival** (insiste hasta que acepta) | El capítulo 6 ya tiene motor: no es un accidente, es un acto de voluntad de la hermana que menos mide las consecuencias. Y eso **la va a poner en el camino de Nino**: la que invita al maestro a la única noche que la familia no está trabajando es la que ya le mintió a su hermana por él. |
+| 2 | **El 5 de mayo se rompe la cláusula II: alguien le da algo y él lo recibe** | La primera cláusula que se rompe es la que puso el padre. **No la rompe él: la rompe una de ellas**, y él acepta. Hay que decidir qué es y quién lo da; mi voto está en la nota de abajo. |
+| 3 | **Ichika es actriz de verdad** — audiciones, clases, y **su padre no lo sabe** | El canon la hace actriz; aquí la diferencia es que Maruo **no** lo sabe, así que ese trabajo es dos secretos al mismo tiempo: el de ella con la escuela y el de ella con la casa. Y Jesús, que oyó la voz de la escalera, **ya lo sabe sin saber que lo sabe**. |
+
+**Nota de escritora sobre la decisión 2 (mi voto, para que Chuy lo apruebe o lo rompa):** lo que recibe debe ser **pequeño y terrible**: no un regalo de cumpleaños, sino una cosa que no se puede devolver. Y mi candidata es **una glicina**: la que cae del techo del parque, la que alguien recoge del suelo y le pone en la mano porque *eso no es un regalo, es algo que se cayó*. Es la única forma que se me ocurre de romper la cláusula sin que ninguno de los seis lo haga a propósito, y es exacta al tipo de historia que estamos escribiendo.
+
+## 8. Pendientes (actualizado)
+
+- ⏳ El puesto exacto de **Futaro**: dónde estaba, qué vio y qué no vio de esta primera semana.
 - ⏳ **El motivo de la ruptura Yotsuba-Nino** (el cuaderno: ¿qué hay en él que Nino no puede ver?).
-- ⏳ **El festival del 5 de mayo**: quién va, cómo vuelve, y qué pasa con la cláusula II.
-- ⏳ **La Golden Week del 3 al 5**: ¿clases canceladas, o el festival, o las dos cosas?
-- ⏳ **El trabajo de Ichika** (¿qué es, y cuándo se le cae la máscara a Jesús?).
+- ⏳ **Quién le da la cosa del 5 de mayo** y qué es exactamente (mi voto: la glicina; §7).
+- ⏳ **El festival:** cómo lo invita Yotsuba, quién se entera, y cómo vuelve a casa antes de las nueve.
+- ⏳ **La Golden Week del 3 al 5**: el festival dura hasta el 5, así que las tres tardes de fiesta pueden ser las tres tardes de la historia.
+- ⏳ **Ichika:** cuándo Jesús averigua del todo que es actriz, y qué hace con eso.
 - ⏳ El prólogo del volumen; el motivo final del trabajo; la promesa del tartamudeo; la cuarta risa.
 
 ---

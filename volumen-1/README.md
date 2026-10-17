@@ -72,6 +72,14 @@
 | 6 | **La primera mitad del cuaderno del parque es de Yotsuba** | El cuaderno tiene dos manos: la suya y la del tutor anterior. Jesús tiene, en un cajón, una cosa de ella. |
 | 7 | **Los capítulos 1, 2 y 3 no se tocan** | La regla del renglón largo rige desde el capítulo 4 |
 
+**Y tres más de Chuy, del mismo 16 de octubre (después del capítulo 5):**
+
+| # | Decisión | Consecuencia |
+|---|---|---|
+| 8 | **Yotsuba lo invita de verdad** al festival de las glicinas | El capítulo 6 no es un accidente: es la hermana que no mide las consecuencias |
+| 9 | **El 5 de mayo alguien le da algo y él lo recibe** | La cláusula II se rompe y la rompe una de ellas, no él |
+| 10 | **Ichika es actriz y su padre no lo sabe** | Dos secretos en uno: la escuela y la casa |
+
 ## 5. Reglas de esta carpeta
 
 - **Nada entra al manuscrito sin hoja de continuidad.** La cláusula 2 del pacto: verdad antes que flores.
