@@ -133,9 +133,9 @@ Su nudo dramático, revelado en la temporada 2 (ep. 6): en el colegio Kurobara, 
 | Rasgo distintivo | Melena larga ondulada, *ahoge* y **horquillas de estrellas** |
 | Trabajo (3er año) | Ayudante de maestra en una academia (*cram school*) |
 
-La más cercana a la madre fallecida: la que **visita su tumba el día 14 de cada mes** (el aniversario mensual de su muerte) y la que hereda su vocación: quiere ser **maestra**, sueño que la película corona con Itsuki ejerciendo en el epílogo. seria, aplicada y desastrosa en los estudios ("estudia mucho, entiende poco"), habla siempre con keigo (discurso formal) — rasgo que comparte solo con Yotsuba hacia afuera de la familia.
+La más cercana a la madre fallecida: la que **visita su tumba el día 14 de cada mes** (el aniversario mensual de su muerte) y la que hereda su vocación: quiere ser **maestra**, sueño que la película corona con Itsuki ejerciendo en el epílogo. Seria, aplicada y desastrosa en los estudios ("estudia mucho, entiende poco"), habla siempre con keigo (discurso formal) — rasgo que comparte solo con Yotsuba hacia afuera de la familia.
 
-Es la **primera hermana que Futaro conoció** (la del encuentro desastroso en la cafetería, temporada 1 ep. 1), la única compañera de clase original, y la que más tiempo tarda en aceptarlo. Su carácter tiene capas escondidas: glotona empedernida (come hasta en la casa pobre de los Uesugi), cobarde de fantasmas y de cine de terror, y con una vena **"M・A・Y"**: crítica de dulces semi-anónima que es celebrities en la industria de la confitería japonesa. Por el abandono de su padre biológico (Mudō) es recatada con los hombres; en la película es **la única de las cinco que no besa a Futaro**: su cierre es la docencia, el perdón familiar y la frase que sella la temporada 2: "ya no eres nuestro tutor; eres nuestro amigo".
+Es la **primera hermana que Futaro conoció** (la del encuentro desastroso en la cafetería, temporada 1 ep. 1), la única compañera de clase original, y la que más tiempo tarda en aceptarlo. Su carácter tiene capas escondidas: glotona empedernida (come hasta en la casa pobre de los Uesugi), cobarde de fantasmas y de cine de terror, y con una vena **"M・A・Y"**: crítica de dulces semianónima que la volvió celebridad en la industria de la confitería japonesa. Por el abandono de su padre biológico (Mudō) es recatada con los hombres; en la película es **la única de las cinco que no besa a Futaro**: su cierre es la docencia, el perdón familiar y la frase que sella la temporada 2: "ya no eres nuestro tutor; eres nuestro amigo".
 
 ---
 
@@ -143,7 +143,7 @@ Es la **primera hermana que Futaro conoció** (la del encuentro desastroso en la
 
 | Dato | Detalle |
 |---|---|
-| Seiyuu (niña) | 京花優希 (la fuente oficial lista solo kanji) |
+| Seiyuu (crédito «niña» de la T2 / Rena adulta) | Kyōka Yūki (京花優希) |
 | Identidad canónica | **Yotsuba** (revelado por Itsuki en la temporada 2, ep. 11; confirmado en la película) |
 
 La figura clave (*key person*) de todo el relato. En el viaje de estudios de primaria a Kioto, esta niña conoció a Futaro rubio, lo impulsó a tomarse en serio los estudios y posó con él en la foto de dos que él guardará doblada en su libreta por años. Cuando un Futaro desmoralizado duda de seguir como tutor (temporada 2, ep. 3), la chica reaparece ya de adolescente, se hace llamar **"Rena"** —el nombre de pila de su difunta madre, **Rena Nakano (中野零奈)**—, toma la foto y se despide para liberarlo del pasado. El nombre prestado de la madre es el doblez central del misterio: por eso Futaro no atina a relacionarla con ninguna de las cinco.

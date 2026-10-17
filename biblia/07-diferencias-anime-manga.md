@@ -38,6 +38,7 @@ Correspondencia verificada (fuente JP: tabla anime-manga):
 | 11 | 28–29 | |
 | 12 | 30–32 | Incluye el ending especial ごぶんのいち, regalo anime-original |
 
+- Nota de precisión: los rangos de esta tabla son exactos en los bloques, aproximados en las fronteras (el cap. 22 se reparte entre los episodios 8 y 9, y el 25 entre el 9 y el 10).
 - El único reordenamiento relevante de la temporada: los capítulos 13–14 del manga (el retrato de Yotsuba la ayudante nata y "la foto del inicio", base del recuerdo de Kioto) se movieron al episodio 8 para que el arco de la foto coincidiera con la revelación del episodio.
 - La recepción japonesa del final (ep. 12) celebró que siguió "al manga tal cual" hasta la escena de la boda futura y las cinco tomadas de la mano: la temporada 1 es la más literal de todas.
 
@@ -106,7 +107,7 @@ Todo lo demás del manga (113 de 122 capítulos) llegó animado en alguna de las
 ## 7. Diferencias de producción (no de trama)
 
 - **Estudio:** Tezuka (T1, animación muy criticada en su momento) → Bibury (T2 y película) → Shaft (∽) → Bibury (＊).
-- **Diseño de personajes:** Michinori Nakamura (T1) → Masato Katsumata (desde T2, fiel al trazo de Haruba).
+- **Diseño de personajes:** 中村路之将 y 雅楽雅 (T1; romanización pendiente de verificar) → Masato Katsumata (desde T2, fiel al trazo de Haruba).
 - **Composición de serie:** Keiichirō Ōchi firmó TODO (temporadas, especiales y película): la continuidad de guion es una sola mano, lo que explica que los cortes nunca rompan el canon.
 - El ∽ de Shaft tiene un *look* visualmente distinto (dirección de arte y co-diseño propios) dentro de la misma continuidad.
 
@@ -129,6 +130,6 @@ Todo lo demás del manga (113 de 122 capítulos) llegó animado en alguna de las
 - [Comi-pass: hasta dónde llega cada obra](https://comi-pass.jp/go-toubun-anime/) — verificación de los límites (T2 hasta el cap. 86; película desde el 87)
 - [Wikipedia JP: 五等分の花嫁](https://ja.wikipedia.org/wiki/五等分の花嫁) — staff de todos los bloques (estudios, directores, themes de ∽), fechas de emisión del ∽ (TBS, 2 y 9 de septiembre de 2023)
 - [Lisani (2023)](https://www.lisani.jp/0000236120/) — confirmación de las fechas de emisión del especial ∽
-- [Foros y coberturas JP (gamer.com.tw, reseñas de YouTube)](2024) — confirmación del ＊ como historia nueva con 原案 de Haruba (luna de miel, 5.º proyecto del aniversario)
+- Foros y coberturas JP (gamer.com.tw, reseñas de YouTube, 2024) — confirmación del ＊ como historia nueva con 原案 de Haruba (luna de miel, 5.º proyecto del aniversario)
 
 > *Documento verificado el 15 de octubre de 2026. El mapeo por episodios y los cortes fueron cotejados entre dos tablas japonesas independientes (jikorich y programming-cafe) más Comi-pass; los límites exactos de los episodios 3–4 y el destino del cap. 73 varían ligeramente entre fuentes, y así se indica en el texto. Como parte de esta verificación se detectó que las secciones 3 y 4 de esta biblia tenían los límites de capítulos de la T2 y la película desplazados (T2: correcto hasta el cap. 86; película: desde el 87), y ambas fueron corregidas en el repositorio. Los datos marcados "verificado" fueron cruzados en al menos dos fuentes independientes.*

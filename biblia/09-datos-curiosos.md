@@ -56,7 +56,7 @@ En mayo–junio de 2020 (entre el final del anime de TV y el anuncio de la pelí
 ## 5. Curiosidades del anime y la película
 
 - **Una sola voz para las cinco**: en el comercial de TV y el PV del tomo 1 del manga, las cinco quintillizas fueron dobladas por **una sola seiyuu — Ayane Sakura** (la voz de Yotsuba). El anime las repartió entre cinco actrices estrella.
-- **La voz del pasado es una sola persona**: 京花優希 pone voz a la niña de la foto, a Rena (la madre, en los recuerdos) y a Takebayashi — tres personajes del pasado de Futaro.
+- **La voz del pasado es una sola persona**: Kyōka Yūki (京花優希) pone voz a Rena (la madre, en los recuerdos) y a Takebayashi, y acredita además un papel de «niña» (女の子) en la temporada 2 — el reparto trata el pasado de Futaro como una sola memoria continua.
 - El anime se vendió desde el inicio con la cuenta regresiva: la temporada 1 se promocionaba como "la historia de **los 2,000 días antes de la boda**" (y su episodio final se titula 結びの伝説2000日目, "El día 2000 de la leyenda del vínculo").
 - La temporada 1 fue el **anime #3 del invierno 2019** en Japón.
 - Cuando la película cruzó los mil millones de yenes de recaudación, la cifra que la cuenta oficial eligió celebrar fue la de **555,555 asistentes**. El "5" es la religión de la casa.

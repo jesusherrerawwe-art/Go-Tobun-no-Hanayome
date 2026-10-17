@@ -18,6 +18,10 @@
 | Guion | Keiichirō Ōchi (大知慶一郎) |
 | Diseño de personajes | Masato Katsumata (勝又聖人) |
 | Dirección de arte | Akihito Ōgiyama (扇山秋仁) |
+| Diseño de color | Aiko Matsuyama (松山愛子) |
+| Dirección de fotografía | Daisuke Chiba (千葉大輔) |
+| Edición | Mutsumi Takemiya (武宮むつみ) |
+| Dirección de sonido | Hajime Takakuwa (髙桑一) |
 | Música | Hanae Nakamura (中村巴奈重) y Miki Sakurai (櫻井美希) |
 | Capítulos de manga adaptados | Los **tomos 11–14** (capítulos 87–122), el final del manga; los caps. 91–93 los cubre el especial de TV ∽ (2023) |
 
@@ -38,7 +42,7 @@
 ## 3. Producción y estreno
 
 - **Marzo de 2021**, con el final de la temporada 2 al aire, TBS anunció que una secuela estaba en producción; en **abril de 2021** se confirmó que sería una **película** que adaptaría los últimos cuatro tomos del manga.
-- En **octubre de 2021** se anunció a Pony Canyon como distribuidora; en **diciembre de 2021** se reveló el equipo (Jinbo, Ōchi, Katsumata, Ōgiyama, Matsuyama, Chiba, Takemiya) y la fecha de estreno (comunicado de Natalie del 30 de diciembre).
+- En **octubre de 2021** se anunció a Pony Canyon como distribuidora; el **30 de diciembre de 2021** (comunicado de Natalie) se revelaron el equipo y la fecha de estreno: **Masato Jinbo** (dirección), **Keiichirō Ōchi** (guion), **Masato Katsumata** (diseño de personajes), **Akihito Ōgiyama** (dirección de arte), **Aiko Matsuyama** (diseño de color), **Daisuke Chiba** (dirección de fotografía) y **Mutsumi Takemiya** (edición).
 - **Estreno internacional:** Crunchyroll la llevó fuera de Asia y Medio Oriente a partir del **31 de octubre de 2022** (Lucca Comics & Games, Italia); Australia/Nueva Zelanda el 1 de diciembre, Estados Unidos/Canadá el 2, Reino Unido/Irlanda el 7. El reparto del doblaje al inglés se anunció en octubre de 2022.
 - **Streaming:** Crunchyroll desde el 27 de abril de 2023; Amazon Prime Video Japón desde el 1 de mayo de 2023.
 

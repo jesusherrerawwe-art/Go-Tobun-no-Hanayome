@@ -1,4 +1,4 @@
-# Sección 10: Mestizos y Extranjeros en Japón (ブロック hāfu)
+# Sección 10: Mestizos y Extranjeros en Japón (hāfu)
 
 > **Biblia del universo *Go-Tōbun no Hanayome*** — Documento de referencia para el escritor de *The Fujioka Variable*. 🇲🇽❤️🇯🇵
 > Sección de cierre: el contexto real que hace posible (y con sentido) escribir mestizaje dentro de este universo.
