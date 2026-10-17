@@ -12,7 +12,7 @@
 | **Obra** | *The Fujioka Variable* — novela ligera *slice of life* + *ecchi* de situación, en el universo de *Go-Tōbun no Hanayome* |
 | **Protagonista** | Jesús Fujioka Hernández (藤岡 ヘスス) |
 | **Este tomo** | Volumen 1: **15 capítulos** + prólogo y epílogo de tomo *(Chuy decidió el 16/10/2026 partir el capítulo 1 en dos: el capítulo 1 era de ~8,000 palabras y el corte natural existía. El Volumen 2 definirá su número cuando lleguemos)* |
-| **Extensión** | Capítulos de **4,500 palabras para arriba** (meta fijada con Chuy); el tomo apunta a **~65,000-70,000 palabras** — el tamaño de una novela ligera japonesa publicada. Escritos: cap. 1: 4,619 · cap. 2: 3,429 · cap. 3: 5,698 · cap. 4: 7,557 · cap. 5: 6,343 · cap. 6: 5,806 · cap. 7: 9,427 · cap. 8: 8,135 |
+| **Extensión** | Capítulos de **4,500 palabras para arriba** (meta fijada con Chuy); el tomo apunta a **~65,000-70,000 palabras** — el tamaño de una novela ligera japonesa publicada. Escritos: cap. 1: 4,619 · cap. 2: 3,429 · cap. 3: 5,698 · cap. 4: 7,557 · cap. 5: 6,343 · cap. 6: 5,806 · cap. 7: 9,427 · cap. 8: 8,135 · cap. 9: 7,524 |
 | **Cierre del tomo** | Victoria + grieta + gancho al verano *(aprobado por Chuy)* |
 | **Persona narrativa** | **Primera persona de Jesús** + interludios en tercera *(aprobado por Chuy)* |
 | **Marco temporal** | **El "día 2000"** *(aprobado por Chuy el 16/10/2026)*: el día 1 será el **lunes 24 de abril de 2017** —el día en que Jesús entra a la casa de las Nakano— y el día 2000 caerá el **14-15 de octubre de 2022**. El lector camina hacia una boda sin saber de quién. Desde el capítulo 3, cada capítulo se encabeza con su número de día (día 1 = 24-abr-2017); los capítulos 1 y 2 llevan solo la fecha, porque son los días *antes* del día 1 |
@@ -52,6 +52,9 @@
 | `carta-capitulo-08.md` | La carta del capítulo 8: Ichika vuelve, el papel en blanco y la firma falsa | ✅ Escrita |
 | `capitulo-08-fuera-de-cuadro.md` | **Capítulo 8 — «Fuera de cuadro»** (los días 15 a 19: el regreso de Ichika, los seis lugares y el permiso de ausencia) | ✅ Escrito — 8,135 palabras |
 | `continuidad-capitulo-08.md` | Hoja de continuidad del capítulo 8 (10 correcciones, el jimusho, la firma y 10 semillas) | ✅ Escrita |
+| `carta-capitulo-09.md` | La carta del capítulo 9: los cinco simulacros y la fecha límite | ✅ Escrita |
+| `capitulo-09-lealo-senor.md` | **Capítulo 9 — «Léalo, señor»** (días 22 a 26: los simulacros, la cerilla y las dos firmas) | ✅ Escrito — 7,524 palabras |
+| `continuidad-capitulo-09.md` | Hoja de continuidad del capítulo 9 (9 correcciones, el trámite real y 9 semillas) | ✅ Escrita |
 
 ## 4. Decisiones que se tomaron al abrir el tomo
 
