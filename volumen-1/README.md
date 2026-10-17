@@ -12,7 +12,7 @@
 | **Obra** | *The Fujioka Variable* — novela ligera *slice of life* + *ecchi* de situación, en el universo de *Go-Tōbun no Hanayome* |
 | **Protagonista** | Jesús Fujioka Hernández (藤岡 ヘスス) |
 | **Este tomo** | Volumen 1: **15 capítulos** + prólogo y epílogo de tomo *(Chuy decidió el 16/10/2026 partir el capítulo 1 en dos: el capítulo 1 era de ~8,000 palabras y el corte natural existía. El Volumen 2 definirá su número cuando lleguemos)* |
-| **Extensión** | Capítulos de **4,500 palabras para arriba** (meta fijada con Chuy); el tomo apunta a **~65,000-70,000 palabras** — el tamaño de una novela ligera japonesa publicada. Escritos: cap. 1: 4,619 · cap. 2: 3,429 · cap. 3: 5,698 · cap. 4: 7,557 · cap. 5: 6,343 · cap. 6: 5,806 · cap. 7: 9,427 · cap. 8: 8,135 · cap. 9: 7,524 |
+| **Extensión** | Capítulos de **4,500 palabras para arriba** (meta fijada con Chuy); el tomo apunta a **~65,000-70,000 palabras** — el tamaño de una novela ligera japonesa publicada. Escritos: cap. 1: 4,619 · cap. 2: 3,429 · cap. 3: 5,698 · cap. 4: 7,557 · cap. 5: 6,343 · cap. 6: 5,806 · cap. 7: 9,427 · cap. 8: 8,135 · cap. 9: 7,540 · cap. 10: 6,195 |
 | **Cierre del tomo** | Victoria + grieta + gancho al verano *(aprobado por Chuy)* |
 | **Persona narrativa** | **Primera persona de Jesús** + interludios en tercera *(aprobado por Chuy)* |
 | **Marco temporal** | **El "día 2000"** *(aprobado por Chuy el 16/10/2026)*: el día 1 será el **lunes 24 de abril de 2017** —el día en que Jesús entra a la casa de las Nakano— y el día 2000 caerá el **14-15 de octubre de 2022**. El lector camina hacia una boda sin saber de quién. Desde el capítulo 3, cada capítulo se encabeza con su número de día (día 1 = 24-abr-2017); los capítulos 1 y 2 llevan solo la fecha, porque son los días *antes* del día 1 |
@@ -55,6 +55,8 @@
 | `carta-capitulo-09.md` | La carta del capítulo 9: los cinco simulacros y la fecha límite | ✅ Escrita |
 | `capitulo-09-lealo-senor.md` | **Capítulo 9 — «Léalo, señor»** (días 22 a 26: los simulacros, la cerilla y las dos firmas) | ✅ Escrito — 7,524 palabras |
 | `continuidad-capitulo-09.md` | Hoja de continuidad del capítulo 9 (9 correcciones, el trámite real y 9 semillas) | ✅ Escrita |
+| `capitulo-10-el-minimo-es-cuarenta.md` | **Capítulo 10 — «El mínimo es cuarenta»** (días 28 a 33: los exámenes, la pelea y las notas) | ✅ Escrito — 6,195 palabras |
+| `continuidad-capitulo-10.md` | Hoja de continuidad del capítulo 10 (15 correcciones, las notas y el 赤点) | ✅ Escrita |
 
 ## 4. Decisiones que se tomaron al abrir el tomo
 
@@ -115,6 +117,10 @@
 | 17 | **Ichika ve los peces sola, desde la calle, a las 5:40 del lunes** | Espejo con su padre, que los vio desde el mismo lugar el viernes. Y como actriz, es la única que lee el ojo en la cola como una decisión |
 | 18 | **El horario nuevo la incluye desde el primer día, y es ella la que falta** | La pelea no es por el lugar en la hoja: es por el tiempo. Y la cláusula IV existe |
 | 19 | **La mentira de Ichika no se cae: cambia de dueño** | El padre le firma un papel en blanco a Jesús. Y una de las once firmas de la carpeta es falsa |
+| 21 | **Las cinco aprueban** | *(Chuy, 17-oct.)* Victoria limpia. Yotsuba pasa por un punto en japonés y por dos en matemáticas |
+| 22 | **Nino confronta a Yotsuba delante de todas** | *(Chuy, 17-oct.)* La pelea del lunes 22 en la mesa. Se gasta la crueldad en cinco tiempos |
+| 23 | **El señor Nakano aparece en la escuela el día del examen** | *(Chuy, 17-oct.)* Se queda en el coche, sube al vestíbulo, ve el tablero y **no sabe en qué salón está su hija** |
+
 | 20 | **El señor Nakano NO se entera de que Ichika es actriz en el tomo 1** | *(Chuy, 17-oct: "El segundo".)* En el cap. 8 se le dice a la cara y **no lo oye**: la palabra le suena a un juego de cuando era chiquita y no pregunta nada. La bomba es del volumen 2 |
 
 ## 5. Reglas de esta carpeta

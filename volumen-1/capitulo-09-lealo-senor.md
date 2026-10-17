@@ -172,7 +172,7 @@ Y después hizo una cosa que no esperaba: se le pusieron los ojos brillantes.
 
 "¿Cuánto necesitas para pasar?"
 
-"Setenta."
+"Cuarenta. Eso es lo que pide la escuela." Se quedó mirando la hoja. "Setenta me puse yo."
 
 "Entonces..."
 
