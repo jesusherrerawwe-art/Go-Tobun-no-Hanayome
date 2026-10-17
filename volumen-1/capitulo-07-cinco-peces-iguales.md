@@ -330,7 +330,7 @@ Y ahí me trabé.
 
 Es una cosa que me pasa. Iba a decir *desde siempre*, que es lo que digo cuando no quiero explicar, y la palabra se me quedó en la garganta como se queda una piedra en la boca de una botella, y yo hice el ruido ese que hago, el que no es una palabra, y empecé otra vez.
 
-"Desde... desde que..."
+Empecé tres veces. Las tres veces la palabra se me quedó donde estaba.
 
 "¿Eh?", dijo mi abuela, del otro lado, y siguió hablando encima de mí, como sigue hablando la gente cuando el otro lado del teléfono es nada más un ruido. "Ay, mi niño, se oye bien feo. ¿Estás enfermo? ¿Comiste?"
 
@@ -338,7 +338,9 @@ Es una cosa que me pasa. Iba a decir *desde siempre*, que es lo que digo cuando 
 
 "¿Qué coses?"
 
-"Unos... unos peces."
+Me trabé otra vez, un poquito, y la palabra salió al segundo intento.
+
+"Unos peces."
 
 "¿Peces?"
 

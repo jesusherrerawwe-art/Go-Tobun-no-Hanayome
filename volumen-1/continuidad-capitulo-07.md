@@ -12,7 +12,7 @@
 | **Archivo** | `volumen-1/capitulo-07-cinco-peces-iguales.md` |
 | **Título** | «Cinco peces iguales» |
 | **Fechas** | **Domingo 30 de abril al viernes 5 de mayo de 2017 · días 7 a 12** |
-| **Extensión** | **9,360 palabras** (acumulado del tomo: **42,982**) |
+| **Extensión** | **9,382 palabras** (acumulado del tomo: **43,004**) |
 | **Diseño** | Siete secciones encabezadas con el nombre real de cada día festivo japonés, y una cuenta regresiva dentro del 5 de mayo (6:40 · 7:15 · 9:30 · 11:30 · 19:00 · 21:00) |
 | **Regla de Chuy** | ✅ **Comillas inglesas desde el primer borrador.** Cero rayas. Verificador en verde |
 | **Qué hace** | Rompe la **cláusula II**, cumple los años de las cinco, le da a Jesús su primer acto de creación, y pone al padre a mirar desde la calle |
@@ -31,7 +31,7 @@
 
 ---
 
-## 3. Autorrevisión: las 29 correcciones
+## 3. Autorrevisión: las 31 correcciones
 
 Las primeras nueve son de calendario y de aritmética, y son las que un lector de Aichi habría visto en la primera línea.
 
@@ -66,6 +66,25 @@ Las primeras nueve son de calendario y de aritmética, y son las que un lector d
 | 27 | La flor prensada «estaba tibia de la mano de ella» | **«Olía al libro»** | Llevaba seis días entre dos páginas |
 | 28 | «El tendedero de alambre… y el alambre» | Solo el alambre | Redundancia |
 | 29 | «Es la parte de la mañana» | «Es la primera parte de la mañana» | Se entendía mal |
+| 30 | `"Desde... desde que..."` | **«Empecé tres veces. Las tres veces la palabra se me quedó donde estaba.»** | **Regla de hierro 1 del lore: el tartamudeo NUNCA se transcribe.** Se cuenta con el cuerpo y el tiempo |
+| 31 | `"Unos... unos peces."` | **«Me trabé otra vez, un poquito, y la palabra salió al segundo intento.»** | Misma regla. Era la única otra transcripción del tomo |
+
+---
+
+## 3 bis. El tartamudeo: mapa de apariciones en el capítulo
+
+Regla firmada (`docs/lore-oficial-jesus-fujioka.md` §2): **solo en español**, empeora con la carga emocional, **nunca se transcribe**, nunca es comedia, nunca se explica. Al cantar, al maldecir, al leer en voz alta, al hablar japonés y con el perro: **fluido**.
+
+| Momento | Qué pasa | Qué significa |
+|---|---|---|
+| La llamada a la abuela (jue 4, 19:00) | «Empecé tres veces. Las tres veces la palabra se me quedó donde estaba.» La abuela habla encima de él y no lo oye | La abuela cree que no lo nota. Lo notó el primer día |
+| La grosería con la tercera aguja | «Me salió perfecta, sin un tropiezo» | Excepción canónica: el lenguaje automático |
+| La boca abierta antes de cantar | «Y no salió nada.» Tres segundos de silencio. Yotsuba abre la boca para ayudarlo y **Nino se lo impide con la mano** | §2.5 del lore, literal: Yotsuba completa frases por instinto; Nino, después del arco, **le da tiempo** |
+| «Las Mañanitas» | «Y no me trabé.» Explicación explícita del mecanismo | La única vez que esa casa lo oye hablar español, lo oye cantando |
+| La explicación de la letra | «Y ahí me tragué otra vez… Y después lo dije en japonés.» | El cambio al japonés cuando está conmovido: «como se pasa al lado de la acera cuando viene un coche» |
+| «Está bien» (con Yotsuba, en el pasillo) | Dicho **perfecto**, y el narrador lo señala | Su frase más peligrosa es la que dice sin tropiezo |
+
+**Decisión de dosificación:** tres tropiezos en 9,382 palabras, todos en español y todos con testigo. Es el capítulo del tomo donde más aparece, y es el primero en que **las cinco lo ven**. Por eso Nino frena a Yotsuba: el gesto es la prueba de que ya aprendió a esperarlo.
 
 ---
 
