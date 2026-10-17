@@ -12,7 +12,7 @@
 | **Obra** | *The Fujioka Variable* — novela ligera *slice of life* + *ecchi* de situación, en el universo de *Go-Tōbun no Hanayome* |
 | **Protagonista** | Jesús Fujioka Hernández (藤岡 ヘスス) |
 | **Este tomo** | Volumen 1: **15 capítulos** + prólogo y epílogo de tomo *(Chuy decidió el 16/10/2026 partir el capítulo 1 en dos: el capítulo 1 era de ~8,000 palabras y el corte natural existía. El Volumen 2 definirá su número cuando lleguemos)* |
-| **Extensión** | Capítulos de **4,500 palabras para arriba** (meta fijada con Chuy); el tomo apunta a **~65,000-70,000 palabras** — el tamaño de una novela ligera japonesa publicada. Escritos: cap. 1: 4,619 · cap. 2: 3,429 · cap. 3: 5,698 · cap. 4: 7,557 · cap. 5: 6,343 · cap. 6: 5,806 |
+| **Extensión** | Capítulos de **4,500 palabras para arriba** (meta fijada con Chuy); el tomo apunta a **~65,000-70,000 palabras** — el tamaño de una novela ligera japonesa publicada. Escritos: cap. 1: 4,619 · cap. 2: 3,429 · cap. 3: 5,698 · cap. 4: 7,557 · cap. 5: 6,343 · cap. 6: 5,806 · cap. 7: 9,336 |
 | **Cierre del tomo** | Victoria + grieta + gancho al verano *(aprobado por Chuy)* |
 | **Persona narrativa** | **Primera persona de Jesús** + interludios en tercera *(aprobado por Chuy)* |
 | **Marco temporal** | **El "día 2000"** *(aprobado por Chuy el 16/10/2026)*: el día 1 será el **lunes 24 de abril de 2017** —el día en que Jesús entra a la casa de las Nakano— y el día 2000 caerá el **14-15 de octubre de 2022**. El lector camina hacia una boda sin saber de quién. Desde el capítulo 3, cada capítulo se encabeza con su número de día (día 1 = 24-abr-2017); los capítulos 1 y 2 llevan solo la fecha, porque son los días *antes* del día 1 |
@@ -46,6 +46,9 @@
 | `carta-capitulo-06.md` | La carta del capítulo 6: el capítulo con forma de receta de curry | ✅ Escrita |
 | `capitulo-06-el-sabor-escondido.md` | **Capítulo 6 — «El sabor escondido»** (el día 4 y el día 6: la cucharadita de Nino y el festival de las glicinas) | ✅ Escrito — 5,806 palabras |
 | `continuidad-capitulo-06.md` | Hoja de continuidad del capítulo 6 (la reestructura del festival, el curry real y las 10 semillas) | ✅ Escrita |
+| `carta-capitulo-07.md` | La carta del capítulo 7: el cumpleaños, los cinco peces y la flor que rompe la cláusula II | ✅ Escrita |
+| `capitulo-07-cinco-peces-iguales.md` | **Capítulo 7 — «Cinco peces iguales»** (los días 7 a 12: la Golden Week, el cumpleaños, la glicina y el padre en la calle) | ✅ Escrito — 9,336 palabras |
+| `continuidad-capitulo-07.md` | Hoja de continuidad del capítulo 7 (29 correcciones, koinobori, el día 2000 y 13 semillas) | ✅ Escrita |
 
 ## 4. Decisiones que se tomaron al abrir el tomo
 
@@ -89,6 +92,15 @@
 |---|---|---|
 | 11 | **Lo llaman las cuatro** en el apagón del festival | El capítulo 7 abre con las cuatro en la oscuridad. Y hay una que no lo llamó |
 | 12 | **El objeto del 5 de mayo es una glicina** | *«No es un regalo, es algo que se cayó.»* La primera cláusula que se rompe la rompe una flor |
+
+**Y cuatro más de Chuy, del 17 de octubre de 2026 (antes del capítulo 7):**
+
+| # | Decisión | Consecuencia |
+|---|---|---|
+| 13 | **El regalo son cinco koinobori de seda**, hechos con las muestras de la madre de Jesús | Cinco peces **del mismo tamaño**, sin negro y sin rojo. Los ojos los ponen ellas |
+| 14 | **Jesús canta «Las Mañanitas»** en el cumpleaños | Es la primera vez que esa casa lo oye hablar español, y lo oye cantando, que es cuando no tropieza |
+| 15 | **El señor Nakano aparece al final**, en la calle, mirando los peces desde abajo | Pregunta por qué no hay negro. Y dice «Ella siempre sí» |
+| 16 | **La glicina la guardó Yotsuba desde el festival** | Seis días prensada en un libro de historia. Llega seca, y por eso pesa menos y duele más |
 
 ## 5. Reglas de esta carpeta
 
