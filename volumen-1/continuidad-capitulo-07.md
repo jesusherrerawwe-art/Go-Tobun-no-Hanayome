@@ -12,7 +12,7 @@
 | **Archivo** | `volumen-1/capitulo-07-cinco-peces-iguales.md` |
 | **Título** | «Cinco peces iguales» |
 | **Fechas** | **Domingo 30 de abril al viernes 5 de mayo de 2017 · días 7 a 12** |
-| **Extensión** | **9,382 palabras** (acumulado del tomo: **43,004**) |
+| **Extensión** | **9,427 palabras** (acumulado del tomo: **43,049**) |
 | **Diseño** | Siete secciones encabezadas con el nombre real de cada día festivo japonés, y una cuenta regresiva dentro del 5 de mayo (6:40 · 7:15 · 9:30 · 11:30 · 19:00 · 21:00) |
 | **Regla de Chuy** | ✅ **Comillas inglesas desde el primer borrador.** Cero rayas. Verificador en verde |
 | **Qué hace** | Rompe la **cláusula II**, cumple los años de las cinco, le da a Jesús su primer acto de creación, y pone al padre a mirar desde la calle |
@@ -31,7 +31,7 @@
 
 ---
 
-## 3. Autorrevisión: las 31 correcciones
+## 3. Autorrevisión: las 46 correcciones
 
 Las primeras nueve son de calendario y de aritmética, y son las que un lector de Aichi habría visto en la primera línea.
 
@@ -70,6 +70,29 @@ Las primeras nueve son de calendario y de aritmética, y son las que un lector d
 | 31 | `"Unos... unos peces."` | **«Me trabé otra vez, un poquito, y la palabra salió al segundo intento.»** | Misma regla. Era la única otra transcripción del tomo |
 
 ---
+
+
+**Tercera ronda (la de la física y la aritmética).** Estas salieron de releer con calculadora en la mano.
+
+| # | Lo que estaba | Lo que quedó | Por qué |
+|---|---|---|---|
+| 32 | Muestras **«del tamaño de una tarjeta postal»** | Del tamaño de **una servilleta grande** | **Imposible:** con cinco piezas de 10 × 15 cm no se hace un pez de 62 cm. Ni con cuarenta y siete |
+| 33 | Peces de **62 × 38 cm** | **45 × 22 cm** | Cada muestra (45 × 45) se corta en dos y da justo un pez. Cinco muestras, cinco peces, cero desperdicio |
+| 34 | La tabla de medidas tenía **una fila por columna**, pero «la J seguía hasta abajo» | **Doce filas en la J** (una por año, de 2002 a enero de 2013) y **una sola en la H** | Coherencia. Y el dibujo es más triste: la madre llevaba doce años midiéndolo, y al padre lo midió una vez |
+| 35 | «Espalda 44, pecho 51» para un adulto | **Pecho 102, cintura 90** | 51 cm de pecho es talla de niño de seis años |
+| 36 | «Puso **cinco** lugares y quitó uno» | **Seis** lugares | Eran cinco a la mesa: las cuatro hermanas y Jesús |
+| 37 | «Las velas apagadas **menos una**» | **Las cinco apagadas** | Nino ya había apagado la quinta con los dedos dos páginas antes |
+| 38 | «La abuela… me lo había dicho **la semana anterior**» | **El día anterior** | La llamada fue el jueves 4. La escena es el viernes 5 |
+| 39 | «En el **pasillo del cuarto**» | **En su cuarto** | Habían entrado dos pasos |
+| 40 | «Era **el único** que estaba mal» (el ojo de Jesús) | **El único que estaba mal de verdad** | El de Yotsuba también estaba fuera de lugar |
+| 41 | «Un poco más arriba de **donde iba**» | **De donde debía ir** | Se entendía mal |
+| 42 | «La máquina **en las rodillas**» | **La máquina delante** | La Juki es de mesa, no de regazo |
+| 43 | «La camiseta se le movió y **la harina se levantó en una nube**» | **Se le desprendió del antebrazo** | La harina estaba en el antebrazo, no en la ropa |
+| 44 | «Como había contado el horario la primera semana» | **«Como cuentan los niños que todavía no se fían de los números»** | **Esa escena no existe.** Referencia falsa |
+| 45 | «El pizarrón de esa **sala**» | «El pizarrón de esa **casa**» | El pizarrón está en el pasillo (cap. 5) |
+| 46 | «En ese **comedor**» | «En esa **sala**» | Un solo espacio en toda la escena |
+
+**Y una corrección fuera del capítulo, en `docs/jesus-familia-y-casa.md`:** la ficha decía que el padre «trajo a la familia en 2011» y que murió «un año después», y situaba la tumba en Aichi. Las tres cosas contradecían el lore firmado y el manuscrito entero, que dice **cuatro años en Japón** (caps. 1, 2, 3, 4 y 7). Corregido: el padre se fue delante a instalarse, **murió en México a principios de 2013**, y la familia se mudó a Japón ese mismo año. La máquina de coser cruzó el mar en ese contenedor. De ahí los cuatro años.
 
 ## 3 bis. El tartamudeo: mapa de apariciones en el capítulo
 

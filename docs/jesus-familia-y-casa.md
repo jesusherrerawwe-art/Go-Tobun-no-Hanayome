@@ -41,13 +41,13 @@ Empezando por la más incómoda, que es mía:
 
 ### 2.1 El padre
 
-**藤岡 エクトル — Héctor Fujioka Camarena (1975–2013).** Ingeniero de procesos de Guadalajara. La empresa japonesa para la que trabajaba lo transfirió a la planta del cinturón industrial de Aichi. **Trajo a la familia en 2011. Murió un año después, cuando Jesús tenía once.**
+**藤岡 エクトル — Héctor Fujioka Camarena (1975–2013).** Ingeniero de procesos de Guadalajara. La empresa japonesa para la que trabajaba lo transfirió a la planta del cinturón industrial de Aichi, y él se fue delante, solo, a instalarse. **Murió en México a principios de 2013, cuando Jesús tenía once años.** La familia se mudó a Japón ese mismo año, invitada por los abuelos maternos: la madre, el niño y un contenedor con la máquina de coser, la carpeta de muestras y dos cajas de telas que nunca se abrieron.
 
 Lo que esto le hace al personaje, en cadena:
 
 1. **El saco beige ya no es un regalo: es un testamento.** "Talla para que te dure" — comprado por un hombre que no sabía que no iba a ver al niño gastarlo. **Jesús lleva la ropa de su padre muerto y no se queja de que le quede grande.** Yo no voy a subrayar esto nunca: lo va a entender todo el que haya perdido a alguien.
-2. **No puede odiar a Japón.** Ese es el nudo: el país donde no encaja es el país donde está enterrado su papá. *(Decisión pendiente: ¿dónde está la tumba? Mi voto, y duele: **en Aichi.** Por eso se quedaron. Por eso él no se va.)*
-3. **La mudanza y la muerte son la misma cosa.** Llegó a un país sin idioma a los diez; un año después, sin el adulto que lo trajo. Todo su arte social nació ahí, en ese hueco.
+2. **No puede odiar a Japón, y eso lo enreda más.** El país donde no encaja no es donde está su papá: su papá está **enterrado en México**, al otro lado del mar, y él no puede ir. Así que no puede odiar Japón porque ahí está su madre y su vida, y no puede volver a México porque ahí está la tumba y no hay nada más.
+3. **La mudanza y la muerte son la misma cosa.** Llegó a un país sin idioma a los doce, ya sin el adulto que había traído a la familia. Todo su arte social nació ahí, en ese hueco.
 4. Y algo que me importa: **el papá no fue un villano ni un santo.** Fue un hombre que hizo lo que creyó mejor y murió. Sin culpas repartidas, el duelo es más limpio y más triste.
 
 ### 2.2 La madre
@@ -128,9 +128,9 @@ Un protagonista acaudalado que no valora el dinero, no presume y no compra nada 
 
 Mira las fechas, Chuy:
 
-- Jesús nace el **2 de noviembre de 2001**. Llega a Japón a los 10 → **2011**.
+- Jesús nace el **2 de marzo de 2001**. Llega a Japón a los 12 → **2013**, meses después de la muerte de su padre.
 - *Pokémon Conquest* sale en Occidente el **18 de junio de 2012** — **él tiene 10 años**.
-- Su padre muere **cuando él tiene 11** → entre noviembre de 2012 y noviembre de 2013.
+- Su padre muere **cuando él tiene 11** → entre marzo de 2012 y marzo de 2013. **Enero o febrero de 2013**, en México.
 
 **O sea: el juego que le dio el nombre a su perro pertenece al último año de vida de su papá.**
 

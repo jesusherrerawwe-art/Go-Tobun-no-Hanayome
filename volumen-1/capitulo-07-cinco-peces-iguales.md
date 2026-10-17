@@ -221,7 +221,7 @@ Yo me senté y las vi todas, una por una, como se ve un álbum de fotografías.
 
 Había seda.
 
-Mi mamá trabajaba con seda porque mi mamá hacía cosas caras para gente que las podía pagar, y en esa carpeta había cuarenta y siete muestras de seda de todos los colores, cada una del tamaño de una tarjeta postal, y ninguna servía para nada, porque eran muestras y las muestras no se usan: se enseñan.
+Mi mamá trabajaba con seda porque mi mamá hacía cosas caras para gente que las podía pagar, y en esa carpeta había cuarenta y siete muestras de seda de todos los colores, cada una del tamaño de una servilleta grande, de las de doblar en cuatro, y ninguna servía para nada, porque eran muestras y las muestras no se usan: se enseñan.
 
 Yo iba a usar cinco de esos cuarenta y siete pedazos de la vida de mi mamá, y con ellos iba a hacer cinco peces.
 
@@ -247,12 +247,11 @@ Adentro había una hoja cuadriculada, escrita de los dos lados, con letra de mi 
 
 Era una tabla de medidas con dos columnas. En la primera columna, arriba, había una **H**. En la segunda, arriba, había una **J**.
 
-Debajo de la **H**: espalda 44, pecho 51, cintura 46, manga 62.
-Debajo de la **J**: espalda 38, pecho 42, cintura 39, manga 44.
+Debajo de la **H**, una sola fila, con letra grande y derecha: espalda 45, pecho 102, cintura 90, manga 62.
 
-Y arriba de todo, en la esquina, la fecha: **enero de 2013**.
+Debajo de la **J**, una fila por año. Doce filas, cada una con su fecha en el margen, y las cifras subiendo de a poquito, como sube un niño. La última era de enero de 2013: espalda 38, pecho 70, cintura 62, manga 46.
 
-La columna de la **H** se acababa a la mitad. La de la **J** seguía hasta abajo, con una nota en el margen que decía *dejar dos dedos en el ruedo, que este niño crece*.
+La columna de la **H** se acababa en la primera fila. La de la **J** seguía hasta abajo, y en el margen de la última había una nota que decía *dejar dos dedos en el ruedo, que este niño crece*.
 
 Yo tenía once años en enero de 2013.
 
@@ -310,7 +309,7 @@ Era mi abuela, que llama a las siete de la tarde de Japón porque a las siete de
 
 "¿Qué haces?"
 
-Estaba con la máquina en las rodillas y el desarmador en la boca.
+Estaba con la máquina delante y el desarmador en la boca.
 
 "Cosiendo."
 
@@ -398,7 +397,7 @@ Colgó antes de que yo pudiera decir nada, que es como cuelga ella siempre.
 
 Terminé a las tres de la mañana.
 
-Cinco tubos de seda, cinco, cada uno de sesenta y dos centímetros de largo y treinta y ocho de boca, con su aro de alambre cocido en la orilla, abiertos por la cola, y sin ojos.
+Cinco tubos de seda, cinco, cada uno de cuarenta y cinco centímetros de largo y veintidós de boca, con su aro de alambre cocido en la orilla, abiertos por la cola, y sin ojos.
 
 Los puse en fila sobre la mesa de la cocina.
 
@@ -490,7 +489,7 @@ Ella abrió la bolsa y metió la mano y sacó uno, el ciruela, y lo levantó con
 
 "Son cinco."
 
-Y entonces ella se agachó y miró adentro de la bolsa, y contó con el dedo, como había contado el horario la primera semana, y cuando terminó de contar se quedó agachada un segundo más de la cuenta.
+Y entonces ella se agachó y miró adentro de la bolsa, y contó con el dedo, uno por uno, como cuentan los niños que todavía no se fían de los números, y cuando terminó de contar se quedó agachada un segundo más de la cuenta.
 
 "Son cinco", dijo.
 
@@ -558,7 +557,7 @@ Miku estaba en el piso, sentada con las piernas cruzadas y la espalda en el sof�
 
 Y Nino estaba de pie junto a la mesa.
 
-Nino tenía puesta una camiseta blanca que le quedaba grande, de esas que uno usa para dormir, y encima un delantal, y el pelo recogido en una pinza floja, y harina en el antebrazo derecho, y los brazos cruzados, y cuando yo entré por la puerta ella se enderezó de golpe y se cruzó de brazos más fuerte, y la camiseta se le movió, y la harina se le levantó en una nube chiquita, y yo miré el techo.
+Nino tenía puesta una camiseta blanca que le quedaba grande, de esas que uno usa para dormir, y encima un delantal, y el pelo recogido en una pinza floja, y harina en el antebrazo derecho, y los brazos cruzados, y cuando yo entré por la puerta ella se enderezó de golpe y se cruzó de brazos más fuerte, y la camiseta se le movió, y un poco de harina se le desprendió del antebrazo, y yo miré el techo.
 
 El techo de esa sala tiene una mancha de humedad arriba, junto a la lámpara. No se la había visto nunca. La miré con una concentración científica.
 
@@ -626,7 +625,7 @@ Y se calló.
 
 Se calló de golpe, con la boca abierta, mirando los cinco peces del mismo tamaño.
 
-Y en ese comedor, con la luz de la mañana cruzada en la mesa, cuatro personas se quedaron mirando cinco peces de tela que no se podían ordenar.
+Y en esa sala, con la luz de la mañana cruzada en la mesa, cuatro personas se quedaron mirando cinco peces de tela que no se podían ordenar.
 
 Itsuki se inclinó sobre la mesa.
 
@@ -662,7 +661,7 @@ Y después se oyó una sartén.
 
 ---
 
-El desayuno fue arroz, huevo, sopa de miso y salchichas cortadas en diagonal, y Nino lo puso en la mesa sin decir nada, y puso cinco lugares, y después se acordó y quitó uno y lo guardó en el aparador con una fuerza que se oyó desde el otro lado del cuarto.
+El desayuno fue arroz, huevo, sopa de miso y salchichas cortadas en diagonal, y Nino lo puso en la mesa sin decir nada, y puso seis lugares, y después se acordó y quitó uno y lo guardó en el aparador con una fuerza que se oyó desde el otro lado del cuarto.
 
 "¿Ya desayunó?", dijo.
 
@@ -867,7 +866,7 @@ A las once, después del pastel, Yotsuba dijo:
 
 "Faltan los ojos."
 
-Estábamos en la mesa, con los platos sucios y las migajas y las velas apagadas menos una.
+Estábamos en la mesa, con los platos sucios y las migajas y las cinco velas apagadas.
 
 "¿Qué?"
 
@@ -877,7 +876,7 @@ Estábamos en la mesa, con los platos sucios y las migajas y las velas apagadas 
 
 "¿Tiene plumón?"
 
-Y ahí me acordé de que en la mochila traía el plumón de pizarrón, el negro, el mismo con el que escribía en el pizarrón de esa sala.
+Y ahí me acordé de que en la mochila traía el plumón de pizarrón, el negro, el mismo con el que escribía en el pizarrón de esa casa.
 
 "Tengo uno", dije. "Pero es de pizarrón."
 
@@ -933,9 +932,9 @@ Y ahí los cinco peces, en la mesa, con un ojo cada uno, dejaron de ser cinco tu
 
 Y desde ese momento ya no fueron iguales.
 
-Y no se me ocurrió en ese momento, y me alegro de que no se me haya ocurrido, pero ahora que lo escribo veo que ninguno de los cinco ojos era igual a otro. El de Yotsuba era redondo y un poco más arriba de donde iba. El de Miku era chiquito y tenía una pestaña. El de Itsuki era grande y le había quedado un punto de tinta abajo, y ella lo miró y no lo borró. El de Nino era perfecto y no tenía nada de especial.
+Y no se me ocurrió en ese momento, y me alegro de que no se me haya ocurrido, pero ahora que lo escribo veo que ninguno de los cinco ojos era igual a otro. El de Yotsuba era redondo y le había quedado un poco más arriba de donde debía ir. El de Miku era chiquito y tenía una pestaña. El de Itsuki era grande y le había quedado un punto de tinta abajo, y ella lo miró y no lo borró. El de Nino era perfecto y no tenía nada de especial.
 
-Y el de Jesús, porque sí, porque yo también tuve que hacer uno, porque quedaba uno y porque Yotsuba me lo puso enfrente, era el único que estaba mal: yo le dibujé el ojo en la cola.
+Y el de Jesús, porque sí, porque yo también tuve que hacer uno, porque quedaba uno y porque Yotsuba me lo puso enfrente, era el único que estaba mal de verdad: yo le dibujé el ojo en la cola.
 
 Las cuatro se rieron de mí durante cuatro minutos.
 
@@ -1007,7 +1006,7 @@ Y después pensé lo que iba a pensar todos los días siguientes, y lo voy a esc
 
 Es una cosa de nada, una flor seca, y pesa menos que una pluma, y olía al libro.
 
-Y yo, con la flor en la mano, delante de Yotsuba, en el pasillo del cuarto, a las once y media de la mañana del cinco de mayo, me acordé de una cosa que me había dicho mi abuela por teléfono la semana anterior.
+Y yo, con la flor en la mano, delante de Yotsuba, en su cuarto, a las once y media de la mañana del cinco de mayo, me acordé de una cosa que me había dicho mi abuela por teléfono el día anterior.
 
 *Los papeles no prohíben nada, mi niño. Los papeles nomás dicen. El que prohíbe es el que firma, y ése no está aquí.*
 
